@@ -1,0 +1,18 @@
+public
+node_modules
+.quartz-cache
+
+# The Vault is content, not Quartz source; preserve its authored formatting.
+.obsidian
+00-Index
+01-Vienna
+02-Day-Trips
+70-People
+80-Routes
+90-Reference
+Templates
+assets
+content
+AGENTS.md
+FILE-LIST.md
+README.md
