@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Vienna 2026 Travel Knowledge Vault",
+    pageTitle: "וינה של שגיב",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
