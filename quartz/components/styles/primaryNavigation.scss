@@ -49,11 +49,10 @@
       display: flex;
       min-block-size: 44px;
       align-items: center;
-      gap: 0.5rem;
-      margin-inline-start: auto;
+      gap: 0.3rem;
       border: 1px solid var(--lightgray);
       border-radius: 0.4rem;
-      padding: 0.45rem 0.7rem;
+      padding: 0.35rem 0.55rem;
       background: var(--light);
       color: var(--dark);
       font: inherit;
@@ -70,6 +69,12 @@
 
     ul {
       display: none;
+      position: absolute;
+      z-index: 200;
+      inset-block-start: 100%;
+      inset-inline-end: 0;
+      inline-size: min(18rem, calc(100vw - 2rem));
+      box-sizing: border-box;
       margin-block-start: 0.5rem;
       border: 1px solid var(--lightgray);
       border-radius: 0.5rem;

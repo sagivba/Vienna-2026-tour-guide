@@ -54,7 +54,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    travelExplorer,
+    Component.DesktopOnly(travelExplorer),
   ],
   right: [
     Component.Graph(),
@@ -78,7 +78,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    travelExplorer,
+    Component.DesktopOnly(travelExplorer),
   ],
   right: [],
 }
