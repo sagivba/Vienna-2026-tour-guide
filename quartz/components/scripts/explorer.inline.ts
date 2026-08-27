@@ -24,10 +24,9 @@ function toggleExplorer(this: HTMLElement) {
   const nearestExplorer = this.closest(".explorer") as HTMLElement
   if (!nearestExplorer) return
   nearestExplorer.classList.toggle("collapsed")
-  nearestExplorer.setAttribute(
-    "aria-expanded",
-    nearestExplorer.getAttribute("aria-expanded") === "true" ? "false" : "true",
-  )
+  const expanded = nearestExplorer.getAttribute("aria-expanded") !== "true"
+  nearestExplorer.setAttribute("aria-expanded", String(expanded))
+  this.setAttribute("aria-expanded", String(expanded))
 }
 
 function toggleFolder(evt: MouseEvent) {
@@ -270,6 +269,7 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     if (mobileExplorer.checkVisibility()) {
       explorer.classList.add("collapsed")
       explorer.setAttribute("aria-expanded", "false")
+      mobileExplorer.setAttribute("aria-expanded", "false")
     }
 
     mobileExplorer.classList.remove("hide-until-loaded")
