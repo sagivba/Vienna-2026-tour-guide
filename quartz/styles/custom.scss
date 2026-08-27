@@ -34,3 +34,59 @@
     }
   }
 }
+
+// Keep responsive media and isolated technical fragments inside the article
+// column instead of allowing them to widen the page on narrow screens.
+.page #quartz-body {
+  min-inline-size: 0;
+
+  .center,
+  .center article,
+  .page-header,
+  .sidebar {
+    min-inline-size: 0;
+  }
+
+  article {
+    img,
+    video,
+    iframe {
+      max-inline-size: 100%;
+      block-size: auto;
+    }
+
+    pre,
+    table {
+      max-inline-size: 100%;
+      overflow-x: auto;
+    }
+  }
+}
+
+@media all and (max-width: 800px) {
+  .page #quartz-body {
+    inline-size: 100%;
+    box-sizing: border-box;
+
+    .sidebar.left:has(.explorer) {
+      min-block-size: 44px;
+    }
+
+    .explorer .mobile-explorer {
+      min-inline-size: 44px;
+      min-block-size: 44px;
+      justify-content: center;
+    }
+
+    .explorer .explorer-content {
+      inline-size: min(88vw, 22rem);
+      padding-inline: 1rem;
+      direction: rtl;
+      text-align: start;
+    }
+
+    .center h1 {
+      overflow-wrap: anywhere;
+    }
+  }
+}

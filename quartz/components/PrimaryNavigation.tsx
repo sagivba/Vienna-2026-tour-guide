@@ -2,6 +2,9 @@ import { FullSlug, resolveRelative } from "../util/path"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/primaryNavigation.scss"
 
+// @ts-ignore
+import script from "./scripts/primaryNavigation.inline"
+
 const navigationItems: Array<{ label: string; slug: FullSlug }> = [
   { label: "בית", slug: "index" as FullSlug },
   { label: "וינה", slug: "00-Index/Vienna" as FullSlug },
@@ -16,7 +19,18 @@ const navigationItems: Array<{ label: string; slug: FullSlug }> = [
 const PrimaryNavigation: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
   return (
     <nav class="primary-navigation" dir="rtl" aria-label="ניווט ראשי">
-      <ul>
+      <button
+        class="primary-navigation-toggle"
+        type="button"
+        aria-expanded="false"
+        aria-controls="primary-navigation-links"
+      >
+        <span>תפריט</span>
+        <svg aria-hidden="true" viewBox="0 0 24 24" width="24" height="24">
+          <path d="M4 6h16M4 12h16M4 18h16" />
+        </svg>
+      </button>
+      <ul id="primary-navigation-links">
         {navigationItems.map(({ label, slug }) => {
           const isCurrentPage = fileData.slug === slug
 
@@ -38,5 +52,6 @@ const PrimaryNavigation: QuartzComponent = ({ fileData }: QuartzComponentProps) 
 }
 
 PrimaryNavigation.css = style
+PrimaryNavigation.afterDOMLoaded = script
 
 export default (() => PrimaryNavigation) satisfies QuartzComponentConstructor

@@ -106,7 +106,12 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
           linkIndex.set(slug, {
             slug,
             filePath: file.data.relativePath!,
-            title: file.data.frontmatter?.title!,
+            // The Vault keeps stable English filenames while `name_he` is its
+            // reader-facing title metadata. Prefer it in presentation indexes
+            // (Explorer, search, backlinks) without changing the page slug.
+            title:
+              (file.data.frontmatter?.name_he as string | undefined) ??
+              file.data.frontmatter?.title!,
             links: file.data.links ?? [],
             tags: file.data.frontmatter?.tags ?? [],
             content: file.data.text ?? "",
