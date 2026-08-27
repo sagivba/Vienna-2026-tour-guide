@@ -14,8 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    // Replace when a publishing URL is configured. This task only enables local builds.
-    baseUrl: "localhost",
+    baseUrl: "sagivba.github.io/Vienna-2026-tour-guide",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
