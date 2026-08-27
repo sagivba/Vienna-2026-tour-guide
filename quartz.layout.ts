@@ -1,6 +1,26 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
+const travelExplorer = Component.Explorer({
+  title: "תוכן האתר",
+  filterFn: (node) => {
+    const hiddenTopLevel = ["Templates", "assets", "90-Reference"]
+    return node.slugSegment !== "tags" && !hiddenTopLevel.includes(node.slugSegment)
+  },
+  mapFn: (node) => {
+    const folderNames: Record<string, string> = {
+      "00-Index": "נושאים",
+      "01-Vienna": "וינה",
+      "02-Day-Trips": "טיולי יום",
+      "70-People": "אנשים",
+      "80-Routes": "מסלולים",
+      "90-Reference": "מידע מעשי",
+    }
+    const folderName = folderNames[node.slugSegment]
+    if (node.isFolder && folderName) node.displayName = folderName
+  },
+})
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
@@ -34,7 +54,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.DesktopOnly(travelExplorer),
   ],
   right: [
     Component.Graph(),
@@ -58,7 +78,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.DesktopOnly(travelExplorer),
   ],
   right: [],
 }
