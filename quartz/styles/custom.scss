@@ -1,3 +1,36 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// The Vault's reader-facing content is Hebrew. Keep directionality in the
+// presentation layer so the Markdown remains portable to Obsidian.
+.page #quartz-body .center {
+  direction: rtl;
+  text-align: start;
+
+  article {
+    ul,
+    ol {
+      padding-inline-start: 2rem;
+      padding-inline-end: 0;
+    }
+
+    li:has(> input[type="checkbox"]) {
+      padding-inline-start: 0;
+    }
+
+    // Isolate links so punctuation in URLs and mixed-script labels does not
+    // affect the surrounding Hebrew sentence.
+    a {
+      unicode-bidi: isolate;
+    }
+
+    // Technical content keeps its intrinsic left-to-right reading order.
+    code,
+    pre,
+    kbd,
+    samp {
+      direction: ltr;
+      text-align: start;
+      unicode-bidi: isolate;
+    }
+  }
+}
