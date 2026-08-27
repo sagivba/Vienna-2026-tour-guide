@@ -14,8 +14,19 @@ Quartz requires a `content/` directory. The entries in `content/` are symbolic l
 ## Build locally
 
 ```sh
-npm install
+npm ci
 npx quartz build
 ```
 
 The generated site is written to `public/`, which is intentionally ignored by Git.
+
+## GitHub Pages deployment
+
+Pushes to `main` and manual runs of the **Deploy Quartz to GitHub Pages** workflow build
+the site with Node.js 20 and publish only `public/` through GitHub Pages. The configured
+`baseUrl` includes the repository name because this is a project site served from
+`https://sagivba.github.io/Vienna-2026-tour-guide/` rather than the domain root.
+
+In the GitHub repository, select **Settings → Pages → Build and deployment → Source →
+GitHub Actions** before the first deployment. No custom domain or repository secret is
+required.
