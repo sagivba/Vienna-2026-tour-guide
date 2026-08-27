@@ -1,0 +1,49 @@
+---
+type: place
+name: Fuschlsee
+name_he: אגם פושל
+name_local: Fuschlsee
+status: possible-stop
+content_status: first-complete-build
+tags: [place, salzkammergut, lake, nature]
+hero_image:
+  provider: wikimedia_commons
+  storage: remote
+  file: "Fuschlsee - panoramio.jpg"
+  remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Fuschlsee%20-%20panoramio.jpg?width=1600"
+  source_page: "https://commons.wikimedia.org/wiki/File:Fuschlsee%20-%20panoramio.jpg"
+  author: "Kakao45"
+  license: "CC BY-SA 3.0"
+  license_url: "https://creativecommons.org/licenses/by-sa/3.0/"
+  verified: 2026-08-27
+---
+# אגם פושל (Fuschlsee) - אגם אלפיני צלול באזור זלצקמרגוט
+
+![אגם פושל (Fuschlsee)](https://commons.wikimedia.org/wiki/Special:FilePath/Fuschlsee%20-%20panoramio.jpg?width=1600)
+
+*צילום: Kakao45. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fuschlsee%20-%20panoramio.jpg). רישיון: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).*
+
+
+אגם אלפיני ממזרח לזלצבורג, מוקף יערות והרים. הוא ידוע במים צלולים ובגוון טורקיז בימים מתאימים.
+
+## למה המים נראים כך
+
+צלילות גבוהה, עומק, החזרי אור והסביבה ההררית משפיעים על הצבע. אין צורך לייחס כל גוון כחול ל"מינרלים מיוחדים" בלי מקור. לפעמים פיזיקה אופטית עושה עבודה יפה גם בלי סיפור שיווקי.
+
+## טבע
+
+שולי האגם משלבים יער, אזורי חוף ומרחבים מיושבים. אפשר לצפות לעופות מים ולצמחיית חוף, אך רמת המפגש תלויה מאוד במקום העצירה.
+
+
+## הסיפור
+
+אגם פושל (Fuschlsee) נמצא באזור זלצקמרגוט ממזרח לזלצבורג ומציג צד שונה מאוד של הטיול העירוני. במקום ארמונות וכיכרות מקבלים אגם אלפיני מוקף יערות וגבעות, יישובים קטנים ומרחב שבו הגאוגרפיה היא הסיפור המרכזי. המים הצלולים והנוף הפתוח הפכו את האזור ליעד של נופש, הליכה ורחצה.
+
+האגם קשור מבחינה אזורית למערכת של אגמים שנוצרה בנוף שעוצב בתקופות הקרח. במשך מאות שנים חיו סביב האגמים קהילות שהתבססו על חקלאות, דיג, יערות ודרכי מסחר, ובהמשך התפתחה גם תרבות של בתי קיץ ותיירות. הקרבה לזלצבורג מאפשרת להגיע לנוף אלפיני בלי להיכנס עמוק להרים.
+
+הביקור באגם פושל מעניין בעיקר כחלק מיום טבע ולא כאוסף של אתרים. כדאי לראות את היחס בין המים, היער והכפרים, ולשים לב לכך שהקצב כאן שונה לחלוטין מן העיר העתיקה של זלצבורג.
+
+החוויה תלויה מאוד במזג האוויר. ביום בהיר האגם יכול להיות אחת הנקודות היפות במסלול, וביום גשום או מעונן מאוד הערך של העצירה יורד, ולכן נכון להשאיר גמישות בתכנון.
+
+## מקורות
+- https://www.salzburg.info/en/magazin/city-feeling/beach-vibes-in-salzburg-the-nine-best-urban-beaches_a_40017533

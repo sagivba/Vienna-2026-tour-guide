@@ -1,0 +1,514 @@
+schema_version: 1
+generated: 2026-08-27
+storage_mode: remote_wikimedia_commons
+allowed_licenses:
+  - Public Domain
+  - CC0 1.0
+  - CC BY 2.0
+  - CC BY 4.0
+  - CC BY-SA 2.0
+  - CC BY-SA 2.5
+  - CC BY-SA 3.0
+  - CC BY-SA 3.0 AT
+  - CC BY-SA 4.0
+images:
+  albertina:
+    provider: wikimedia_commons
+    file: "Albertina Wien.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Albertina%20Wien.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Albertina%20Wien.jpg"
+    author: "Florian Prischl"
+    license: "CC BY-SA 3.0"
+    license_url: "https://creativecommons.org/licenses/by-sa/3.0/"
+    verified: 2026-08-27
+    used_by:
+      - "01-Vienna/01-Innere-Stadt/Albertina.md"
+  augarten:
+    provider: wikimedia_commons
+    file: "Augarten, Wien.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Augarten%2C%20Wien.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Augarten%2C%20Wien.jpg"
+    author: "Anna Saini"
+    license: "CC BY-SA 4.0"
+    license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
+    verified: 2026-08-27
+    used_by:
+      - "01-Vienna/02-Leopoldstadt/Augarten.md"
+  belvedere:
+    provider: wikimedia_commons
+    file: "Upper Belvedere, Vienna.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Upper%20Belvedere%2C%20Vienna.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Upper%20Belvedere%2C%20Vienna.jpg"
+    author: "Murdockcrc"
+    license: "CC BY-SA 3.0"
+    license_url: "https://creativecommons.org/licenses/by-sa/3.0/"
+    verified: 2026-08-27
+    used_by:
+      - "01-Vienna/03-Landstrasse/Belvedere.md"
+  burggarten:
+    provider: wikimedia_commons
+    file: "Burggarten, Vienna.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Burggarten%2C%20Vienna.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Burggarten%2C%20Vienna.jpg"
+    author: "Yair Haklai"
+    license: "CC BY-SA 4.0"
+    license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
+    verified: 2026-08-27
+    used_by:
+      - "01-Vienna/01-Innere-Stadt/Burggarten.md"
+  danube_canal:
+    provider: wikimedia_commons
+    file: "Donaukanal (Danube Canal), Wien - 2.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Donaukanal%20%28Danube%20Canal%29%2C%20Wien%20-%202.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Donaukanal%20%28Danube%20Canal%29%2C%20Wien%20-%202.jpg"
+    author: "Sandor Somkuti"
+    license: "CC BY-SA 2.0"
+    license_url: "https://creativecommons.org/licenses/by-sa/2.0/"
+    verified: 2026-08-27
+    used_by:
+      - "01-Vienna/02-Leopoldstadt/Danube-Canal.md"
+  duernstein:
+    provider: wikimedia_commons
+    file: "Wachau Durnstein Panorama.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Wachau%20Durnstein%20Panorama.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Wachau%20Durnstein%20Panorama.jpg"
+    author: "Lonezor"
+    license: "CC BY-SA 3.0"
+    license_url: "https://creativecommons.org/licenses/by-sa/3.0/"
+    verified: 2026-08-27
+    used_by:
+      - "02-Day-Trips/Wachau/Duernstein.md"
+  festungsbahn:
+    provider: wikimedia_commons
+    file: "Festungsbahn Salzburg.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Festungsbahn%20Salzburg.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Festungsbahn%20Salzburg.jpg"
+    author: "mef-presseservice"
+    license: "Public Domain"
+    license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+    verified: 2026-08-27
+    used_by:
+      - "02-Day-Trips/Salzburg-and-Lakes/FestungsBahn-Salzburg.md"
+  fuschlsee:
+    provider: wikimedia_commons
+    file: "Fuschlsee - panoramio.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Fuschlsee%20-%20panoramio.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Fuschlsee%20-%20panoramio.jpg"
+    author: "Kakao45"
+    license: "CC BY-SA 3.0"
+    license_url: "https://creativecommons.org/licenses/by-sa/3.0/"
+    verified: 2026-08-27
+    used_by:
+      - "02-Day-Trips/Salzburg-and-Lakes/Fuschlsee.md"
+  gloriette:
+    provider: wikimedia_commons
+    file: "Gloriette Schönbrunn (1).jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Gloriette%20Sch%C3%B6nbrunn%20%281%29.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Gloriette%20Sch%C3%B6nbrunn%20%281%29.jpg"
+    author: "Stefan Schabel"
+    license: "Public Domain"
+    license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+    verified: 2026-08-27
+    used_by:
+      - "01-Vienna/13-Hietzing/Gloriette.md"
+  graben:
+    provider: wikimedia_commons
+    file: "Graben Street, Vienna.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Graben%20Street%2C%20Vienna.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Graben%20Street%2C%20Vienna.jpg"
+    author: "ASaber91"
+    license: "CC BY-SA 4.0"
+    license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
+    verified: 2026-08-27
+    used_by:
+      - "01-Vienna/01-Innere-Stadt/Graben.md"
+  heldenplatz:
+    provider: wikimedia_commons
+    file: "Heldenplatz, Vienna.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Heldenplatz%2C%20Vienna.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Heldenplatz%2C%20Vienna.jpg"
+    author: "Andrzej O"
+    license: "CC BY-SA 3.0"
+    license_url: "https://creativecommons.org/licenses/by-sa/3.0/"
+    verified: 2026-08-27
+    used_by:
+      - "01-Vienna/01-Innere-Stadt/Heldenplatz.md"
+  hofburg:
+    provider: wikimedia_commons
+    file: "Wien Hofburg Michaelertrakt.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Wien%20Hofburg%20Michaelertrakt.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Wien%20Hofburg%20Michaelertrakt.jpg"
+    author: "Radler59"
+    license: "CC BY-SA 4.0"
+    license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
+    verified: 2026-08-27
+    used_by:
+      - "01-Vienna/01-Innere-Stadt/Hofburg.md"
+      - "01-Vienna/01-Innere-Stadt/Imperial-Apartments.md"
+  hohensalzburg:
+    provider: wikimedia_commons
+    file: "Aerial image of Hohensalzburg Fortress (view from the southwest).jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20image%20of%20Hohensalzburg%20Fortress%20%28view%20from%20the%20southwest%29.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Aerial%20image%20of%20Hohensalzburg%20Fortress%20%28view%20from%20the%20southwest%29.jpg"
+    author: "Carsten Steger"
+    license: "CC BY-SA 4.0"
+    license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
+    verified: 2026-08-27
+    used_by:
+      - "02-Day-Trips/Salzburg-and-Lakes/Hohensalzburg-Fortress.md"
+  jewish_museum:
+    provider: wikimedia_commons
+    file: "JuedischesMuseumWien3.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/JuedischesMuseumWien3.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:JuedischesMuseumWien3.jpg"
+    author: "HeMei"
+    license: "CC BY-SA 3.0"
+    license_url: "https://creativecommons.org/licenses/by-sa/3.0/"
+    verified: 2026-08-27
+    used_by:
+      - "01-Vienna/01-Innere-Stadt/Jewish-Museum-Vienna.md"
+  judenplatz_memorial:
+    provider: wikimedia_commons
+    file: "20250503 Judenplatz Holocaust Memorial.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/20250503%20Judenplatz%20Holocaust%20Memorial.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:20250503%20Judenplatz%20Holocaust%20Memorial.jpg"
+    author: "Flocci Nivis"
+    license: "CC BY 4.0"
+    license_url: "https://creativecommons.org/licenses/by/4.0/"
+    verified: 2026-08-27
+    used_by:
+      - "01-Vienna/01-Innere-Stadt/Judenplatz-Holocaust-Memorial.md"
+      - "01-Vienna/01-Innere-Stadt/Judenplatz.md"
+  karlsplatz:
+    provider: wikimedia_commons
+    file: "Karlskirche on Karlsplatz, Vienna.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Karlskirche%20on%20Karlsplatz%2C%20Vienna.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Karlskirche%20on%20Karlsplatz%2C%20Vienna.jpg"
+    author: "KenB59240"
+    license: "CC BY-SA 4.0"
+    license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
+    verified: 2026-08-27
+    used_by:
+      - "01-Vienna/04-Wieden/Karlsplatz.md"
+  karmelitermarkt:
+    provider: wikimedia_commons
+    file: "Karmelitermarkt 03.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Karmelitermarkt%2003.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Karmelitermarkt%2003.jpg"
+    author: "Peter Gugerell"
+    license: "Public Domain"
+    license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+    verified: 2026-08-27
+    used_by:
+      - "01-Vienna/02-Leopoldstadt/Karmelitermarkt.md"
+  karmeliterviertel:
+    provider: wikimedia_commons
+    file: "Wien 1830 Vasquez Leopoldstadt Karmeliterviertel.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Wien%201830%20Vasquez%20Leopoldstadt%20Karmeliterviertel.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Wien%201830%20Vasquez%20Leopoldstadt%20Karmeliterviertel.jpg"
+    author: "Peter Gugerell"
+    license: "Public Domain"
+    license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+    verified: 2026-08-27
+    used_by:
+      - "01-Vienna/02-Leopoldstadt/Karmeliterviertel.md"
+      - "01-Vienna/02-Leopoldstadt/Vienna-Jewish-Leopoldstadt.md"
+  kohlmarkt:
+    provider: wikimedia_commons
+    file: "Wien - Kohlmarkt.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Wien%20-%20Kohlmarkt.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Wien%20-%20Kohlmarkt.jpg"
+    author: "Fred Romero"
+    license: "CC BY 2.0"
+    license_url: "https://creativecommons.org/licenses/by/2.0/"
+    verified: 2026-08-27
+    used_by:
+      - "01-Vienna/01-Innere-Stadt/Kohlmarkt.md"
+  medieval_synagogue:
+    provider: wikimedia_commons
+    file: "Model of the medieval synagogue at Judenplatz.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Model%20of%20the%20medieval%20synagogue%20at%20Judenplatz.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Model%20of%20the%20medieval%20synagogue%20at%20Judenplatz.jpg"
+    author: "Yair-haklai"
+    license: "CC BY-SA 3.0"
+    license_url: "https://creativecommons.org/licenses/by-sa/3.0/"
+    verified: 2026-08-27
+    used_by:
+      - "01-Vienna/01-Innere-Stadt/Medieval-Synagogue-Vienna.md"
+      - "01-Vienna/01-Innere-Stadt/Museum-Judenplatz.md"
+  melk:
+    provider: wikimedia_commons
+    file: "Melk Abbey (9).jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Melk%20Abbey%20%289%29.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Melk%20Abbey%20%289%29.jpg"
+    author: "Tournasol7"
+    license: "CC BY-SA 4.0"
+    license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
+    verified: 2026-08-27
+    used_by:
+      - "02-Day-Trips/Wachau/Melk-Abbey.md"
+  michaelerplatz:
+    provider: wikimedia_commons
+    file: "Michaelerplatz.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Michaelerplatz.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Michaelerplatz.jpg"
+    author: "Binter"
+    license: "Public Domain"
+    license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+    verified: 2026-08-27
+    used_by:
+      - "01-Vienna/01-Innere-Stadt/Michaelerplatz.md"
+  mirabell:
+    provider: wikimedia_commons
+    file: "Mirabell Salzburg 2740234794 33a98b5f0b o.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Mirabell%20Salzburg%202740234794%2033a98b5f0b%20o.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Mirabell%20Salzburg%202740234794%2033a98b5f0b%20o.jpg"
+    author: "Trishhhh"
+    license: "CC BY 2.0"
+    license_url: "https://creativecommons.org/licenses/by/2.0/"
+    verified: 2026-08-27
+    used_by:
+      - "02-Day-Trips/Salzburg-and-Lakes/Mirabell-Gardens.md"
+  mozart_birthplace:
+    provider: wikimedia_commons
+    file: "Mozart's Geburtshaus-Salzburg.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Mozart%27s%20Geburtshaus-Salzburg.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Mozart%27s%20Geburtshaus-Salzburg.jpg"
+    author: "Yair Haklai"
+    license: "CC BY-SA 3.0"
+    license_url: "https://creativecommons.org/licenses/by-sa/3.0/"
+    verified: 2026-08-27
+    used_by:
+      - "02-Day-Trips/Salzburg-and-Lakes/Mozarts-Birthplace.md"
+  mozart_residence:
+    provider: wikimedia_commons
+    file: "1944 - Salzburg - Mozart Wohnhaus, Makartplatz (cropped).jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/1944%20-%20Salzburg%20-%20Mozart%20Wohnhaus%2C%20Makartplatz%20%28cropped%29.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:1944%20-%20Salzburg%20-%20Mozart%20Wohnhaus%2C%20Makartplatz%20%28cropped%29.jpg"
+    author: "Andrew Bossi"
+    license: "CC BY-SA 2.5"
+    license_url: "https://creativecommons.org/licenses/by-sa/2.5/"
+    verified: 2026-08-27
+    used_by:
+      - "02-Day-Trips/Salzburg-and-Lakes/Mozart-Residence-Salzburg.md"
+  naschmarkt:
+    provider: wikimedia_commons
+    file: "Naschmarkt Market Scene, Vienna.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Naschmarkt%20Market%20Scene%2C%20Vienna.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Naschmarkt%20Market%20Scene%2C%20Vienna.jpg"
+    author: "Sandor Somkuti"
+    license: "CC BY-SA 4.0"
+    license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
+    verified: 2026-08-27
+    used_by:
+      - "01-Vienna/04-Wieden/Naschmarkt.md"
+  neue_burg:
+    provider: wikimedia_commons
+    file: "Neue Burg, Hofberg Palace, Vienna Austria.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Neue%20Burg%2C%20Hofberg%20Palace%2C%20Vienna%20Austria.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Neue%20Burg%2C%20Hofberg%20Palace%2C%20Vienna%20Austria.jpg"
+    author: "Thcipriani"
+    license: "CC BY-SA 4.0"
+    license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
+    verified: 2026-08-27
+    used_by:
+      - "01-Vienna/01-Innere-Stadt/Neue-Burg.md"
+  paschinger:
+    provider: wikimedia_commons
+    file: "PaschingerSchlössl.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/PaschingerSchl%C3%B6ssl.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:PaschingerSchl%C3%B6ssl.jpg"
+    author: "Anton-kurt"
+    license: "CC BY-SA 3.0 AT"
+    license_url: "https://creativecommons.org/licenses/by-sa/3.0/at/"
+    verified: 2026-08-27
+    used_by:
+      - "02-Day-Trips/Salzburg-and-Lakes/Paschinger-Schloessl.md"
+  peterskirche:
+    provider: wikimedia_commons
+    file: "Peterskirche - vienna.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Peterskirche%20-%20vienna.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Peterskirche%20-%20vienna.jpg"
+    author: "Mirej"
+    license: "CC BY-SA 3.0 AT"
+    license_url: "https://creativecommons.org/licenses/by-sa/3.0/at/"
+    verified: 2026-08-27
+    used_by:
+      - "01-Vienna/01-Innere-Stadt/Peterskirche.md"
+  rax:
+    provider: wikimedia_commons
+    file: "Raxalpe 01.JPG"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Raxalpe%2001.JPG?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Raxalpe%2001.JPG"
+    author: "Iswoar"
+    license: "CC BY-SA 3.0"
+    license_url: "https://creativecommons.org/licenses/by-sa/3.0/"
+    verified: 2026-08-27
+    used_by:
+      - "02-Day-Trips/Vienna-Alps/Rax.md"
+  salzburg_old_town:
+    provider: wikimedia_commons
+    file: "Photo over the old town of Salzburg.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Photo%20over%20the%20old%20town%20of%20Salzburg.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Photo%20over%20the%20old%20town%20of%20Salzburg.jpg"
+    author: "(WT-shared) Adestro"
+    license: "Public Domain"
+    license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+    verified: 2026-08-27
+    used_by:
+      - "02-Day-Trips/Salzburg-and-Lakes/Salzburg-Altstadt.md"
+      - "02-Day-Trips/Salzburg-and-Lakes/Salzburg.md"
+  schneeberg:
+    provider: wikimedia_commons
+    file: "Schneeberg Panorama.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Schneeberg%20Panorama.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Schneeberg%20Panorama.jpg"
+    author: "Karlo Pavlovic"
+    license: "CC BY-SA 4.0"
+    license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
+    verified: 2026-08-27
+    used_by:
+      - "02-Day-Trips/Vienna-Alps/Schneeberg.md"
+  schoenbrunn_gardens:
+    provider: wikimedia_commons
+    file: "Vienna, Austria. Schönbrunn Palace.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Vienna%2C%20Austria.%20Sch%C3%B6nbrunn%20Palace.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Vienna%2C%20Austria.%20Sch%C3%B6nbrunn%20Palace.jpg"
+    author: "Dupont66"
+    license: "CC BY 4.0"
+    license_url: "https://creativecommons.org/licenses/by/4.0/"
+    verified: 2026-08-27
+    used_by:
+      - "01-Vienna/13-Hietzing/Schoenbrunn-Gardens.md"
+  schoenbrunn_palace:
+    provider: wikimedia_commons
+    file: "Schonbrunn Palace.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Schonbrunn%20Palace.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Schonbrunn%20Palace.jpg"
+    author: "Truete"
+    license: "CC0 1.0"
+    license_url: "https://creativecommons.org/publicdomain/zero/1.0/"
+    verified: 2026-08-27
+    used_by:
+      - "01-Vienna/13-Hietzing/Schoenbrunn-Palace.md"
+  semmering:
+    provider: wikimedia_commons
+    file: "Steinhaus am Semmering - Semmeringbahn - Steinhausviadukt.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Steinhaus%20am%20Semmering%20-%20Semmeringbahn%20-%20Steinhausviadukt.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Steinhaus%20am%20Semmering%20-%20Semmeringbahn%20-%20Steinhausviadukt.jpg"
+    author: "Haeferl"
+    license: "CC BY-SA 3.0 AT"
+    license_url: "https://creativecommons.org/licenses/by-sa/3.0/at/"
+    verified: 2026-08-27
+    used_by:
+      - "02-Day-Trips/Vienna-Alps/Semmering-Railway.md"
+  sisi_museum:
+    provider: wikimedia_commons
+    file: "Sisi Museum, Vienna.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Sisi%20Museum%2C%20Vienna.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Sisi%20Museum%2C%20Vienna.jpg"
+    author: "GeoO"
+    license: "CC BY-SA 4.0"
+    license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
+    verified: 2026-08-27
+    used_by:
+      - "01-Vienna/01-Innere-Stadt/Sisi-Museum.md"
+  stadtpark:
+    provider: wikimedia_commons
+    file: "20260418 Stadtpark Vienna 03.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/20260418%20Stadtpark%20Vienna%2003.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:20260418%20Stadtpark%20Vienna%2003.jpg"
+    author: "Flocci Nivis"
+    license: "CC BY-SA 4.0"
+    license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
+    verified: 2026-08-27
+    used_by:
+      - "01-Vienna/03-Landstrasse/Stadtpark.md"
+  stadttempel:
+    provider: wikimedia_commons
+    file: "Stadttempel- Vienna.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Stadttempel-%20Vienna.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Stadttempel-%20Vienna.jpg"
+    author: "Yair Haklai"
+    license: "CC BY-SA 3.0"
+    license_url: "https://creativecommons.org/licenses/by-sa/3.0/"
+    verified: 2026-08-27
+    used_by:
+      - "01-Vienna/01-Innere-Stadt/Stadttempel.md"
+  state_opera:
+    provider: wikimedia_commons
+    file: "Staatsoper Wien.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Staatsoper%20Wien.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Staatsoper%20Wien.jpg"
+    author: "Lindio"
+    license: "CC BY-SA 3.0 AT"
+    license_url: "https://creativecommons.org/licenses/by-sa/3.0/at/"
+    verified: 2026-08-27
+    used_by:
+      - "01-Vienna/01-Innere-Stadt/Vienna-State-Opera.md"
+  stefan_zweig_centre:
+    provider: wikimedia_commons
+    file: "Stefan Zweig Centre Edmundsburg.JPG"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Stefan%20Zweig%20Centre%20Edmundsburg.JPG?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Stefan%20Zweig%20Centre%20Edmundsburg.JPG"
+    author: "Wald1siedel"
+    license: "CC BY-SA 4.0"
+    license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
+    verified: 2026-08-27
+    used_by:
+      - "02-Day-Trips/Salzburg-and-Lakes/Stefan-Zweig-Centre.md"
+  stephansdom:
+    provider: wikimedia_commons
+    file: "Wien, Stephansdom 2.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Wien%2C%20Stephansdom%202.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Wien%2C%20Stephansdom%202.jpg"
+    author: "Anna Saini"
+    license: "CC BY-SA 4.0"
+    license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
+    verified: 2026-08-27
+    used_by:
+      - "01-Vienna/01-Innere-Stadt/Stephansdom.md"
+  stephansplatz:
+    provider: wikimedia_commons
+    file: "Stephansplatz Wien.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Stephansplatz%20Wien.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Stephansplatz%20Wien.jpg"
+    author: "Dimitry Anikin"
+    license: "CC0 1.0"
+    license_url: "https://creativecommons.org/publicdomain/zero/1.0/"
+    verified: 2026-08-27
+    used_by:
+      - "01-Vienna/01-Innere-Stadt/Stephansplatz.md"
+  taborstrasse:
+    provider: wikimedia_commons
+    file: "Wien 1830 Vasquez Leopoldstadt Taborstraße.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Wien%201830%20Vasquez%20Leopoldstadt%20Taborstra%C3%9Fe.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Wien%201830%20Vasquez%20Leopoldstadt%20Taborstra%C3%9Fe.jpg"
+    author: "Peter Gugerell"
+    license: "Public Domain"
+    license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+    verified: 2026-08-27
+    used_by:
+      - "01-Vienna/02-Leopoldstadt/Taborstrasse.md"
+  volksgarten:
+    provider: wikimedia_commons
+    file: "Volksgarten Vienna.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Volksgarten%20Vienna.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Volksgarten%20Vienna.jpg"
+    author: "Sandor Somkuti"
+    license: "CC BY-SA 4.0"
+    license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
+    verified: 2026-08-27
+    used_by:
+      - "01-Vienna/01-Innere-Stadt/Volksgarten.md"
+  wolfgangsee:
+    provider: wikimedia_commons
+    file: "Wolfgangsee P1.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Wolfgangsee%20P1.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Wolfgangsee%20P1.jpg"
+    author: "Immanuel Giel; panorama stitched by Marku1988"
+    license: "Public Domain"
+    license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+    verified: 2026-08-27
+    used_by:
+      - "02-Day-Trips/Salzburg-and-Lakes/Wolfgangsee.md"
