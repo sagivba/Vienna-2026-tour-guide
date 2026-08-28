@@ -23,14 +23,14 @@ const PrimaryNavigation: QuartzComponent = ({ fileData }: QuartzComponentProps) 
         class="primary-navigation-toggle"
         type="button"
         aria-expanded="false"
-        aria-controls="primary-navigation-links"
+        aria-controls="explorer-content"
       >
         <span>תפריט</span>
         <svg aria-hidden="true" viewBox="0 0 24 24" width="24" height="24">
           <path d="M4 6h16M4 12h16M4 18h16" />
         </svg>
       </button>
-      <ul id="primary-navigation-links">
+      <ul>
         {navigationItems.map(({ label, slug }) => {
           const isCurrentPage = fileData.slug === slug
 

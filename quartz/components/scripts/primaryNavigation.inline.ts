@@ -3,40 +3,51 @@ const mobileNavigationQuery = window.matchMedia("(max-width: 800px)")
 document.addEventListener("nav", () => {
   const navigation = document.querySelector(".primary-navigation")
   const toggle = navigation?.querySelector<HTMLButtonElement>(".primary-navigation-toggle")
-  if (!navigation || !toggle) return
+  const explorer = document.querySelector<HTMLElement>(".explorer")
+  if (!navigation || !toggle || !explorer) return
+  const explorerContent = explorer.querySelector<HTMLElement>(".explorer-content")
 
   const close = () => {
     toggle.setAttribute("aria-expanded", "false")
-    navigation.classList.remove("is-open")
+    explorer.setAttribute("aria-expanded", "false")
+    explorerContent?.setAttribute("aria-expanded", "false")
+    explorer.classList.add("collapsed")
   }
 
   const toggleMenu = () => {
     const open = toggle.getAttribute("aria-expanded") !== "true"
     toggle.setAttribute("aria-expanded", String(open))
-    navigation.classList.toggle("is-open", open)
+    explorer.setAttribute("aria-expanded", String(open))
+    explorerContent?.setAttribute("aria-expanded", String(open))
+    explorer.classList.toggle("collapsed", !open)
   }
 
   const closeAfterNavigation = (event: Event) => {
     if (mobileNavigationQuery.matches && (event.target as Element).closest("a")) close()
   }
   const closeOnEscape = (event: Event) => {
-    if ((event as KeyboardEvent).key === "Escape") {
+    if (mobileNavigationQuery.matches && (event as KeyboardEvent).key === "Escape") {
       close()
       toggle.focus()
     }
   }
   const resetForDesktop = () => {
-    if (!mobileNavigationQuery.matches) close()
+    if (!mobileNavigationQuery.matches) {
+      toggle.setAttribute("aria-expanded", "false")
+      explorer.setAttribute("aria-expanded", "true")
+      explorerContent?.setAttribute("aria-expanded", "true")
+      explorer.classList.remove("collapsed")
+    }
   }
 
   toggle.addEventListener("click", toggleMenu)
-  navigation.addEventListener("click", closeAfterNavigation)
-  navigation.addEventListener("keydown", closeOnEscape)
+  explorer.addEventListener("click", closeAfterNavigation)
+  document.addEventListener("keydown", closeOnEscape)
   mobileNavigationQuery.addEventListener("change", resetForDesktop)
   window.addCleanup(() => {
     toggle.removeEventListener("click", toggleMenu)
-    navigation.removeEventListener("click", closeAfterNavigation)
-    navigation.removeEventListener("keydown", closeOnEscape)
+    explorer.removeEventListener("click", closeAfterNavigation)
+    document.removeEventListener("keydown", closeOnEscape)
     mobileNavigationQuery.removeEventListener("change", resetForDesktop)
   })
 })

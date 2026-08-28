@@ -162,19 +162,10 @@
 
       .explorer {
         direction: rtl;
-        flex: 0 0 44px;
+        position: absolute;
+        min-block-size: 0;
         order: initial;
         overflow: visible;
-
-        .mobile-explorer {
-          inline-size: 44px;
-          block-size: 44px;
-          box-sizing: border-box;
-          justify-content: center;
-          border: 1px solid var(--lightgray);
-          border-radius: 0.4rem;
-          background: var(--light);
-        }
 
         .explorer-content {
           position: fixed;
