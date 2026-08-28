@@ -3,6 +3,7 @@ import { QuartzPluginData } from "../plugins/vfile"
 import { Date, getDate } from "./Date"
 import { QuartzComponent, QuartzComponentProps } from "./types"
 import { GlobalConfiguration } from "../cfg"
+import { readerFacingName } from "../util/displayName"
 
 export type SortFn = (f1: QuartzPluginData, f2: QuartzPluginData) => number
 
@@ -47,19 +48,23 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
   return (
     <ul class="section-ul">
       {list.map((page) => {
-        const title = page.frontmatter?.title
+        const title = readerFacingName(page.frontmatter, page.slug?.split("/").at(-1) ?? "")
         const tags = page.frontmatter?.tags ?? []
 
         return (
           <li class="section-li">
             <div class="section">
               <p class="meta">
-                {page.dates && <Date date={getDate(cfg, page)!} locale={cfg.locale} />}
+                {page.dates && (
+                  <bdi dir="auto">
+                    <Date date={getDate(cfg, page)!} locale={cfg.locale} />
+                  </bdi>
+                )}
               </p>
               <div class="desc">
                 <h3>
                   <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
-                    {title}
+                    <bdi dir="auto">{title}</bdi>
                   </a>
                 </h3>
               </div>
@@ -70,7 +75,7 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
                       class="internal tag-link"
                       href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
                     >
-                      {tag}
+                      <bdi dir="ltr">{tag}</bdi>
                     </a>
                   </li>
                 ))}

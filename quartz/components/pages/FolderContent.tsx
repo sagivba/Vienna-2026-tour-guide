@@ -9,6 +9,7 @@ import { QuartzPluginData } from "../../plugins/vfile"
 import { ComponentChildren } from "preact"
 import { concatenateResources } from "../../util/resources"
 import { FileTrieNode } from "../../util/fileTrie"
+import { readerFacingName } from "../../util/displayName"
 interface FolderContentOptions {
   /**
    * Whether to display number of folders
@@ -100,7 +101,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
               slug: node.slug,
               dates: getMostRecentDates(),
               frontmatter: {
-                title: node.displayName,
+                title: readerFacingName(undefined, node.slugSegment),
                 tags: [],
               },
             }
