@@ -21,6 +21,36 @@
     // affect the surrounding Hebrew sentence.
     a {
       unicode-bidi: isolate;
+      color: var(--secondary);
+      background: transparent;
+      border-radius: 0;
+      padding: 0;
+      text-decoration: underline;
+      text-decoration-color: color-mix(in srgb, currentColor 45%, transparent);
+      text-underline-offset: 0.15em;
+
+      &:visited {
+        color: var(--secondary);
+      }
+
+      &:hover,
+      &:focus-visible {
+        color: var(--tertiary);
+        text-decoration-color: currentColor;
+      }
+
+      &:focus-visible {
+        outline: 2px solid var(--tertiary);
+        outline-offset: 2px;
+      }
+
+      // Tags are interface elements rather than links in the editorial copy.
+      &.tag-link {
+        background-color: var(--highlight);
+        border-radius: 8px;
+        padding: 0.2rem 0.4rem;
+        text-decoration: none;
+      }
     }
 
     // Technical content keeps its intrinsic left-to-right reading order.
