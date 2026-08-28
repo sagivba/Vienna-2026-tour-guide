@@ -22,6 +22,30 @@ hero_image:
   license: "CC BY-SA 3.0 AT"
   license_url: "https://creativecommons.org/licenses/by-sa/3.0/at/"
   verified: 2026-08-27
+visit_duration:
+  minimum_minutes: 20
+  recommended_minutes: 45
+nearby_places:
+  - page: Graben
+    name_he: גראבן
+    distance_m: 100
+    walk_minutes: 2
+  - page: Stephansplatz
+    name_he: שטפנספלאץ
+    distance_m: 250
+    walk_minutes: 3
+  - page: Kohlmarkt
+    name_he: קולמרקט
+    distance_m: 250
+    walk_minutes: 3
+  - page: Stephansdom
+    name_he: קתדרלת סטפנוס הקדוש
+    distance_m: 280
+    walk_minutes: 4
+  - page: Judenplatz
+    name_he: יודנפלאץ
+    distance_m: 350
+    walk_minutes: 5
 verification:
   general: 2026-08-27
 recheck_before_visit:
@@ -34,7 +58,6 @@ recheck_before_visit:
 ![כנסיית פטרוס הקדוש (Peterskirche)](https://commons.wikimedia.org/wiki/Special:FilePath/Peterskirche%20-%20vienna.jpg?width=1600)
 
 *צילום: Mirej. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Peterskirche%20-%20vienna.jpg). רישיון: [CC BY-SA 3.0 AT](https://creativecommons.org/licenses/by-sa/3.0/at/).*
-
 
 ## למה זה מעניין אותנו
 
@@ -58,11 +81,18 @@ recheck_before_visit:
 - הפרסקאות והקישוט הפנימי.
 - היחס בין גודל החוץ לעושר הפנים.
 
+## זמן שכדאי להקדיש
 
-## מה נמצא לידנו
+- **מינימום:** כ־20 דקות
+- **מומלץ:** כ־45 דקות
 
-- [[Graben|גראבן (Graben)]]
-- [[Stephansplatz|שטפנספלאץ (Stephansplatz)]]
+## מה קרוב לכאן
+
+- [[Graben|גראבן]] — כ־100 מטר, כ־2 דקות הליכה
+- [[Stephansplatz|שטפנספלאץ]] — כ־250 מטר, כ־3 דקות הליכה
+- [[Kohlmarkt|קולמרקט]] — כ־250 מטר, כ־3 דקות הליכה
+- [[Stephansdom|קתדרלת סטפנוס הקדוש]] — כ־280 מטר, כ־4 דקות הליכה
+- [[Judenplatz|יודנפלאץ]] — כ־350 מטר, כ־5 דקות הליכה
 
 ## מידע מעשי
 

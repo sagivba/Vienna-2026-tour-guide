@@ -22,6 +22,30 @@ hero_image:
   license: "CC0 1.0"
   license_url: "https://creativecommons.org/publicdomain/zero/1.0/"
   verified: 2026-08-27
+visit_duration:
+  minimum_minutes: 20
+  recommended_minutes: 40
+nearby_places:
+  - page: Stephansdom
+    name_he: קתדרלת סטפנוס הקדוש
+    distance_m: 20
+    walk_minutes: 1
+  - page: Graben
+    name_he: גראבן
+    distance_m: 180
+    walk_minutes: 3
+  - page: Peterskirche
+    name_he: כנסיית פטרוס הקדוש
+    distance_m: 250
+    walk_minutes: 3
+  - page: Jewish-Museum-Vienna
+    name_he: המוזיאון היהודי של וינה
+    distance_m: 300
+    walk_minutes: 4
+  - page: Stadttempel
+    name_he: שטאדטטמפל
+    distance_m: 450
+    walk_minutes: 6
 verification:
   general: 2026-08-27
 recheck_before_visit:
@@ -34,7 +58,6 @@ recheck_before_visit:
 ![שטפנספלאץ (Stephansplatz)](https://commons.wikimedia.org/wiki/Special:FilePath/Stephansplatz%20Wien.jpg?width=1600)
 
 *צילום: Dimitry Anikin. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Stephansplatz%20Wien.jpg). רישיון: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).*
-
 
 ## למה זה מעניין אותנו
 
@@ -58,11 +81,18 @@ recheck_before_visit:
 - Haas Haus מול הקתדרלה: וינה הישנה מסתכלת על וינה החדשה בלי להחליט אם היא מרוצה.
 - הרחובות היוצאים לכיוון Graben ו-Kärntner Straße.
 
+## זמן שכדאי להקדיש
 
-## מה נמצא לידנו
+- **מינימום:** כ־20 דקות
+- **מומלץ:** כ־40 דקות
 
-- [[Stephansdom|קתדרלת סטפנוס הקדוש (Stephansdom)]]
-- [[Graben|גראבן (Graben)]]
+## מה קרוב לכאן
+
+- [[Stephansdom|קתדרלת סטפנוס הקדוש]] — כ־20 מטר, כ־1 דקות הליכה
+- [[Graben|גראבן]] — כ־180 מטר, כ־3 דקות הליכה
+- [[Peterskirche|כנסיית פטרוס הקדוש]] — כ־250 מטר, כ־3 דקות הליכה
+- [[Jewish-Museum-Vienna|המוזיאון היהודי של וינה]] — כ־300 מטר, כ־4 דקות הליכה
+- [[Stadttempel|שטאדטטמפל]] — כ־450 מטר, כ־6 דקות הליכה
 
 ## מידע מעשי
 

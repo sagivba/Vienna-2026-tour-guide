@@ -22,6 +22,14 @@ hero_image:
   license: "CC BY-SA 4.0"
   license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
   verified: 2026-08-27
+visit_duration:
+  minimum_minutes: 45
+  recommended_minutes: 90
+nearby_places:
+  - page: Karlsplatz
+    name_he: קרלספלאץ
+    distance_m: 500
+    walk_minutes: 7
 verification:
   general: 2026-08-27
 recheck_before_visit:
@@ -34,7 +42,6 @@ recheck_before_visit:
 ![נאשמרקט (Naschmarkt)](https://commons.wikimedia.org/wiki/Special:FilePath/Naschmarkt%20Market%20Scene%2C%20Vienna.jpg?width=1600)
 
 *צילום: Sandor Somkuti. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Naschmarkt%20Market%20Scene%2C%20Vienna.jpg). רישיון: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
-
 
 ## למה זה מעניין אותנו
 
@@ -52,17 +59,20 @@ recheck_before_visit:
 
 הביקור בנאשמרקט עדיף כחוויית רחוב ולא כמרדף אחרי דוכן מסוים. כדאי להסתכל על מבני השוק, על התערובת של שפות ומוצרים ועל החיבור לבתי אוטו ואגנר הסמוכים. מבחינת כשרות, השוק הוא מקום לראות ולהריח, לא פתרון אוטומטי לאוכל.
 
-
 ## מה לחפש במקום
 
 - דוכני תבלינים, פירות וירקות.
 - חזיתות Jugendstil באזור Wienzeile הסמוך.
 - לבדוק את שוק הפשפשים אם הוא מתקיים ביום הביקור.
 
+## זמן שכדאי להקדיש
 
-## מה נמצא לידנו
+- **מינימום:** כ־45 דקות
+- **מומלץ:** כשעה וחצי
 
-- [[Karlsplatz|קרלספלאץ (Karlsplatz)]]
+## מה קרוב לכאן
+
+- [[Karlsplatz|קרלספלאץ]] — כ־500 מטר, כ־7 דקות הליכה
 
 ## מידע מעשי
 

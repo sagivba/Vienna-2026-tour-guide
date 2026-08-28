@@ -22,6 +22,30 @@ hero_image:
   license: "CC BY-SA 4.0"
   license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
   verified: 2026-08-27
+visit_duration:
+  minimum_minutes: 60
+  recommended_minutes: 150
+nearby_places:
+  - page: Imperial-Apartments
+    name_he: הדירות הקיסריות
+    distance_m: 50
+    walk_minutes: 1
+  - page: Sisi-Museum
+    name_he: מוזיאון סיסי
+    distance_m: 50
+    walk_minutes: 1
+  - page: Michaelerplatz
+    name_he: כיכר מיכאלר
+    distance_m: 80
+    walk_minutes: 1
+  - page: Heldenplatz
+    name_he: כיכר הגיבורים
+    distance_m: 150
+    walk_minutes: 2
+  - page: Kohlmarkt
+    name_he: קולמרקט
+    distance_m: 250
+    walk_minutes: 3
 verification:
   general: 2026-08-27
 recheck_before_visit:
@@ -34,7 +58,6 @@ recheck_before_visit:
 ![הופבורג (Hofburg)](https://commons.wikimedia.org/wiki/Special:FilePath/Wien%20Hofburg%20Michaelertrakt.jpg?width=1600)
 
 *צילום: Radler59. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wien%20Hofburg%20Michaelertrakt.jpg). רישיון: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
-
 
 ## למה זה מעניין אותנו
 
@@ -73,13 +96,18 @@ recheck_before_visit:
 - סיסי החזיקה חדר להתעמלות וטיפוח גופני, חריג מאוד לחצר מלכותית במאה ה-19.
 - Congress of Vienna התנהל גם באולמות החצר. אירופה ניסתה לבנות סדר חדש אחרי נפוליאון, ובמקביל רקדה בהתלהבות. לפעמים דיפלומטיה צריכה גם תזמורת.
 
+## זמן שכדאי להקדיש
 
-## מה נמצא לידנו
+- **מינימום:** כשעה
+- **מומלץ:** כשעתיים וחצי
 
-- [[Michaelerplatz|כיכר מיכאלר (Michaelerplatz)]]
-- [[Sisi-Museum|מוזיאון סיסי (Sisi Museum)]]
-- [[Heldenplatz|כיכר הגיבורים (Heldenplatz)]]
-- [[Volksgarten|פולקסגארטן (Volksgarten)]]
+## מה קרוב לכאן
+
+- [[Imperial-Apartments|הדירות הקיסריות]] — כ־50 מטר, כ־1 דקות הליכה
+- [[Sisi-Museum|מוזיאון סיסי]] — כ־50 מטר, כ־1 דקות הליכה
+- [[Michaelerplatz|כיכר מיכאלר]] — כ־80 מטר, כ־1 דקות הליכה
+- [[Heldenplatz|כיכר הגיבורים]] — כ־150 מטר, כ־2 דקות הליכה
+- [[Kohlmarkt|קולמרקט]] — כ־250 מטר, כ־3 דקות הליכה
 
 ## מידע מעשי
 

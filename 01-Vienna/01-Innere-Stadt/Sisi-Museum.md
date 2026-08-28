@@ -22,6 +22,30 @@ hero_image:
   license: "CC BY-SA 4.0"
   license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
   verified: 2026-08-27
+visit_duration:
+  minimum_minutes: 45
+  recommended_minutes: 90
+nearby_places:
+  - page: Imperial-Apartments
+    name_he: הדירות הקיסריות
+    distance_m: 20
+    walk_minutes: 1
+  - page: Hofburg
+    name_he: הופבורג
+    distance_m: 50
+    walk_minutes: 1
+  - page: Michaelerplatz
+    name_he: כיכר מיכאלר
+    distance_m: 80
+    walk_minutes: 1
+  - page: Kohlmarkt
+    name_he: קולמרקט
+    distance_m: 300
+    walk_minutes: 4
+  - page: Heldenplatz
+    name_he: כיכר הגיבורים
+    distance_m: 300
+    walk_minutes: 4
 verification:
   general: 2026-08-27
 recheck_before_visit:
@@ -34,7 +58,6 @@ recheck_before_visit:
 ![מוזיאון סיסי (Sisi Museum)](https://commons.wikimedia.org/wiki/Special:FilePath/Sisi%20Museum%2C%20Vienna.jpg?width=1600)
 
 *צילום: GeoO. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sisi%20Museum%2C%20Vienna.jpg). רישיון: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
-
 
 ## למה זה מעניין אותנו
 
@@ -63,12 +86,18 @@ recheck_before_visit:
 - לשים לב כיצד התצוגה בונה במכוון מעבר מן המיתוס אל האדם.
 - לזכור: Sisi הוא האיות שבו השתמשה המשפחה; Sissi הוא בעיקר הילדה המפורסמת של הקולנוע.
 
+## זמן שכדאי להקדיש
 
-## מה נמצא לידנו
+- **מינימום:** כ־45 דקות
+- **מומלץ:** כשעה וחצי
 
-- [[Hofburg|הופבורג (Hofburg)]]
-- [[Imperial-Apartments|הדירות הקיסריות (Kaiserappartements)]]
-- [[Michaelerplatz|כיכר מיכאלר (Michaelerplatz)]]
+## מה קרוב לכאן
+
+- [[Imperial-Apartments|הדירות הקיסריות]] — כ־20 מטר, כ־1 דקות הליכה
+- [[Hofburg|הופבורג]] — כ־50 מטר, כ־1 דקות הליכה
+- [[Michaelerplatz|כיכר מיכאלר]] — כ־80 מטר, כ־1 דקות הליכה
+- [[Kohlmarkt|קולמרקט]] — כ־300 מטר, כ־4 דקות הליכה
+- [[Heldenplatz|כיכר הגיבורים]] — כ־300 מטר, כ־4 דקות הליכה
 
 ## מידע מעשי
 

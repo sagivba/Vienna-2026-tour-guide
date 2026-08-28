@@ -16,6 +16,10 @@ hero_image:
   license: "Public Domain"
   license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
   verified: 2026-08-27
+visit_duration:
+  minimum_minutes: 120
+  recommended_minutes: 240
+nearby_places: []
 ---
 # אגם וולפגנג (Wolfgangsee) - אגם נופש אלפיני בין זלצבורג לאזור האגמים
 
@@ -29,7 +33,6 @@ hero_image:
 ## גאולוגיה
 
 כמו אגמים רבים באזור, צורת האגם קשורה לפעילות קרחונית בתקופות הקרח. קרחונים העמיקו עמקים קיימים, ולאחר נסיגתם התמלאו השקעים במים.
-
 
 ## הסיפור
 
@@ -46,6 +49,15 @@ hero_image:
 - מדרונות היורדים כמעט ישירות למים.
 - Schafberg מעל האגם.
 - יישובים כמו St. Wolfgang ו-St. Gilgen בהתאם למסלול.
+
+## זמן שכדאי להקדיש
+
+- **מינימום:** כשעתיים
+- **מומלץ:** כארבע שעות
+
+## מה קרוב לכאן
+
+לא נמצאו דפי מקום נוספים בכספת שאפשר לאמת כי הם נמצאים בטווח של 500 מטר.
 
 ## מקורות
 - https://www.salzburg.info/en/sights/excursions/schafberg-railroad-wolfgangsee-cruises

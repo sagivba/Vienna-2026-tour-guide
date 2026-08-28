@@ -22,6 +22,30 @@ hero_image:
   license: "CC BY-SA 4.0"
   license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
   verified: 2026-08-27
+visit_duration:
+  minimum_minutes: 45
+  recommended_minutes: 90
+nearby_places:
+  - page: Sisi-Museum
+    name_he: מוזיאון סיסי
+    distance_m: 20
+    walk_minutes: 1
+  - page: Hofburg
+    name_he: הופבורג
+    distance_m: 50
+    walk_minutes: 1
+  - page: Michaelerplatz
+    name_he: כיכר מיכאלר
+    distance_m: 80
+    walk_minutes: 1
+  - page: Kohlmarkt
+    name_he: קולמרקט
+    distance_m: 250
+    walk_minutes: 3
+  - page: Heldenplatz
+    name_he: כיכר הגיבורים
+    distance_m: 300
+    walk_minutes: 4
 verification:
   general: 2026-08-27
 recheck_before_visit:
@@ -34,7 +58,6 @@ recheck_before_visit:
 ![הדירות הקיסריות (Kaiserappartements)](https://commons.wikimedia.org/wiki/Special:FilePath/Wien%20Hofburg%20Michaelertrakt.jpg?width=1600)
 
 *צילום: Radler59. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wien%20Hofburg%20Michaelertrakt.jpg). רישיון: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
-
 
 ## למה זה מעניין אותנו
 
@@ -64,11 +87,18 @@ recheck_before_visit:
 - חדר ההלבשה וההתעמלות של סיסי.
 - רצף חדרי הקבלה: גם אדריכלות יכולה להסביר היררכיה.
 
+## זמן שכדאי להקדיש
 
-## מה נמצא לידנו
+- **מינימום:** כ־45 דקות
+- **מומלץ:** כשעה וחצי
 
-- [[Sisi-Museum|מוזיאון סיסי (Sisi Museum)]]
-- [[Hofburg|הופבורג (Hofburg)]]
+## מה קרוב לכאן
+
+- [[Sisi-Museum|מוזיאון סיסי]] — כ־20 מטר, כ־1 דקות הליכה
+- [[Hofburg|הופבורג]] — כ־50 מטר, כ־1 דקות הליכה
+- [[Michaelerplatz|כיכר מיכאלר]] — כ־80 מטר, כ־1 דקות הליכה
+- [[Kohlmarkt|קולמרקט]] — כ־250 מטר, כ־3 דקות הליכה
+- [[Heldenplatz|כיכר הגיבורים]] — כ־300 מטר, כ־4 דקות הליכה
 
 ## מידע מעשי
 

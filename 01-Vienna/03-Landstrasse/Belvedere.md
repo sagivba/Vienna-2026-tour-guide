@@ -22,6 +22,10 @@ hero_image:
   license: "CC BY-SA 3.0"
   license_url: "https://creativecommons.org/licenses/by-sa/3.0/"
   verified: 2026-08-27
+visit_duration:
+  minimum_minutes: 90
+  recommended_minutes: 180
+nearby_places: []
 verification:
   general: 2026-08-27
 recheck_before_visit:
@@ -34,7 +38,6 @@ recheck_before_visit:
 ![בלוודרה (Schloss Belvedere)](https://commons.wikimedia.org/wiki/Special:FilePath/Upper%20Belvedere%2C%20Vienna.jpg?width=1600)
 
 *צילום: Murdockcrc. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Upper%20Belvedere%2C%20Vienna.jpg). רישיון: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).*
-
 
 ## למה זה מעניין אותנו
 
@@ -63,10 +66,14 @@ recheck_before_visit:
 - מראות המים והגנים.
 - אם נכנסים: Klimt, אבל לא להפוך את כל הביקור למרוץ אל ציור אחד.
 
+## זמן שכדאי להקדיש
 
-## מה נמצא לידנו
+- **מינימום:** כשעה וחצי
+- **מומלץ:** כשלוש שעות
 
-- [[Stadtpark|שטאדטפארק (Stadtpark)]]
+## מה קרוב לכאן
+
+לא נמצאו דפי מקום נוספים בכספת שאפשר לאמת כי הם נמצאים בטווח של 500 מטר.
 
 ## מידע מעשי
 

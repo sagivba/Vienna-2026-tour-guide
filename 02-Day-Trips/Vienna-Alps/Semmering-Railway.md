@@ -16,6 +16,10 @@ hero_image:
   license: "CC BY-SA 3.0 AT"
   license_url: "https://creativecommons.org/licenses/by-sa/3.0/at/"
   verified: 2026-08-27
+visit_duration:
+  minimum_minutes: 120
+  recommended_minutes: 240
+nearby_places: []
 ---
 # רכבת זמרינג (Semmeringbahn) - מסילת הרים היסטורית ואתר מורשת עולמית
 
@@ -23,13 +27,11 @@ hero_image:
 
 *צילום: Haeferl. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Steinhaus%20am%20Semmering%20-%20Semmeringbahn%20-%20Steinhausviadukt.jpg). רישיון: [CC BY-SA 3.0 AT](https://creativecommons.org/licenses/by-sa/3.0/at/).*
 
-
 ## למה זה מעניין
 
 זה אחד מסיפורי ההנדסה הטובים באזור: מסילת הרים שנבנתה באמצע המאה ה-19 והוכיחה שאפשר להעביר רכבת קונבנציונלית דרך נוף אלפיני קשה באמצעות גשרים, מנהרות ועקומות מתוכננות היטב.
 
 הרכבת נבנתה בשנים 1848-1854 בהובלת Carl Ritter von Ghega ונחשבת לאחת ממסילות ההרים הראשונות הגדולות בעולם. היא אתר מורשת עולמית של UNESCO.
-
 
 ## הסיפור
 
@@ -49,6 +51,15 @@ hero_image:
 
 ## אדם
 - [[Carl-Ritter-von-Ghega|קרל ריטר פון גגה (Carl Ritter von Ghega)]]
+
+## זמן שכדאי להקדיש
+
+- **מינימום:** כשעתיים
+- **מומלץ:** כארבע שעות
+
+## מה קרוב לכאן
+
+לא נמצאו דפי מקום נוספים בכספת שאפשר לאמת כי הם נמצאים בטווח של 500 מטר.
 
 ## מקורות
 - https://whc.unesco.org/en/list/785/

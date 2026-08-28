@@ -22,6 +22,18 @@ hero_image:
   license: "CC BY 4.0"
   license_url: "https://creativecommons.org/licenses/by/4.0/"
   verified: 2026-08-27
+visit_duration:
+  minimum_minutes: 60
+  recommended_minutes: 120
+nearby_places:
+  - page: Schoenbrunn-Palace
+    name_he: ארמון שנברון
+    distance_m: 50
+    walk_minutes: 1
+  - page: Gloriette
+    name_he: גלורייטה
+    distance_m: 450
+    walk_minutes: 6
 verification:
   general: 2026-08-27
 recheck_before_visit:
@@ -34,7 +46,6 @@ recheck_before_visit:
 ![גני שנברון (Schlosspark Schönbrunn)](https://commons.wikimedia.org/wiki/Special:FilePath/Vienna%2C%20Austria.%20Sch%C3%B6nbrunn%20Palace.jpg?width=1600)
 
 *צילום: Dupont66. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vienna%2C%20Austria.%20Sch%C3%B6nbrunn%20Palace.jpg). רישיון: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*
-
 
 ## למה זה מעניין אותנו
 
@@ -62,11 +73,15 @@ recheck_before_visit:
 - הבדלים בין אזורים פורמליים לשטחי חורש.
 - עצים ותיקים, גדרות חיות ופרספקטיבה מתוכננת.
 
+## זמן שכדאי להקדיש
 
-## מה נמצא לידנו
+- **מינימום:** כשעה
+- **מומלץ:** כשעתיים
 
-- [[Schoenbrunn-Palace|ארמון שנברון (Schloss Schönbrunn)]]
-- [[Gloriette|גלורייטה (Gloriette)]]
+## מה קרוב לכאן
+
+- [[Schoenbrunn-Palace|ארמון שנברון]] — כ־50 מטר, כ־1 דקות הליכה
+- [[Gloriette|גלורייטה]] — כ־450 מטר, כ־6 דקות הליכה
 
 ## מידע מעשי
 

@@ -22,6 +22,18 @@ hero_image:
   license: "CC BY-SA 4.0"
   license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
   verified: 2026-08-27
+visit_duration:
+  minimum_minutes: 30
+  recommended_minutes: 60
+nearby_places:
+  - page: Vienna-State-Opera
+    name_he: האופרה הממלכתית של וינה
+    distance_m: 450
+    walk_minutes: 6
+  - page: Naschmarkt
+    name_he: נאשמרקט
+    distance_m: 500
+    walk_minutes: 7
 verification:
   general: 2026-08-27
 recheck_before_visit:
@@ -34,7 +46,6 @@ recheck_before_visit:
 ![קרלספלאץ (Karlsplatz)](https://commons.wikimedia.org/wiki/Special:FilePath/Karlskirche%20on%20Karlsplatz%2C%20Vienna.jpg?width=1600)
 
 *צילום: KenB59240. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Karlskirche%20on%20Karlsplatz%2C%20Vienna.jpg). רישיון: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
-
 
 ## למה זה מעניין אותנו
 
@@ -52,18 +63,21 @@ recheck_before_visit:
 
 ההליכה בקרלספלאץ מעניינת אם לא מחפשים מרכז אחד. כדאי לעבור בין הכנסייה, ביתני ואגנר והמרחבים הפתוחים ולראות כיצד כל שכבה מספרת וינה אחרת.
 
-
 ## מה לחפש במקום
 
 - Karlskirche.
 - מבני Stadtbahn של Otto Wagner.
 - היחס בין הכיכר, הפארק והמבנים מסביבה.
 
+## זמן שכדאי להקדיש
 
-## מה נמצא לידנו
+- **מינימום:** כ־30 דקות
+- **מומלץ:** כשעה
 
-- [[Naschmarkt|נאשמרקט (Naschmarkt)]]
-- [[Vienna-State-Opera|האופרה הממלכתית של וינה (Wiener Staatsoper)]]
+## מה קרוב לכאן
+
+- [[Vienna-State-Opera|האופרה הממלכתית של וינה]] — כ־450 מטר, כ־6 דקות הליכה
+- [[Naschmarkt|נאשמרקט]] — כ־500 מטר, כ־7 דקות הליכה
 
 ## מידע מעשי
 

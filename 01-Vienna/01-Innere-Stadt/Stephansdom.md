@@ -22,6 +22,30 @@ hero_image:
   license: "CC BY-SA 4.0"
   license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
   verified: 2026-08-27
+visit_duration:
+  minimum_minutes: 30
+  recommended_minutes: 60
+nearby_places:
+  - page: Stephansplatz
+    name_he: שטפנספלאץ
+    distance_m: 20
+    walk_minutes: 1
+  - page: Graben
+    name_he: גראבן
+    distance_m: 200
+    walk_minutes: 3
+  - page: Peterskirche
+    name_he: כנסיית פטרוס הקדוש
+    distance_m: 280
+    walk_minutes: 4
+  - page: Jewish-Museum-Vienna
+    name_he: המוזיאון היהודי של וינה
+    distance_m: 320
+    walk_minutes: 4
+  - page: Stadttempel
+    name_he: שטאדטטמפל
+    distance_m: 450
+    walk_minutes: 6
 verification:
   general: 2026-08-27
 recheck_before_visit:
@@ -34,7 +58,6 @@ recheck_before_visit:
 ![קתדרלת סטפנוס הקדוש (Stephansdom)](https://commons.wikimedia.org/wiki/Special:FilePath/Wien%2C%20Stephansdom%202.jpg?width=1600)
 
 *צילום: Anna Saini. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wien%2C%20Stephansdom%202.jpg). רישיון: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
-
 
 ## למה זה מעניין אותנו
 
@@ -52,7 +75,6 @@ recheck_before_visit:
 
 הביקור כדאי בשתי שכבות. מבחוץ אפשר להבין את הצללית והיחס לכיכר, ובפנים אפשר לראות את הגובה, המזבחות והאווירה של חלל דתי שעבר מאות שנים של שימוש רצוף.
 
-
 ## מה לחפש במקום
 
 - גג הרעפים הצבעוני.
@@ -60,11 +82,18 @@ recheck_before_visit:
 - הבדלים בין חלקים רומנסקיים לגותיים.
 - אם נכנסים: לעצור רגע לפני שמתחילים לצלם. המבנה עובד טוב יותר כשמרימים את הראש.
 
+## זמן שכדאי להקדיש
 
-## מה נמצא לידנו
+- **מינימום:** כ־30 דקות
+- **מומלץ:** כשעה
 
-- [[Stephansplatz|שטפנספלאץ (Stephansplatz)]]
-- [[Graben|גראבן (Graben)]]
+## מה קרוב לכאן
+
+- [[Stephansplatz|שטפנספלאץ]] — כ־20 מטר, כ־1 דקות הליכה
+- [[Graben|גראבן]] — כ־200 מטר, כ־3 דקות הליכה
+- [[Peterskirche|כנסיית פטרוס הקדוש]] — כ־280 מטר, כ־4 דקות הליכה
+- [[Jewish-Museum-Vienna|המוזיאון היהודי של וינה]] — כ־320 מטר, כ־4 דקות הליכה
+- [[Stadttempel|שטאדטטמפל]] — כ־450 מטר, כ־6 דקות הליכה
 
 ## מידע מעשי
 

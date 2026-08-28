@@ -22,6 +22,26 @@ hero_image:
   license: "Public Domain"
   license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
   verified: 2026-08-27
+visit_duration:
+  minimum_minutes: 30
+  recommended_minutes: 60
+nearby_places:
+  - page: Karmelitermarkt
+    name_he: קרמליטרמרקט
+    distance_m: 100
+    walk_minutes: 2
+  - page: Vienna-Jewish-Leopoldstadt
+    name_he: לאופולדשטאדט היהודית
+    distance_m: 150
+    walk_minutes: 2
+  - page: Taborstrasse
+    name_he: טאבורשטראסה
+    distance_m: 300
+    walk_minutes: 4
+  - page: Hotel-IMLAUER-Wien
+    name_he: מלון IMLAUER Wien
+    distance_m: 350
+    walk_minutes: 5
 verification:
   general: 2026-08-27
 recheck_before_visit:
@@ -34,7 +54,6 @@ recheck_before_visit:
 ![קרמליטרפירטל (Karmeliterviertel)](https://commons.wikimedia.org/wiki/Special:FilePath/Wien%201830%20Vasquez%20Leopoldstadt%20Karmeliterviertel.jpg?width=1600)
 
 *צילום: Peter Gugerell. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wien%201830%20Vasquez%20Leopoldstadt%20Karmeliterviertel.jpg). רישיון: [Public Domain](https://creativecommons.org/publicdomain/mark/1.0/).*
-
 
 ## למה זה מעניין אותנו
 
@@ -58,12 +77,17 @@ recheck_before_visit:
 - בתי מגורים ישנים לצד עסקים חדשים.
 - קצב שכונתי בשעות הבוקר והצהריים.
 
+## זמן שכדאי להקדיש
 
-## מה נמצא לידנו
+- **מינימום:** כ־30 דקות
+- **מומלץ:** כשעה
 
-- [[Karmelitermarkt|קרמליטרמרקט (Karmelitermarkt)]]
-- [[Augarten|אאוגארטן (Augarten)]]
-- [[Danube-Canal|תעלת הדנובה (Donaukanal)]]
+## מה קרוב לכאן
+
+- [[Karmelitermarkt|קרמליטרמרקט]] — כ־100 מטר, כ־2 דקות הליכה
+- [[Vienna-Jewish-Leopoldstadt|לאופולדשטאדט היהודית]] — כ־150 מטר, כ־2 דקות הליכה
+- [[Taborstrasse|טאבורשטראסה]] — כ־300 מטר, כ־4 דקות הליכה
+- [[Hotel-IMLAUER-Wien|מלון IMLAUER Wien]] — כ־350 מטר, כ־5 דקות הליכה
 
 ## מידע מעשי
 

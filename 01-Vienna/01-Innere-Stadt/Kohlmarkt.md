@@ -22,6 +22,30 @@ hero_image:
   license: "CC BY 2.0"
   license_url: "https://creativecommons.org/licenses/by/2.0/"
   verified: 2026-08-27
+visit_duration:
+  minimum_minutes: 20
+  recommended_minutes: 40
+nearby_places:
+  - page: Michaelerplatz
+    name_he: כיכר מיכאלר
+    distance_m: 150
+    walk_minutes: 2
+  - page: Hofburg
+    name_he: הופבורג
+    distance_m: 250
+    walk_minutes: 3
+  - page: Peterskirche
+    name_he: כנסיית פטרוס הקדוש
+    distance_m: 250
+    walk_minutes: 3
+  - page: Graben
+    name_he: גראבן
+    distance_m: 250
+    walk_minutes: 3
+  - page: Sisi-Museum
+    name_he: מוזיאון סיסי
+    distance_m: 300
+    walk_minutes: 4
 verification:
   general: 2026-08-27
 recheck_before_visit:
@@ -34,7 +58,6 @@ recheck_before_visit:
 ![קולמרקט (Kohlmarkt)](https://commons.wikimedia.org/wiki/Special:FilePath/Wien%20-%20Kohlmarkt.jpg?width=1600)
 
 *צילום: Fred Romero. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wien%20-%20Kohlmarkt.jpg). רישיון: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
-
 
 ## למה זה מעניין אותנו
 
@@ -56,11 +79,18 @@ recheck_before_visit:
 - חזיתות החנויות והבניינים ההיסטוריים.
 - Demel מבחוץ, כחלק מתרבות הקונדיטוריות הקיסרית, גם אם לא נכנסים לאכול.
 
+## זמן שכדאי להקדיש
 
-## מה נמצא לידנו
+- **מינימום:** כ־20 דקות
+- **מומלץ:** כ־40 דקות
 
-- [[Michaelerplatz|כיכר מיכאלר (Michaelerplatz)]]
-- [[Graben|גראבן (Graben)]]
+## מה קרוב לכאן
+
+- [[Michaelerplatz|כיכר מיכאלר]] — כ־150 מטר, כ־2 דקות הליכה
+- [[Hofburg|הופבורג]] — כ־250 מטר, כ־3 דקות הליכה
+- [[Peterskirche|כנסיית פטרוס הקדוש]] — כ־250 מטר, כ־3 דקות הליכה
+- [[Graben|גראבן]] — כ־250 מטר, כ־3 דקות הליכה
+- [[Sisi-Museum|מוזיאון סיסי]] — כ־300 מטר, כ־4 דקות הליכה
 
 ## מידע מעשי
 

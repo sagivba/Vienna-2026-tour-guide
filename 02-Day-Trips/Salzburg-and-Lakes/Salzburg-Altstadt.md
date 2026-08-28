@@ -16,6 +16,22 @@ hero_image:
   license: "Public Domain"
   license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
   verified: 2026-08-27
+visit_duration:
+  minimum_minutes: 120
+  recommended_minutes: 240
+nearby_places:
+  - page: Mozarts-Birthplace
+    name_he: בית הולדתו של מוצרט
+    distance_m: 20
+    walk_minutes: 1
+  - page: FestungsBahn-Salzburg
+    name_he: הפוניקולר למצודת זלצבורג
+    distance_m: 450
+    walk_minutes: 6
+  - page: Mozart-Residence-Salzburg
+    name_he: בית מגורי מוצרט בזלצבורג
+    distance_m: 450
+    walk_minutes: 6
 ---
 # העיר העתיקה של זלצבורג (Salzburger Altstadt) - העיר העתיקה הבארוקית של זלצבורג
 
@@ -25,7 +41,6 @@ hero_image:
 
 
 העיר העתיקה בנויה סביב רשת רחובות, כיכרות, כנסיות ומבנים של נסיכי-הארכיבישופים. הסיבה שהיא עובדת כל כך טוב לעין היא לא רק "בארוק יפה", אלא ההתאמה של העיר לעמק הצר בין Mönchsberg, Kapuzinerberg ונהר Salzach.
-
 
 ## הסיפור
 
@@ -43,6 +58,17 @@ hero_image:
 - Passagen, מעברים דרך בניינים.
 - קשר עין כמעט קבוע ל-Hohensalzburg.
 - Getreidegasse והשלטים הבולטים מעל החנויות.
+
+## זמן שכדאי להקדיש
+
+- **מינימום:** כשעתיים
+- **מומלץ:** כארבע שעות
+
+## מה קרוב לכאן
+
+- [[Mozarts-Birthplace|בית הולדתו של מוצרט]] — כ־20 מטר, כ־1 דקות הליכה
+- [[FestungsBahn-Salzburg|הפוניקולר למצודת זלצבורג]] — כ־450 מטר, כ־6 דקות הליכה
+- [[Mozart-Residence-Salzburg|בית מגורי מוצרט בזלצבורג]] — כ־450 מטר, כ־6 דקות הליכה
 
 ## מקורות
 - https://www.salzburg.info/en/sights/unesco-world-heritage

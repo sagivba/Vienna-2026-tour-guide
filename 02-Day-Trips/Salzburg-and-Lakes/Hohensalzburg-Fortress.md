@@ -16,6 +16,18 @@ hero_image:
   license: "CC BY-SA 4.0"
   license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
   verified: 2026-08-27
+visit_duration:
+  minimum_minutes: 60
+  recommended_minutes: 120
+nearby_places:
+  - page: Stefan-Zweig-Centre
+    name_he: מרכז סטפן צווייג
+    distance_m: 250
+    walk_minutes: 4
+  - page: FestungsBahn-Salzburg
+    name_he: הפוניקולר למצודת זלצבורג
+    distance_m: 400
+    walk_minutes: 6
 ---
 # מבצר הוהנזלצבורג (Festung Hohensalzburg) - מצודה ימי ביניימית השולטת על קו הרקיע של זלצבורג
 
@@ -23,13 +35,11 @@ hero_image:
 
 *צילום: Carsten Steger. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aerial%20image%20of%20Hohensalzburg%20Fortress%20%28view%20from%20the%20southwest%29.jpg). רישיון: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
-
 ## למה הוא מעניין
 
 זה לא רק נוף יפה. המבצר מסביר מי שלט בזלצבורג ולמה שליט דתי היה צריך מעל העיר מערכת הגנה בגודל שמבהיר לכולם שהוא לא מסתפק באמונה.
 
 הבנייה החלה במאה ה-11 והמבצר הורחב במשך מאות שנים בידי הנסיכים-הארכיבישופים. הוא נחשב לאחד המבצרים הגדולים והשמורים באירופה.
-
 
 ## הסיפור
 
@@ -50,6 +60,16 @@ hero_image:
 ## מאמץ
 
 אם הטיול כולל עלייה, להעדיף את FestungsBahn. אין פרס מיוחד למי שהגיע למצודה עם דופק של מרד איכרים.
+
+## זמן שכדאי להקדיש
+
+- **מינימום:** כשעה
+- **מומלץ:** כשעתיים
+
+## מה קרוב לכאן
+
+- [[Stefan-Zweig-Centre|מרכז סטפן צווייג]] — כ־250 מטר, כ־4 דקות הליכה
+- [[FestungsBahn-Salzburg|הפוניקולר למצודת זלצבורג]] — כ־400 מטר, כ־6 דקות הליכה
 
 ## מקורות
 - https://www.salzburg.info/en/sights/top10/hohensalzburg-fortress
