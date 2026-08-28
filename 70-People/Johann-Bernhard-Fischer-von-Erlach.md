@@ -8,8 +8,22 @@ died: 1723-04-05
 roles: [architect]
 tags: [person]
 content_status: first-complete-build
+hero_image:
+  provider: wikimedia_commons
+  storage: remote
+  file: "Johann Bernhard Fischer von Erlach Portrait.jpg"
+  remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Johann%20Bernhard%20Fischer%20von%20Erlach%20Portrait.jpg?width=1600"
+  source_page: "https://commons.wikimedia.org/wiki/File:Johann%20Bernhard%20Fischer%20von%20Erlach%20Portrait.jpg"
+  author: "Johann Adam Delsenbach"
+  license: "Public Domain"
+  license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+  verified: 2026-08-28
 ---
 # יוהאן ברנהרד פישר פון ארלאך (Johann Bernhard Fischer von Erlach)
+![יוהאן ברנהרד פישר פון ארלאך (Johann Bernhard Fischer von Erlach)](https://commons.wikimedia.org/wiki/Special:FilePath/Johann%20Bernhard%20Fischer%20von%20Erlach%20Portrait.jpg?width=1600)
+
+*דיוקן: Johann Adam Delsenbach. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Johann%20Bernhard%20Fischer%20von%20Erlach%20Portrait.jpg). רישיון: [Public Domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+
 
 ## מי האדם ולמה אכפת לנו
 

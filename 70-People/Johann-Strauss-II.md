@@ -8,8 +8,22 @@ died: 1899-06-03
 roles: [composer, conductor]
 tags: [person]
 content_status: first-complete-build
+hero_image:
+  provider: wikimedia_commons
+  storage: remote
+  file: "Johann Strauss II Porträtpostkarte.jpg"
+  remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Johann%20Strauss%20II%20Portr%C3%A4tpostkarte.jpg?width=1600"
+  source_page: "https://commons.wikimedia.org/wiki/File:Johann%20Strauss%20II%20Portr%C3%A4tpostkarte.jpg"
+  author: "Verlag C. Ledermann jr., Wien"
+  license: "Public Domain"
+  license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+  verified: 2026-08-28
 ---
 # יוהאן שטראוס הבן (Johann Strauss Sohn)
+![יוהאן שטראוס הבן (Johann Strauss Sohn)](https://commons.wikimedia.org/wiki/Special:FilePath/Johann%20Strauss%20II%20Portr%C3%A4tpostkarte.jpg?width=1600)
+
+*צילום: Verlag C. Ledermann jr., Wien. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Johann%20Strauss%20II%20Portr%C3%A4tpostkarte.jpg). רישיון: [Public Domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+
 
 ## מי האדם ולמה אכפת לנו
 

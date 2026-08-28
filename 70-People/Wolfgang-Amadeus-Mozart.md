@@ -8,8 +8,22 @@ died: 1791-12-05
 roles: [composer]
 tags: [person]
 content_status: first-complete-build
+hero_image:
+  provider: wikimedia_commons
+  storage: remote
+  file: "Barbara Krafft - Porträt Wolfgang Amadeus Mozart (1819).jpg"
+  remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Barbara%20Krafft%20-%20Portr%C3%A4t%20Wolfgang%20Amadeus%20Mozart%20%281819%29.jpg?width=1600"
+  source_page: "https://commons.wikimedia.org/wiki/File:Barbara%20Krafft%20-%20Portr%C3%A4t%20Wolfgang%20Amadeus%20Mozart%20(1819).jpg"
+  author: "Barbara Krafft"
+  license: "Public Domain"
+  license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+  verified: 2026-08-28
 ---
 # וולפגנג אמדאוס מוצרט (Wolfgang Amadeus Mozart)
+![וולפגנג אמדאוס מוצרט (Wolfgang Amadeus Mozart)](https://commons.wikimedia.org/wiki/Special:FilePath/Barbara%20Krafft%20-%20Portr%C3%A4t%20Wolfgang%20Amadeus%20Mozart%20%281819%29.jpg?width=1600)
+
+*דיוקן: Barbara Krafft. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Barbara%20Krafft%20-%20Portr%C3%A4t%20Wolfgang%20Amadeus%20Mozart%20(1819).jpg). רישיון: [Public Domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+
 
 ## מי האדם ולמה אכפת לנו
 

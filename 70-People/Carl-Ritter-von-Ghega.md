@@ -8,8 +8,22 @@ died: 1860-03-14
 roles: [engineer, railway-designer]
 tags: [person, engineering, vienna-alps]
 content_status: first-complete-build
+hero_image:
+  provider: wikimedia_commons
+  storage: remote
+  file: "Carl von Ghega 1840 Litho.jpg"
+  remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Carl%20von%20Ghega%201840%20Litho.jpg?width=1600"
+  source_page: "https://commons.wikimedia.org/wiki/File:Carl%20von%20Ghega%201840%20Litho.jpg"
+  author: "Josef Kriehuber (lithograph), after Weidner"
+  license: "Public Domain"
+  license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+  verified: 2026-08-28
 ---
 # קרל ריטר פון גגה (Carl Ritter von Ghega)
+![קרל ריטר פון גגה (Carl Ritter von Ghega)](https://commons.wikimedia.org/wiki/Special:FilePath/Carl%20von%20Ghega%201840%20Litho.jpg?width=1600)
+
+*דיוקן: Josef Kriehuber (lithograph), after Weidner. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Carl%20von%20Ghega%201840%20Litho.jpg). רישיון: [Public Domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+
 
 ## מי האדם ולמה אכפת לנו
 

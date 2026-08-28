@@ -8,8 +8,22 @@ died: 1829-10-29
 roles: [musician]
 tags: [person]
 content_status: first-complete-build
+hero_image:
+  provider: wikimedia_commons
+  storage: remote
+  file: "Maria Anna Mozart (Lorenzoni).jpg"
+  remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Maria%20Anna%20Mozart%20%28Lorenzoni%29.jpg?width=1600"
+  source_page: "https://commons.wikimedia.org/wiki/File:Maria%20Anna%20Mozart%20(Lorenzoni).jpg"
+  author: "Pietro Antonio Lorenzoni"
+  license: "Public Domain"
+  license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+  verified: 2026-08-28
 ---
 # נאנרל מוצרט (Maria Anna Mozart, Nannerl)
+![נאנרל מוצרט (Maria Anna Mozart, Nannerl)](https://commons.wikimedia.org/wiki/Special:FilePath/Maria%20Anna%20Mozart%20%28Lorenzoni%29.jpg?width=1600)
+
+*דיוקן: Pietro Antonio Lorenzoni. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Maria%20Anna%20Mozart%20(Lorenzoni).jpg). רישיון: [Public Domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+
 
 ## מי האדם ולמה אכפת לנו
 

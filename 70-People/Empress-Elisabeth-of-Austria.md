@@ -8,8 +8,22 @@ died: 1898-09-10
 roles: [empress]
 tags: [person]
 content_status: first-complete-build
+hero_image:
+  provider: wikimedia_commons
+  storage: remote
+  file: "Franz Russ the Younger - Portrait of Empress Elisabeth of Austria.jpg"
+  remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Franz%20Russ%20the%20Younger%20-%20Portrait%20of%20Empress%20Elisabeth%20of%20Austria.jpg?width=1600"
+  source_page: "https://commons.wikimedia.org/wiki/File:Franz%20Russ%20the%20Younger%20-%20Portrait%20of%20Empress%20Elisabeth%20of%20Austria.jpg"
+  author: "Franz Russ the Younger"
+  license: "Public Domain"
+  license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+  verified: 2026-08-28
 ---
 # אליזבת, סיסי (Elisabeth von Österreich, Sisi)
+![אליזבת, סיסי (Elisabeth von Österreich, Sisi)](https://commons.wikimedia.org/wiki/Special:FilePath/Franz%20Russ%20the%20Younger%20-%20Portrait%20of%20Empress%20Elisabeth%20of%20Austria.jpg?width=1600)
+
+*דיוקן: Franz Russ the Younger. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Franz%20Russ%20the%20Younger%20-%20Portrait%20of%20Empress%20Elisabeth%20of%20Austria.jpg). רישיון: [Public Domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+
 
 ## מי האדם ולמה אכפת לנו
 

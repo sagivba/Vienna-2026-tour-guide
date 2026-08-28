@@ -8,8 +8,22 @@ died: 1765-08-18
 roles: [emperor, consort]
 tags: [person]
 content_status: first-complete-build
+hero_image:
+  provider: wikimedia_commons
+  storage: remote
+  file: "Holy Roman Emperor Francis I.jpg"
+  remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Holy%20Roman%20Emperor%20Francis%20I.jpg?width=1600"
+  source_page: "https://commons.wikimedia.org/wiki/File:Holy%20Roman%20Emperor%20Francis%20I.jpg"
+  author: "Anonymous Austrian painter"
+  license: "Public Domain"
+  license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+  verified: 2026-08-28
 ---
 # פרנץ שטפן מלותרינגיה (Franz I. Stephan)
+![פרנץ שטפן מלותרינגיה (Franz I. Stephan)](https://commons.wikimedia.org/wiki/Special:FilePath/Holy%20Roman%20Emperor%20Francis%20I.jpg?width=1600)
+
+*דיוקן: Anonymous Austrian painter. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Holy%20Roman%20Emperor%20Francis%20I.jpg). רישיון: [Public Domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+
 
 ## מי האדם ולמה אכפת לנו
 

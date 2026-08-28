@@ -8,8 +8,22 @@ died: 1918-04-11
 roles: [architect]
 tags: [person]
 content_status: first-complete-build
+hero_image:
+  provider: wikimedia_commons
+  storage: remote
+  file: "Otto Wagner photo.jpg"
+  remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Otto%20Wagner%20photo.jpg?width=1600"
+  source_page: "https://commons.wikimedia.org/wiki/File:Otto%20Wagner%20photo.jpg"
+  author: "Wenzl Weis"
+  license: "Public Domain"
+  license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+  verified: 2026-08-28
 ---
 # אוטו ואגנר (Otto Wagner)
+![אוטו ואגנר (Otto Wagner)](https://commons.wikimedia.org/wiki/Special:FilePath/Otto%20Wagner%20photo.jpg?width=1600)
+
+*צילום: Wenzl Weis. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Otto%20Wagner%20photo.jpg). רישיון: [Public Domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+
 
 ## מי האדם ולמה אכפת לנו
 

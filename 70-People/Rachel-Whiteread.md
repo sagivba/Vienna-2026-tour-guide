@@ -8,8 +8,22 @@ died:
 roles: [artist]
 tags: [person]
 content_status: first-complete-build
+hero_image:
+  provider: wikimedia_commons
+  storage: remote
+  file: "Rachel Whiteread 2018.jpg"
+  remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Rachel%20Whiteread%202018.jpg?width=1600"
+  source_page: "https://commons.wikimedia.org/wiki/File:Rachel%20Whiteread%202018.jpg"
+  author: "Christian Zürn"
+  license: "CC BY 3.0"
+  license_url: "https://creativecommons.org/licenses/by/3.0/"
+  verified: 2026-08-28
 ---
 # רחל וייטריד (Rachel Whiteread)
+![רחל וייטריד (Rachel Whiteread)](https://commons.wikimedia.org/wiki/Special:FilePath/Rachel%20Whiteread%202018.jpg?width=1600)
+
+*צילום: Christian Zürn. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rachel%20Whiteread%202018.jpg). רישיון: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).*
+
 
 ## מי האדם ולמה אכפת לנו
 
