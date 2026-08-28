@@ -30,6 +30,8 @@ interface BreadcrumbOptions {
    * Whether to display the current page in the breadcrumbs.
    */
   showCurrentPage: boolean
+  /** Reader-facing labels for folder slug segments. */
+  folderLabels: Record<string, string>
 }
 
 const defaultOptions: BreadcrumbOptions = {
@@ -38,6 +40,7 @@ const defaultOptions: BreadcrumbOptions = {
   resolveFrontmatterTitle: true,
   hideOnRoot: true,
   showCurrentPage: true,
+  folderLabels: {},
 }
 
 function formatCrumb(displayName: string, baseSlug: FullSlug, currentSlug: SimpleSlug): CrumbData {
@@ -89,12 +92,14 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
       let currentPath = ""
 
       for (let i = 0; i < slugParts.length - 1; i++) {
-        let curPathSegment = slugParts[i]
+        let curPathSegment = options.folderLabels[slugParts[i]] ?? slugParts[i]
 
         // Try to resolve frontmatter folder title
         const currentFile = folderIndex?.get(slugParts.slice(0, i + 1).join("/"))
         if (currentFile) {
-          const title = currentFile.frontmatter!.title
+          const title =
+            (currentFile.frontmatter?.name_he as string | undefined) ??
+            currentFile.frontmatter!.title
           if (title !== "index") {
             curPathSegment = title
           }
@@ -116,14 +121,19 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
       // Add current file to crumb (can directly use frontmatter title)
       if (options.showCurrentPage && slugParts.at(-1) !== "index") {
         crumbs.push({
-          displayName: fileData.frontmatter!.title,
+          displayName:
+            (fileData.frontmatter?.name_he as string | undefined) ?? fileData.frontmatter!.title,
           path: "",
         })
       }
     }
 
     return (
-      <nav class={classNames(displayClass, "breadcrumb-container")} aria-label="breadcrumbs">
+      <nav
+        class={classNames(displayClass, "breadcrumb-container")}
+        aria-label="פירורי לחם"
+        dir="rtl"
+      >
         {crumbs.map((crumb, index) => (
           <div class="breadcrumb-element">
             <a href={crumb.path}>{crumb.displayName}</a>

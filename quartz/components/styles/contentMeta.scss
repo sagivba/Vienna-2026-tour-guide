@@ -4,10 +4,11 @@
 
   &[show-comma="true"] {
     > *:not(:last-child) {
-      margin-right: 8px;
+      margin-inline-end: 8px;
 
       &::after {
-        content: ",";
+        content: var(--content-meta-separator, ",");
+        margin-inline-start: 8px;
       }
     }
   }

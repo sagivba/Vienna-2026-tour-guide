@@ -21,6 +21,27 @@ const travelExplorer = Component.Explorer({
   },
 })
 
+const breadcrumbFolderLabels: Record<string, string> = {
+  "00-Index": "נושאים",
+  "01-Vienna": "וינה",
+  "02-Day-Trips": "טיולי יום",
+  "70-People": "אנשים",
+  "80-Routes": "מסלולים",
+  "90-Reference": "מידע מעשי",
+  "01-Innere-Stadt": "הרובע הראשון (Innere Stadt)",
+  "02-Leopoldstadt": "הרובע השני (Leopoldstadt)",
+  "03-Landstrasse": "הרובע השלישי (Landstraße)",
+  "04-Wieden": "הרובע הרביעי (Wieden)",
+  "13-Hietzing": "הרובע השלושה־עשר (Hietzing)",
+  "Cross-District": "נושאים חוצי רבעים",
+}
+
+const breadcrumbs = Component.Breadcrumbs({
+  rootName: "בית",
+  spacerSymbol: "‹",
+  folderLabels: breadcrumbFolderLabels,
+})
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
@@ -37,9 +58,9 @@ export const sharedPageComponents: SharedLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    Component.Breadcrumbs(),
+    breadcrumbs,
     Component.ArticleTitle(),
-    Component.ContentMeta(),
+    Component.ContentMeta({ separator: "·" }),
     Component.TagList(),
   ],
   left: [
@@ -65,7 +86,7 @@ export const defaultContentPageLayout: PageLayout = {
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [breadcrumbs, Component.ArticleTitle(), Component.ContentMeta({ separator: "·" })],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),

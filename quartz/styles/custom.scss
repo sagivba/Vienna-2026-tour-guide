@@ -86,6 +86,13 @@
   }
 }
 
+// Keep each Latin-script tag token intact inside the RTL interface so Quartz's
+// generated hash prefix stays visually before the tag value.
+.page #quartz-body a.tag-link {
+  direction: ltr;
+  unicode-bidi: isolate;
+}
+
 // Keep responsive media and isolated technical fragments inside the article
 // column instead of allowing them to widen the page on narrow screens.
 .page #quartz-body {
@@ -275,6 +282,11 @@
 
     .center h1 {
       overflow-wrap: anywhere;
+    }
+
+    .center article > h1 {
+      font-size: clamp(1.6rem, 7vw, 2rem);
+      line-height: 1.2;
     }
 
     .center .article-title {
