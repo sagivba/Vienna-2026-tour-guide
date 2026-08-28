@@ -49,6 +49,8 @@
 
     .primary-navigation-toggle {
       display: flex;
+      position: relative;
+      z-index: 200;
       min-block-size: 44px;
       align-items: center;
       gap: 0.3rem;

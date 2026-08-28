@@ -261,18 +261,12 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   const currentSlug = e.detail.url
   await setupExplorer(currentSlug)
 
-  // if mobile hamburger is visible, collapse by default
+  // The header's primary-navigation toggle controls the Explorer on mobile.
   for (const explorer of document.getElementsByClassName("explorer")) {
-    const mobileExplorer = explorer.querySelector(".mobile-explorer")
-    if (!mobileExplorer) return
-
-    if (mobileExplorer.checkVisibility()) {
+    if (window.matchMedia("(max-width: 800px)").matches) {
       explorer.classList.add("collapsed")
       explorer.setAttribute("aria-expanded", "false")
-      mobileExplorer.setAttribute("aria-expanded", "false")
     }
-
-    mobileExplorer.classList.remove("hide-until-loaded")
   }
 })
 
