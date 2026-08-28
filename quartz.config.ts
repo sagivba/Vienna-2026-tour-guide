@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
-    locale: "en-US",
+    locale: "he-IL",
     baseUrl: "sagivba.github.io/Vienna-2026-tour-guide",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
@@ -54,6 +54,7 @@ const config: QuartzConfig = {
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
+      Plugin.SuppressDuplicateTitle(),
       Plugin.CreatedModifiedDate({
         // `content/` maps to the Vault with symlinks, so use source-file timestamps directly.
         priority: ["frontmatter", "filesystem"],

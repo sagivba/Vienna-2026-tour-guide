@@ -6,12 +6,13 @@
   flex-direction: row;
   flex-wrap: wrap;
   gap: 0.5rem;
+  direction: rtl;
 }
 
 .breadcrumb-element {
   p {
     margin: 0;
-    margin-left: 0.5rem;
+    margin-inline-start: 0.5rem;
     padding: 0;
     line-height: normal;
   }

@@ -44,6 +44,8 @@
 @media all and (max-width: 800px) {
   .primary-navigation {
     position: relative;
+    box-sizing: border-box;
+    padding: 0.5rem 1rem;
 
     .primary-navigation-toggle {
       display: flex;
@@ -58,6 +60,7 @@
       font: inherit;
       font-weight: 600;
       cursor: pointer;
+      margin-inline-start: auto;
 
       svg {
         fill: none;

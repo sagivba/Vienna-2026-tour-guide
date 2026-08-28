@@ -12,11 +12,13 @@ interface ContentMetaOptions {
    */
   showReadingTime: boolean
   showComma: boolean
+  separator: string
 }
 
 const defaultOptions: ContentMetaOptions = {
   showReadingTime: true,
   showComma: true,
+  separator: ",",
 }
 
 export default ((opts?: Partial<ContentMetaOptions>) => {
@@ -43,7 +45,11 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       }
 
       return (
-        <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
+        <p
+          show-comma={options.showComma}
+          style={{ "--content-meta-separator": `'${options.separator}'` }}
+          class={classNames(displayClass, "content-meta")}
+        >
           {segments}
         </p>
       )
