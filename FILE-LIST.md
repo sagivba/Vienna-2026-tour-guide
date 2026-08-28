@@ -70,7 +70,6 @@
 - `02-Day-Trips/Wachau/Wachau-Cultural-Landscape.md`
 - `02-Day-Trips/Wachau/Wachau-Day-Trip.md`
 - `02-Day-Trips/Wachau/Wachau-Nature.md`
-- `70-People/Adolf-Hitler.md`
 - `70-People/Adolf-Loos.md`
 - `70-People/Archduke-Charles-Austria.md`
 - `70-People/August-Sicard-von-Sicardsburg.md`
