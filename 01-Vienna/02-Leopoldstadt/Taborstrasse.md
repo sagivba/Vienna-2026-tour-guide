@@ -22,6 +22,26 @@ hero_image:
   license: "Public Domain"
   license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
   verified: 2026-08-27
+visit_duration:
+  minimum_minutes: 20
+  recommended_minutes: 45
+nearby_places:
+  - page: Hotel-IMLAUER-Wien
+    name_he: מלון IMLAUER Wien
+    distance_m: 150
+    walk_minutes: 2
+  - page: Karmeliterviertel
+    name_he: קרמליטרפירטל
+    distance_m: 300
+    walk_minutes: 4
+  - page: Karmelitermarkt
+    name_he: קרמליטרמרקט
+    distance_m: 400
+    walk_minutes: 5
+  - page: Vienna-Jewish-Leopoldstadt
+    name_he: לאופולדשטאדט היהודית
+    distance_m: 400
+    walk_minutes: 5
 verification:
   general: 2026-08-27
 recheck_before_visit:
@@ -34,7 +54,6 @@ recheck_before_visit:
 ![טאבורשטראסה (Taborstraße)](https://commons.wikimedia.org/wiki/Special:FilePath/Wien%201830%20Vasquez%20Leopoldstadt%20Taborstra%C3%9Fe.jpg?width=1600)
 
 *צילום: Peter Gugerell. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wien%201830%20Vasquez%20Leopoldstadt%20Taborstra%C3%9Fe.jpg). רישיון: [Public Domain](https://creativecommons.org/publicdomain/mark/1.0/).*
-
 
 ## למה זה מעניין אותנו
 
@@ -58,11 +77,17 @@ recheck_before_visit:
 - עסקים מקומיים.
 - להבין את הכיוון למרכז בלי לפתוח מפה כל שלושים שניות.
 
+## זמן שכדאי להקדיש
 
-## מה נמצא לידנו
+- **מינימום:** כ־20 דקות
+- **מומלץ:** כ־45 דקות
 
-- [[Hotel-IMLAUER-Wien|מלון IMLAUER Wien]]
-- [[Karmelitermarkt|קרמליטרמרקט (Karmelitermarkt)]]
+## מה קרוב לכאן
+
+- [[Hotel-IMLAUER-Wien|מלון IMLAUER Wien]] — כ־150 מטר, כ־2 דקות הליכה
+- [[Karmeliterviertel|קרמליטרפירטל]] — כ־300 מטר, כ־4 דקות הליכה
+- [[Karmelitermarkt|קרמליטרמרקט]] — כ־400 מטר, כ־5 דקות הליכה
+- [[Vienna-Jewish-Leopoldstadt|לאופולדשטאדט היהודית]] — כ־400 מטר, כ־5 דקות הליכה
 
 ## מידע מעשי
 

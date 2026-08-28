@@ -22,6 +22,30 @@ hero_image:
   license: "CC BY-SA 4.0"
   license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
   verified: 2026-08-27
+visit_duration:
+  minimum_minutes: 30
+  recommended_minutes: 60
+nearby_places:
+  - page: Heldenplatz
+    name_he: כיכר הגיבורים
+    distance_m: 100
+    walk_minutes: 2
+  - page: Burggarten
+    name_he: בורגגארטן
+    distance_m: 100
+    walk_minutes: 2
+  - page: Hofburg
+    name_he: הופבורג
+    distance_m: 250
+    walk_minutes: 3
+  - page: Albertina
+    name_he: אלברטינה
+    distance_m: 300
+    walk_minutes: 4
+  - page: Volksgarten
+    name_he: פולקסגארטן
+    distance_m: 350
+    walk_minutes: 5
 verification:
   general: 2026-08-27
 recheck_before_visit:
@@ -34,7 +58,6 @@ recheck_before_visit:
 ![נוייה בורג (Neue Burg)](https://commons.wikimedia.org/wiki/Special:FilePath/Neue%20Burg%2C%20Hofberg%20Palace%2C%20Vienna%20Austria.jpg?width=1600)
 
 *צילום: Thcipriani. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Neue%20Burg%2C%20Hofberg%20Palace%2C%20Vienna%20Austria.jpg). רישיון: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
-
 
 ## למה זה מעניין אותנו
 
@@ -58,11 +81,18 @@ recheck_before_visit:
 - היחס בין הבניין לבין Heldenplatz.
 - לחשוב על מה שלא נבנה: לפעמים חוסר השלמה הוא בעצמו מסמך היסטורי.
 
+## זמן שכדאי להקדיש
 
-## מה נמצא לידנו
+- **מינימום:** כ־30 דקות
+- **מומלץ:** כשעה
 
-- [[Heldenplatz|כיכר הגיבורים (Heldenplatz)]]
-- [[Hofburg|הופבורג (Hofburg)]]
+## מה קרוב לכאן
+
+- [[Heldenplatz|כיכר הגיבורים]] — כ־100 מטר, כ־2 דקות הליכה
+- [[Burggarten|בורגגארטן]] — כ־100 מטר, כ־2 דקות הליכה
+- [[Hofburg|הופבורג]] — כ־250 מטר, כ־3 דקות הליכה
+- [[Albertina|אלברטינה]] — כ־300 מטר, כ־4 דקות הליכה
+- [[Volksgarten|פולקסגארטן]] — כ־350 מטר, כ־5 דקות הליכה
 
 ## מידע מעשי
 

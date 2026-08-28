@@ -22,6 +22,30 @@ hero_image:
   license: "CC BY 4.0"
   license_url: "https://creativecommons.org/licenses/by/4.0/"
   verified: 2026-08-27
+visit_duration:
+  minimum_minutes: 20
+  recommended_minutes: 45
+nearby_places:
+  - page: Judenplatz-Holocaust-Memorial
+    name_he: אנדרטת השואה ביודנפלאץ
+    distance_m: 10
+    walk_minutes: 1
+  - page: Museum-Judenplatz
+    name_he: מוזיאון יודנפלאץ
+    distance_m: 20
+    walk_minutes: 1
+  - page: Medieval-Synagogue-Vienna
+    name_he: בית הכנסת של וינה בימי הביניים
+    distance_m: 20
+    walk_minutes: 1
+  - page: Peterskirche
+    name_he: כנסיית פטרוס הקדוש
+    distance_m: 350
+    walk_minutes: 5
+  - page: Graben
+    name_he: גראבן
+    distance_m: 400
+    walk_minutes: 5
 verification:
   general: 2026-08-27
 recheck_before_visit:
@@ -34,7 +58,6 @@ recheck_before_visit:
 ![יודנפלאץ (Judenplatz)](https://commons.wikimedia.org/wiki/Special:FilePath/20250503%20Judenplatz%20Holocaust%20Memorial.jpg?width=1600)
 
 *צילום: Flocci Nivis. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:20250503%20Judenplatz%20Holocaust%20Memorial.jpg). רישיון: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*
-
 
 ## למה זה מעניין אותנו
 
@@ -52,7 +75,6 @@ recheck_before_visit:
 
 הביקור ביודנפלאץ משמעותי במיוחד כאשר לא מסתפקים באנדרטה בלבד. כדאי להיכנס למוזיאון, לראות את השרידים ולחזור אחר כך לכיכר, משום שאז המרחב מקבל עומק שקשה להבין רק מן הרחוב.
 
-
 ## מה לחפש במקום
 
 - האנדרטה בצורת ספרייה סגורה: ספרים שאי אפשר לפתוח.
@@ -60,12 +82,18 @@ recheck_before_visit:
 - השרידים מתחת לכיכר.
 - לעצור ולשים לב שהמקום אינו "אתר שואה" בלבד. הוא מספר רצף יהודי של מאות שנים.
 
+## זמן שכדאי להקדיש
 
-## מה נמצא לידנו
+- **מינימום:** כ־20 דקות
+- **מומלץ:** כ־45 דקות
 
-- [[Museum-Judenplatz|מוזיאון יודנפלאץ (Museum Judenplatz)]]
-- [[Medieval-Synagogue-Vienna|בית הכנסת של ימי הביניים]]
-- [[Judenplatz-Holocaust-Memorial|אנדרטת השואה ביודנפלאץ]]
+## מה קרוב לכאן
+
+- [[Judenplatz-Holocaust-Memorial|אנדרטת השואה ביודנפלאץ]] — כ־10 מטר, כ־1 דקות הליכה
+- [[Museum-Judenplatz|מוזיאון יודנפלאץ]] — כ־20 מטר, כ־1 דקות הליכה
+- [[Medieval-Synagogue-Vienna|בית הכנסת של וינה בימי הביניים]] — כ־20 מטר, כ־1 דקות הליכה
+- [[Peterskirche|כנסיית פטרוס הקדוש]] — כ־350 מטר, כ־5 דקות הליכה
+- [[Graben|גראבן]] — כ־400 מטר, כ־5 דקות הליכה
 
 ## מידע מעשי
 

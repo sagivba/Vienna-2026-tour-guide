@@ -22,6 +22,30 @@ hero_image:
   license: "CC BY-SA 3.0"
   license_url: "https://creativecommons.org/licenses/by-sa/3.0/"
   verified: 2026-08-27
+visit_duration:
+  minimum_minutes: 20
+  recommended_minutes: 45
+nearby_places:
+  - page: Neue-Burg
+    name_he: נוייה בורג
+    distance_m: 100
+    walk_minutes: 2
+  - page: Hofburg
+    name_he: הופבורג
+    distance_m: 150
+    walk_minutes: 2
+  - page: Volksgarten
+    name_he: פולקסגארטן
+    distance_m: 200
+    walk_minutes: 3
+  - page: Burggarten
+    name_he: בורגגארטן
+    distance_m: 250
+    walk_minutes: 3
+  - page: Sisi-Museum
+    name_he: מוזיאון סיסי
+    distance_m: 300
+    walk_minutes: 4
 verification:
   general: 2026-08-27
 recheck_before_visit:
@@ -34,7 +58,6 @@ recheck_before_visit:
 ![כיכר הגיבורים (Heldenplatz)](https://commons.wikimedia.org/wiki/Special:FilePath/Heldenplatz%2C%20Vienna.jpg?width=1600)
 
 *צילום: Andrzej O. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Heldenplatz%2C%20Vienna.jpg). רישיון: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).*
-
 
 ## למה זה מעניין אותנו
 
@@ -56,12 +79,18 @@ recheck_before_visit:
 - חזית Neue Burg.
 - לעמוד במרחב ולזכור את קהל 1938. זו אחת הדוגמאות החזקות לטענה שאדריכלות אינה ניטרלית כשהפוליטיקה מחליטה להשתמש בה.
 
+## זמן שכדאי להקדיש
 
-## מה נמצא לידנו
+- **מינימום:** כ־20 דקות
+- **מומלץ:** כ־45 דקות
 
-- [[Hofburg|הופבורג (Hofburg)]]
-- [[Neue-Burg|נוייה בורג (Neue Burg)]]
-- [[Volksgarten|פולקסגארטן (Volksgarten)]]
+## מה קרוב לכאן
+
+- [[Neue-Burg|נוייה בורג]] — כ־100 מטר, כ־2 דקות הליכה
+- [[Hofburg|הופבורג]] — כ־150 מטר, כ־2 דקות הליכה
+- [[Volksgarten|פולקסגארטן]] — כ־200 מטר, כ־3 דקות הליכה
+- [[Burggarten|בורגגארטן]] — כ־250 מטר, כ־3 דקות הליכה
+- [[Sisi-Museum|מוזיאון סיסי]] — כ־300 מטר, כ־4 דקות הליכה
 
 ## מידע מעשי
 

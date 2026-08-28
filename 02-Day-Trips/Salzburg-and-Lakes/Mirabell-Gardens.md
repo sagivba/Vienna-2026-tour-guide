@@ -16,6 +16,14 @@ hero_image:
   license: "CC BY 2.0"
   license_url: "https://creativecommons.org/licenses/by/2.0/"
   verified: 2026-08-27
+visit_duration:
+  minimum_minutes: 30
+  recommended_minutes: 60
+nearby_places:
+  - page: Mozart-Residence-Salzburg
+    name_he: בית מגורי מוצרט בזלצבורג
+    distance_m: 300
+    walk_minutes: 4
 ---
 # גני מיראבל (Mirabellgarten) - גנים בארוקיים של ארמון מיראבל
 
@@ -25,7 +33,6 @@ hero_image:
 
 
 גנים בארוקיים מסודרים מאוד עם אחד מקווי המבט היפים בעיר אל Hohensalzburg. זה מקום טוב לראות איך תכנון גן משתמש בסימטריה ובנוף קיים כדי לגרום לעיר כולה להיראות כאילו תואמה מראש ליום צילום.
-
 
 ## הסיפור
 
@@ -43,6 +50,15 @@ hero_image:
 - פסלים ומזרקות.
 - Pegasus Fountain.
 - Marble Staircase בארמון אם פתוח ונגיש.
+
+## זמן שכדאי להקדיש
+
+- **מינימום:** כ־30 דקות
+- **מומלץ:** כשעה
+
+## מה קרוב לכאן
+
+- [[Mozart-Residence-Salzburg|בית מגורי מוצרט בזלצבורג]] — כ־300 מטר, כ־4 דקות הליכה
 
 ## מקורות
 - https://www.salzburg.info/en/sights/top10/mirabell-palace-gardens

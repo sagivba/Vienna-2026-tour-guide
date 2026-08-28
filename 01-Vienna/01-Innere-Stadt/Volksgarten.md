@@ -22,6 +22,22 @@ hero_image:
   license: "CC BY-SA 4.0"
   license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
   verified: 2026-08-27
+visit_duration:
+  minimum_minutes: 20
+  recommended_minutes: 45
+nearby_places:
+  - page: Heldenplatz
+    name_he: כיכר הגיבורים
+    distance_m: 200
+    walk_minutes: 3
+  - page: Hofburg
+    name_he: הופבורג
+    distance_m: 300
+    walk_minutes: 4
+  - page: Neue-Burg
+    name_he: נוייה בורג
+    distance_m: 350
+    walk_minutes: 5
 verification:
   general: 2026-08-27
 recheck_before_visit:
@@ -34,7 +50,6 @@ recheck_before_visit:
 ![פולקסגארטן (Volksgarten)](https://commons.wikimedia.org/wiki/Special:FilePath/Volksgarten%20Vienna.jpg?width=1600)
 
 *צילום: Sandor Somkuti. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Volksgarten%20Vienna.jpg). רישיון: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
-
 
 ## למה זה מעניין אותנו
 
@@ -58,11 +73,16 @@ recheck_before_visit:
 - Theseustempel, מבנה ניאו-קלאסי שנראה כאילו מישהו הזמין חתיכת יוון במשלוח לוינה.
 - מבטים חזרה לכיוון Hofburg והפרלמנט.
 
+## זמן שכדאי להקדיש
 
-## מה נמצא לידנו
+- **מינימום:** כ־20 דקות
+- **מומלץ:** כ־45 דקות
 
-- [[Hofburg|הופבורג (Hofburg)]]
-- [[Heldenplatz|כיכר הגיבורים (Heldenplatz)]]
+## מה קרוב לכאן
+
+- [[Heldenplatz|כיכר הגיבורים]] — כ־200 מטר, כ־3 דקות הליכה
+- [[Hofburg|הופבורג]] — כ־300 מטר, כ־4 דקות הליכה
+- [[Neue-Burg|נוייה בורג]] — כ־350 מטר, כ־5 דקות הליכה
 
 ## מידע מעשי
 

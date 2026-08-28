@@ -22,6 +22,26 @@ hero_image:
   license: "CC BY-SA 3.0"
   license_url: "https://creativecommons.org/licenses/by-sa/3.0/"
   verified: 2026-08-27
+visit_duration:
+  minimum_minutes: 45
+  recommended_minutes: 90
+nearby_places:
+  - page: Vienna-State-Opera
+    name_he: האופרה הממלכתית של וינה
+    distance_m: 150
+    walk_minutes: 2
+  - page: Burggarten
+    name_he: בורגגארטן
+    distance_m: 200
+    walk_minutes: 3
+  - page: Neue-Burg
+    name_he: נוייה בורג
+    distance_m: 300
+    walk_minutes: 4
+  - page: Heldenplatz
+    name_he: כיכר הגיבורים
+    distance_m: 450
+    walk_minutes: 6
 verification:
   general: 2026-08-27
 recheck_before_visit:
@@ -34,7 +54,6 @@ recheck_before_visit:
 ![אלברטינה (Albertina)](https://commons.wikimedia.org/wiki/Special:FilePath/Albertina%20Wien.jpg?width=1600)
 
 *צילום: Florian Prischl. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Albertina%20Wien.jpg). רישיון: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).*
-
 
 ## למה זה מעניין אותנו
 
@@ -56,11 +75,17 @@ recheck_before_visit:
 - הפסל של Archduke Albrecht.
 - אם תערוכה זמנית מעניינת במיוחד, זה המקום לשנות תוכנית.
 
+## זמן שכדאי להקדיש
 
-## מה נמצא לידנו
+- **מינימום:** כ־45 דקות
+- **מומלץ:** כשעה וחצי
 
-- [[Vienna-State-Opera|האופרה הממלכתית של וינה (Wiener Staatsoper)]]
-- [[Burggarten|בורגגארטן (Burggarten)]]
+## מה קרוב לכאן
+
+- [[Vienna-State-Opera|האופרה הממלכתית של וינה]] — כ־150 מטר, כ־2 דקות הליכה
+- [[Burggarten|בורגגארטן]] — כ־200 מטר, כ־3 דקות הליכה
+- [[Neue-Burg|נוייה בורג]] — כ־300 מטר, כ־4 דקות הליכה
+- [[Heldenplatz|כיכר הגיבורים]] — כ־450 מטר, כ־6 דקות הליכה
 
 ## מידע מעשי
 

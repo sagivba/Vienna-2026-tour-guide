@@ -22,6 +22,26 @@ hero_image:
   license: "CC BY-SA 3.0 AT"
   license_url: "https://creativecommons.org/licenses/by-sa/3.0/at/"
   verified: 2026-08-27
+visit_duration:
+  minimum_minutes: 40
+  recommended_minutes: 90
+nearby_places:
+  - page: Albertina
+    name_he: אלברטינה
+    distance_m: 150
+    walk_minutes: 2
+  - page: Burggarten
+    name_he: בורגגארטן
+    distance_m: 350
+    walk_minutes: 5
+  - page: Karlsplatz
+    name_he: קרלספלאץ
+    distance_m: 450
+    walk_minutes: 6
+  - page: Neue-Burg
+    name_he: נוייה בורג
+    distance_m: 450
+    walk_minutes: 6
 verification:
   general: 2026-08-27
 recheck_before_visit:
@@ -34,7 +54,6 @@ recheck_before_visit:
 ![האופרה הממלכתית של וינה (Wiener Staatsoper)](https://commons.wikimedia.org/wiki/Special:FilePath/Staatsoper%20Wien.jpg?width=1600)
 
 *צילום: Lindio. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Staatsoper%20Wien.jpg). רישיון: [CC BY-SA 3.0 AT](https://creativecommons.org/licenses/by-sa/3.0/at/).*
-
 
 ## למה זה מעניין אותנו
 
@@ -52,7 +71,6 @@ recheck_before_visit:
 
 הבניין חשוב גם בגלל מה שקורה בתוכו יום אחרי יום. האופרה אינה מוזיאון של מוזיקה אלא מוסד פעיל עם רפרטואר רחב, תזמורת, זמרים, מקהלה, במה ומנגנון טכני גדול. גם מי שאינו נכנס למופע יכול לראות בבניין סמל לכך שמוזיקה קלאסית בווינה היא תשתית תרבותית חיה ולא רק זיכרון היסטורי.
 
-
 ## מה לחפש במקום
 
 - החזית ההיסטורית לכיוון Opernring.
@@ -60,11 +78,17 @@ recheck_before_visit:
 - אם נכנסים: גרם המדרגות והאזורים ששרדו מן המבנה המקורי.
 - לזכור שהאולם שאנחנו רואים היום אינו כולו זה של 1869.
 
+## זמן שכדאי להקדיש
 
-## מה נמצא לידנו
+- **מינימום:** כ־40 דקות
+- **מומלץ:** כשעה וחצי
 
-- [[Albertina|אלברטינה (Albertina)]]
-- [[Burggarten|בורגגארטן (Burggarten)]]
+## מה קרוב לכאן
+
+- [[Albertina|אלברטינה]] — כ־150 מטר, כ־2 דקות הליכה
+- [[Burggarten|בורגגארטן]] — כ־350 מטר, כ־5 דקות הליכה
+- [[Karlsplatz|קרלספלאץ]] — כ־450 מטר, כ־6 דקות הליכה
+- [[Neue-Burg|נוייה בורג]] — כ־450 מטר, כ־6 דקות הליכה
 
 ## מידע מעשי
 

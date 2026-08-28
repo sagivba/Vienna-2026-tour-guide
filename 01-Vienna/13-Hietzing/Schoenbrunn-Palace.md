@@ -22,6 +22,14 @@ hero_image:
   license: "CC0 1.0"
   license_url: "https://creativecommons.org/publicdomain/zero/1.0/"
   verified: 2026-08-27
+visit_duration:
+  minimum_minutes: 90
+  recommended_minutes: 180
+nearby_places:
+  - page: Schoenbrunn-Gardens
+    name_he: גני שנברון
+    distance_m: 50
+    walk_minutes: 1
 verification:
   general: 2026-08-27
 recheck_before_visit:
@@ -34,7 +42,6 @@ recheck_before_visit:
 ![ארמון שנברון (Schloss Schönbrunn)](https://commons.wikimedia.org/wiki/Special:FilePath/Schonbrunn%20Palace.jpg?width=1600)
 
 *צילום: Truete. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Schonbrunn%20Palace.jpg). רישיון: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).*
-
 
 ## למה זה מעניין אותנו
 
@@ -66,11 +73,14 @@ recheck_before_visit:
 - הקשר הישיר לגנים ול-Gloriette.
 - לזכור שמאחורי הפאר הייתה לוגיסטיקה של יותר מאלף אנשי חצר ועובדים. אימפריה היא גם משאבי אנוש.
 
+## זמן שכדאי להקדיש
 
-## מה נמצא לידנו
+- **מינימום:** כשעה וחצי
+- **מומלץ:** כשלוש שעות
 
-- [[Schoenbrunn-Gardens|גני שנברון (Schlosspark Schönbrunn)]]
-- [[Gloriette|גלורייטה (Gloriette)]]
+## מה קרוב לכאן
+
+- [[Schoenbrunn-Gardens|גני שנברון]] — כ־50 מטר, כ־1 דקות הליכה
 
 ## מידע מעשי
 

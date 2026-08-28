@@ -22,6 +22,30 @@ hero_image:
   license: "Public Domain"
   license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
   verified: 2026-08-27
+visit_duration:
+  minimum_minutes: 15
+  recommended_minutes: 30
+nearby_places:
+  - page: Hofburg
+    name_he: הופבורג
+    distance_m: 80
+    walk_minutes: 1
+  - page: Sisi-Museum
+    name_he: מוזיאון סיסי
+    distance_m: 80
+    walk_minutes: 1
+  - page: Imperial-Apartments
+    name_he: הדירות הקיסריות
+    distance_m: 80
+    walk_minutes: 1
+  - page: Kohlmarkt
+    name_he: קולמרקט
+    distance_m: 150
+    walk_minutes: 2
+  - page: Heldenplatz
+    name_he: כיכר הגיבורים
+    distance_m: 300
+    walk_minutes: 4
 verification:
   general: 2026-08-27
 recheck_before_visit:
@@ -34,7 +58,6 @@ recheck_before_visit:
 ![כיכר מיכאלר (Michaelerplatz)](https://commons.wikimedia.org/wiki/Special:FilePath/Michaelerplatz.jpg?width=1600)
 
 *צילום: Binter. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Michaelerplatz.jpg). רישיון: [Public Domain](https://creativecommons.org/publicdomain/mark/1.0/).*
-
 
 ## למה זה מעניין אותנו
 
@@ -62,12 +85,18 @@ recheck_before_visit:
 - כיפת Hofburg.
 - Looshaus ממול: כמה קישוטים באמת צריך בניין? לוס ענה: פחות. וינה ענתה: חוצפן.
 
+## זמן שכדאי להקדיש
 
-## מה נמצא לידנו
+- **מינימום:** כ־15 דקות
+- **מומלץ:** כ־30 דקות
 
-- [[Hofburg|הופבורג (Hofburg)]]
-- [[Kohlmarkt|קולמרקט (Kohlmarkt)]]
-- [[Graben|גראבן (Graben)]]
+## מה קרוב לכאן
+
+- [[Hofburg|הופבורג]] — כ־80 מטר, כ־1 דקות הליכה
+- [[Sisi-Museum|מוזיאון סיסי]] — כ־80 מטר, כ־1 דקות הליכה
+- [[Imperial-Apartments|הדירות הקיסריות]] — כ־80 מטר, כ־1 דקות הליכה
+- [[Kohlmarkt|קולמרקט]] — כ־150 מטר, כ־2 דקות הליכה
+- [[Heldenplatz|כיכר הגיבורים]] — כ־300 מטר, כ־4 דקות הליכה
 
 ## מידע מעשי
 

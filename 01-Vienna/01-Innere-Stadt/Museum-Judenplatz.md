@@ -22,6 +22,30 @@ hero_image:
   license: "CC BY-SA 3.0"
   license_url: "https://creativecommons.org/licenses/by-sa/3.0/"
   verified: 2026-08-27
+visit_duration:
+  minimum_minutes: 45
+  recommended_minutes: 75
+nearby_places:
+  - page: Judenplatz
+    name_he: יודנפלאץ
+    distance_m: 20
+    walk_minutes: 1
+  - page: Judenplatz-Holocaust-Memorial
+    name_he: אנדרטת השואה ביודנפלאץ
+    distance_m: 20
+    walk_minutes: 1
+  - page: Medieval-Synagogue-Vienna
+    name_he: בית הכנסת של וינה בימי הביניים
+    distance_m: 20
+    walk_minutes: 1
+  - page: Peterskirche
+    name_he: כנסיית פטרוס הקדוש
+    distance_m: 350
+    walk_minutes: 5
+  - page: Graben
+    name_he: גראבן
+    distance_m: 400
+    walk_minutes: 5
 verification:
   general: 2026-08-27
 recheck_before_visit:
@@ -34,7 +58,6 @@ recheck_before_visit:
 ![מוזיאון יודנפלאץ (Museum Judenplatz)](https://commons.wikimedia.org/wiki/Special:FilePath/Model%20of%20the%20medieval%20synagogue%20at%20Judenplatz.jpg?width=1600)
 
 *צילום: Yair-haklai. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Model%20of%20the%20medieval%20synagogue%20at%20Judenplatz.jpg). רישיון: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).*
-
 
 ## למה זה מעניין אותנו
 
@@ -58,11 +81,18 @@ recheck_before_visit:
 - מודלים וממצאים שמסבירים את מבנה הרובע היהודי.
 - להסתכל שוב על הכיכר אחרי שיוצאים. אחרי הביקור היא נראית אחרת.
 
+## זמן שכדאי להקדיש
 
-## מה נמצא לידנו
+- **מינימום:** כ־45 דקות
+- **מומלץ:** כ־75 דקות
 
-- [[Judenplatz|יודנפלאץ (Judenplatz)]]
-- [[Medieval-Synagogue-Vienna|בית הכנסת של ימי הביניים]]
+## מה קרוב לכאן
+
+- [[Judenplatz|יודנפלאץ]] — כ־20 מטר, כ־1 דקות הליכה
+- [[Judenplatz-Holocaust-Memorial|אנדרטת השואה ביודנפלאץ]] — כ־20 מטר, כ־1 דקות הליכה
+- [[Medieval-Synagogue-Vienna|בית הכנסת של וינה בימי הביניים]] — כ־20 מטר, כ־1 דקות הליכה
+- [[Peterskirche|כנסיית פטרוס הקדוש]] — כ־350 מטר, כ־5 דקות הליכה
+- [[Graben|גראבן]] — כ־400 מטר, כ־5 דקות הליכה
 
 ## מידע מעשי
 

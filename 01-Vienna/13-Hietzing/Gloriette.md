@@ -22,6 +22,14 @@ hero_image:
   license: "Public Domain"
   license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
   verified: 2026-08-27
+visit_duration:
+  minimum_minutes: 20
+  recommended_minutes: 40
+nearby_places:
+  - page: Schoenbrunn-Gardens
+    name_he: גני שנברון
+    distance_m: 20
+    walk_minutes: 1
 verification:
   general: 2026-08-27
 recheck_before_visit:
@@ -34,7 +42,6 @@ recheck_before_visit:
 ![גלורייטה (Gloriette)](https://commons.wikimedia.org/wiki/Special:FilePath/Gloriette%20Sch%C3%B6nbrunn%20%281%29.jpg?width=1600)
 
 *צילום: Stefan Schabel. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gloriette%20Sch%C3%B6nbrunn%20%281%29.jpg). רישיון: [Public Domain](https://creativecommons.org/publicdomain/mark/1.0/).*
-
 
 ## למה זה מעניין אותנו
 
@@ -58,11 +65,14 @@ recheck_before_visit:
 - להבין שהמרחק והגובה הם חלק מן הקומפוזיציה.
 - אם חם או עייפים, לא חייבים להוכיח דבר בעלייה רגלית. תחבורה פנימית היא המצאה לגיטימית.
 
+## זמן שכדאי להקדיש
 
-## מה נמצא לידנו
+- **מינימום:** כ־20 דקות
+- **מומלץ:** כ־40 דקות
 
-- [[Schoenbrunn-Palace|ארמון שנברון (Schloss Schönbrunn)]]
-- [[Schoenbrunn-Gardens|גני שנברון (Schlosspark Schönbrunn)]]
+## מה קרוב לכאן
+
+- [[Schoenbrunn-Gardens|גני שנברון]] — כ־20 מטר, כ־1 דקות הליכה
 
 ## מידע מעשי
 

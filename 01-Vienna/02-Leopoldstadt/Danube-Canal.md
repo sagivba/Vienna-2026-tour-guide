@@ -22,6 +22,10 @@ hero_image:
   license: "CC BY-SA 2.0"
   license_url: "https://creativecommons.org/licenses/by-sa/2.0/"
   verified: 2026-08-27
+visit_duration:
+  minimum_minutes: 30
+  recommended_minutes: 60
+nearby_places: []
 verification:
   general: 2026-08-27
 recheck_before_visit:
@@ -34,7 +38,6 @@ recheck_before_visit:
 ![תעלת הדנובה (Donaukanal)](https://commons.wikimedia.org/wiki/Special:FilePath/Donaukanal%20%28Danube%20Canal%29%2C%20Wien%20-%202.jpg?width=1600)
 
 *צילום: Sandor Somkuti. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Donaukanal%20%28Danube%20Canal%29%2C%20Wien%20-%202.jpg). רישיון: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
-
 
 ## למה זה מעניין אותנו
 
@@ -58,11 +61,14 @@ recheck_before_visit:
 - גשרים והקשר שלהם לרשת הרחובות.
 - לראות את וינה פחות ייצוגית ויותר עירונית.
 
+## זמן שכדאי להקדיש
 
-## מה נמצא לידנו
+- **מינימום:** כ־30 דקות
+- **מומלץ:** כשעה
 
-- [[Karmeliterviertel|קרמליטרפירטל (Karmeliterviertel)]]
-- [[Hotel-IMLAUER-Wien|מלון IMLAUER Wien]]
+## מה קרוב לכאן
+
+לא נמצאו דפי מקום נוספים בכספת שאפשר לאמת כי הם נמצאים בטווח של 500 מטר.
 
 ## מידע מעשי
 

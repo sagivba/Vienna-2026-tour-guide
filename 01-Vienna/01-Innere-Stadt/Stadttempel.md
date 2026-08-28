@@ -22,6 +22,18 @@ hero_image:
   license: "CC BY-SA 3.0"
   license_url: "https://creativecommons.org/licenses/by-sa/3.0/"
   verified: 2026-08-27
+visit_duration:
+  minimum_minutes: 30
+  recommended_minutes: 60
+nearby_places:
+  - page: Stephansdom
+    name_he: קתדרלת סטפנוס הקדוש
+    distance_m: 450
+    walk_minutes: 6
+  - page: Stephansplatz
+    name_he: שטפנספלאץ
+    distance_m: 450
+    walk_minutes: 6
 verification:
   general: 2026-08-27
 recheck_before_visit:
@@ -34,7 +46,6 @@ recheck_before_visit:
 ![שטאדטטמפל (Stadttempel)](https://commons.wikimedia.org/wiki/Special:FilePath/Stadttempel-%20Vienna.jpg?width=1600)
 
 *צילום: Yair Haklai. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Stadttempel-%20Vienna.jpg). רישיון: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).*
-
 
 ## למה זה מעניין אותנו
 
@@ -52,18 +63,21 @@ recheck_before_visit:
 
 הביקור בשטאדטטמפל מחבר בין שלושה זמנים. המבנה מספר על אמנציפציה חלקית במאה התשע עשרה, על השואה במאה העשרים ועל קהילה שממשיכה להתקיים במאה העשרים ואחת.
 
-
 ## מה לחפש במקום
 
 - המבנה הפנימי האליפטי.
 - המיקום החבוי יחסית מן הרחוב.
 - לחשוב כיצד אילוץ תכנוני הפך מאוחר יותר לגורם הישרדות.
 
+## זמן שכדאי להקדיש
 
-## מה נמצא לידנו
+- **מינימום:** כ־30 דקות
+- **מומלץ:** כשעה
 
-- [[Jewish-Museum-Vienna|המוזיאון היהודי של וינה (Jüdisches Museum Wien)]]
-- [[Judenplatz|יודנפלאץ (Judenplatz)]]
+## מה קרוב לכאן
+
+- [[Stephansdom|קתדרלת סטפנוס הקדוש]] — כ־450 מטר, כ־6 דקות הליכה
+- [[Stephansplatz|שטפנספלאץ]] — כ־450 מטר, כ־6 דקות הליכה
 
 ## מידע מעשי
 

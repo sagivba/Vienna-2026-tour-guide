@@ -22,6 +22,30 @@ hero_image:
   license: "CC BY-SA 3.0"
   license_url: "https://creativecommons.org/licenses/by-sa/3.0/"
   verified: 2026-08-27
+visit_duration:
+  minimum_minutes: 45
+  recommended_minutes: 90
+nearby_places:
+  - page: Stephansplatz
+    name_he: שטפנספלאץ
+    distance_m: 300
+    walk_minutes: 4
+  - page: Stephansdom
+    name_he: קתדרלת סטפנוס הקדוש
+    distance_m: 320
+    walk_minutes: 4
+  - page: Graben
+    name_he: גראבן
+    distance_m: 350
+    walk_minutes: 5
+  - page: Peterskirche
+    name_he: כנסיית פטרוס הקדוש
+    distance_m: 400
+    walk_minutes: 5
+  - page: Kohlmarkt
+    name_he: קולמרקט
+    distance_m: 450
+    walk_minutes: 6
 verification:
   general: 2026-08-27
 recheck_before_visit:
@@ -34,7 +58,6 @@ recheck_before_visit:
 ![המוזיאון היהודי של וינה (Jüdisches Museum Wien)](https://commons.wikimedia.org/wiki/Special:FilePath/JuedischesMuseumWien3.jpg?width=1600)
 
 *צילום: HeMei. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:JuedischesMuseumWien3.jpg). רישיון: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).*
-
 
 ## למה זה מעניין אותנו
 
@@ -58,11 +81,18 @@ recheck_before_visit:
 - חפצים שמראים חיי קהילה, תרבות וזהות.
 - לשים לב לאופן שבו המוזיאון מתמודד גם עם אובדן וגם עם המשכיות.
 
+## זמן שכדאי להקדיש
 
-## מה נמצא לידנו
+- **מינימום:** כ־45 דקות
+- **מומלץ:** כשעה וחצי
 
-- [[Judenplatz|יודנפלאץ (Judenplatz)]]
-- [[Stadttempel|שטאדטטמפל (Stadttempel)]]
+## מה קרוב לכאן
+
+- [[Stephansplatz|שטפנספלאץ]] — כ־300 מטר, כ־4 דקות הליכה
+- [[Stephansdom|קתדרלת סטפנוס הקדוש]] — כ־320 מטר, כ־4 דקות הליכה
+- [[Graben|גראבן]] — כ־350 מטר, כ־5 דקות הליכה
+- [[Peterskirche|כנסיית פטרוס הקדוש]] — כ־400 מטר, כ־5 דקות הליכה
+- [[Kohlmarkt|קולמרקט]] — כ־450 מטר, כ־6 דקות הליכה
 
 ## מידע מעשי
 

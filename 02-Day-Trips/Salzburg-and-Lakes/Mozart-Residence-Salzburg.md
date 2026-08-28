@@ -16,6 +16,22 @@ hero_image:
   license: "CC BY-SA 2.5"
   license_url: "https://creativecommons.org/licenses/by-sa/2.5/"
   verified: 2026-08-27
+visit_duration:
+  minimum_minutes: 45
+  recommended_minutes: 75
+nearby_places:
+  - page: Mirabell-Gardens
+    name_he: גני מיראבל
+    distance_m: 300
+    walk_minutes: 4
+  - page: Salzburg-Altstadt
+    name_he: העיר העתיקה של זלצבורג
+    distance_m: 450
+    walk_minutes: 6
+  - page: Mozarts-Birthplace
+    name_he: בית הולדתו של מוצרט
+    distance_m: 500
+    walk_minutes: 7
 ---
 # בית מגורי מוצרט בזלצבורג (Mozart-Wohnhaus) - בית משפחת מוצרט ומוזיאון למוזיקאי
 
@@ -31,7 +47,6 @@ hero_image:
 - [[Leopold-Mozart|לאופולד מוצרט (Leopold Mozart)]]
 - [[Nannerl-Mozart|נאנרל מוצרט (Maria Anna Mozart)]]
 
-
 ## הסיפור
 
 בית מגורי מוצרט בזלצבורג (Mozart-Wohnhaus) נמצא בכיכר מקרט ושימש את משפחת מוצרט לאחר שעברה מבית הולדתו הצפוף יותר בגטריידגאסה. המעבר לבית מרווח יותר משקף את מעמדה של המשפחה ואת הצורך במרחב שבו אפשר היה לחיות, ללמד, לנגן, לקבל אורחים ולנהל קריירה מוזיקלית.
@@ -41,6 +56,17 @@ hero_image:
 הבית נפגע קשות במלחמת העולם השנייה, וחלקו שוחזר מאוחר יותר. השחזור והקמת המוזיאון ממחישים כיצד זלצבורג בנתה מחדש גם את הקשר הפיזי שלה למוצרט, שהפך עם הזמן לחלק מרכזי בזהות העירונית והתיירותית.
 
 הביקור בבית המגורים משלים את בית ההולדת. בית ההולדת מספר על ההתחלה ועל המשפחה הצעירה, ואילו בית המגורים מתאים יותר להבנת שנות ההתבגרות, העבודה והמתח בין מוצרט לבין המסגרת של זלצבורג.
+
+## זמן שכדאי להקדיש
+
+- **מינימום:** כ־45 דקות
+- **מומלץ:** כ־75 דקות
+
+## מה קרוב לכאן
+
+- [[Mirabell-Gardens|גני מיראבל]] — כ־300 מטר, כ־4 דקות הליכה
+- [[Salzburg-Altstadt|העיר העתיקה של זלצבורג]] — כ־450 מטר, כ־6 דקות הליכה
+- [[Mozarts-Birthplace|בית הולדתו של מוצרט]] — כ־500 מטר, כ־7 דקות הליכה
 
 ## מקורות
 - https://mozarteum.at/en/mozart-museums/mozart-residence

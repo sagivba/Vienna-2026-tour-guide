@@ -22,6 +22,30 @@ hero_image:
   license: "CC BY-SA 4.0"
   license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
   verified: 2026-08-27
+visit_duration:
+  minimum_minutes: 20
+  recommended_minutes: 40
+nearby_places:
+  - page: Peterskirche
+    name_he: כנסיית פטרוס הקדוש
+    distance_m: 100
+    walk_minutes: 2
+  - page: Stephansplatz
+    name_he: שטפנספלאץ
+    distance_m: 180
+    walk_minutes: 3
+  - page: Stephansdom
+    name_he: קתדרלת סטפנוס הקדוש
+    distance_m: 200
+    walk_minutes: 3
+  - page: Kohlmarkt
+    name_he: קולמרקט
+    distance_m: 250
+    walk_minutes: 3
+  - page: Michaelerplatz
+    name_he: כיכר מיכאלר
+    distance_m: 450
+    walk_minutes: 6
 verification:
   general: 2026-08-27
 recheck_before_visit:
@@ -34,7 +58,6 @@ recheck_before_visit:
 ![גראבן (Graben)](https://commons.wikimedia.org/wiki/Special:FilePath/Graben%20Street%2C%20Vienna.jpg?width=1600)
 
 *צילום: ASaber91. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Graben%20Street%2C%20Vienna.jpg). רישיון: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
-
 
 ## למה זה מעניין אותנו
 
@@ -56,12 +79,18 @@ recheck_before_visit:
 - הרחובות הצדדיים והחזיתות.
 - לזכור שהרחוב האלגנטי יושב על היסטוריה של ביצורים, מגפות ושיקום. קמעונאות יוקרתית הגיעה אחר כך.
 
+## זמן שכדאי להקדיש
 
-## מה נמצא לידנו
+- **מינימום:** כ־20 דקות
+- **מומלץ:** כ־40 דקות
 
-- [[Stephansplatz|שטפנספלאץ (Stephansplatz)]]
-- [[Kohlmarkt|קולמרקט (Kohlmarkt)]]
-- [[Peterskirche|כנסיית פטרוס הקדוש (Peterskirche)]]
+## מה קרוב לכאן
+
+- [[Peterskirche|כנסיית פטרוס הקדוש]] — כ־100 מטר, כ־2 דקות הליכה
+- [[Stephansplatz|שטפנספלאץ]] — כ־180 מטר, כ־3 דקות הליכה
+- [[Stephansdom|קתדרלת סטפנוס הקדוש]] — כ־200 מטר, כ־3 דקות הליכה
+- [[Kohlmarkt|קולמרקט]] — כ־250 מטר, כ־3 דקות הליכה
+- [[Michaelerplatz|כיכר מיכאלר]] — כ־450 מטר, כ־6 דקות הליכה
 
 ## מידע מעשי
 

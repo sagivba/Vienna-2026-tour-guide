@@ -21,6 +21,30 @@ hero_image:
   license: "CC BY-SA 4.0"
   license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
   verified: 2026-08-27
+visit_duration:
+  minimum_minutes: 20
+  recommended_minutes: 40
+nearby_places:
+  - page: Neue-Burg
+    name_he: נוייה בורג
+    distance_m: 100
+    walk_minutes: 2
+  - page: Albertina
+    name_he: אלברטינה
+    distance_m: 200
+    walk_minutes: 3
+  - page: Heldenplatz
+    name_he: כיכר הגיבורים
+    distance_m: 250
+    walk_minutes: 3
+  - page: Vienna-State-Opera
+    name_he: האופרה הממלכתית של וינה
+    distance_m: 350
+    walk_minutes: 5
+  - page: Hofburg
+    name_he: הופבורג
+    distance_m: 450
+    walk_minutes: 6
 ---
 # בורגגארטן (Burggarten) - גן קיסרי לשעבר בלב העיר
 
@@ -28,11 +52,9 @@ hero_image:
 
 *צילום: Yair Haklai. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Burggarten%2C%20Vienna.jpg). רישיון: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
-
 ## למה לעצור
 
 גן נעים בצמוד ל-Hofburg, טוב במיוחד אחרי ביקור פנימי ארוך. הוא היה בעבר גן פרטי קיסרי ונפתח לציבור לאחר נפילת המלוכה.
-
 
 ## הסיפור
 
@@ -49,6 +71,19 @@ hero_image:
 - מבטים אל Neue Burg ו-Albertina.
 
 זה מקום טוב לזכור שגם קיסרים היו צריכים גינה, רק שהם קיבלו אחת במרכז העיר עם צוות תחזוקה שלא ביקש ועד בית.
+
+## זמן שכדאי להקדיש
+
+- **מינימום:** כ־20 דקות
+- **מומלץ:** כ־40 דקות
+
+## מה קרוב לכאן
+
+- [[Neue-Burg|נוייה בורג]] — כ־100 מטר, כ־2 דקות הליכה
+- [[Albertina|אלברטינה]] — כ־200 מטר, כ־3 דקות הליכה
+- [[Heldenplatz|כיכר הגיבורים]] — כ־250 מטר, כ־3 דקות הליכה
+- [[Vienna-State-Opera|האופרה הממלכתית של וינה]] — כ־350 מטר, כ־5 דקות הליכה
+- [[Hofburg|הופבורג]] — כ־450 מטר, כ־6 דקות הליכה
 
 ## מקורות
 - https://www.wien.info/en/see-do/parks-green-spaces/burggarten-344778

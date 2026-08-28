@@ -22,6 +22,10 @@ hero_image:
   license: "CC BY-SA 4.0"
   license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
   verified: 2026-08-27
+visit_duration:
+  minimum_minutes: 30
+  recommended_minutes: 75
+nearby_places: []
 verification:
   general: 2026-08-27
 recheck_before_visit:
@@ -34,7 +38,6 @@ recheck_before_visit:
 ![אאוגארטן (Augarten)](https://commons.wikimedia.org/wiki/Special:FilePath/Augarten%2C%20Wien.jpg?width=1600)
 
 *צילום: Anna Saini. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Augarten%2C%20Wien.jpg). רישיון: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
-
 
 ## למה זה מעניין אותנו
 
@@ -58,11 +61,14 @@ recheck_before_visit:
 - מגדלי ה-Flak.
 - הניגוד בין אנשים שמטיילים עם כלבים לבין בטון צבאי שנועד למלחמה כוללת.
 
+## זמן שכדאי להקדיש
 
-## מה נמצא לידנו
+- **מינימום:** כ־30 דקות
+- **מומלץ:** כ־75 דקות
 
-- [[Karmelitermarkt|קרמליטרמרקט (Karmelitermarkt)]]
-- [[Vienna-Jewish-Leopoldstadt|לאופולדשטאדט היהודית]]
+## מה קרוב לכאן
+
+לא נמצאו דפי מקום נוספים בכספת שאפשר לאמת כי הם נמצאים בטווח של 500 מטר.
 
 ## מידע מעשי
 
