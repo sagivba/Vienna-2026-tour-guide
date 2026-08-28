@@ -8,8 +8,22 @@ died: 1842-03-06
 roles: [singer, widow, biographical source]
 tags: [person]
 content_status: first-complete-build
+hero_image:
+  provider: wikimedia_commons
+  storage: remote
+  file: "Constanze Mozart by Lange 1782.jpg"
+  remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Constanze%20Mozart%20by%20Lange%201782.jpg?width=1600"
+  source_page: "https://commons.wikimedia.org/wiki/File:Constanze%20Mozart%20by%20Lange%201782.jpg"
+  author: "Joseph Lange"
+  license: "Public Domain"
+  license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+  verified: 2026-08-28
 ---
 # קונסטנצה מוצרט (Constanze Mozart)
+![קונסטנצה מוצרט (Constanze Mozart)](https://commons.wikimedia.org/wiki/Special:FilePath/Constanze%20Mozart%20by%20Lange%201782.jpg?width=1600)
+
+*דיוקן: Joseph Lange. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Constanze%20Mozart%20by%20Lange%201782.jpg). רישיון: [Public Domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+
 
 ## מי האדם ולמה אכפת לנו
 

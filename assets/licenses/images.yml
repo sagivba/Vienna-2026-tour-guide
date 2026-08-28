@@ -5,6 +5,7 @@ allowed_licenses:
   - Public Domain
   - CC0 1.0
   - CC BY 2.0
+  - CC BY 3.0
   - CC BY 4.0
   - CC BY-SA 2.0
   - CC BY-SA 2.5
@@ -512,3 +513,300 @@ images:
     verified: 2026-08-27
     used_by:
       - "02-Day-Trips/Salzburg-and-Lakes/Wolfgangsee.md"
+  person_adolf_loos:
+    provider: wikimedia_commons
+    file: "Adolf Loos (1870–1933) (vor 1920; Franz Löwy).jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Adolf%20Loos%20%281870%E2%80%931933%29%20%28vor%201920%3B%20Franz%20L%C3%B6wy%29.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Adolf%20Loos%20(1870%E2%80%931933)%20(vor%201920%3B%20Franz%20L%C3%B6wy).jpg"
+    author: "Franz Löwy"
+    license: "Public Domain"
+    license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+    verified: 2026-08-28
+    used_by:
+      - "70-People/Adolf-Loos.md"
+  person_archduke_charles_austria:
+    provider: wikimedia_commons
+    file: "Archduke Charles of Austria (J.B. Seele, 1800).jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Archduke%20Charles%20of%20Austria%20%28J.B.%20Seele%2C%201800%29.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Archduke%20Charles%20of%20Austria%20(J.B.%20Seele,%201800).jpg"
+    author: "Johann Baptist Seele"
+    license: "Public Domain"
+    license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+    verified: 2026-08-28
+    used_by:
+      - "70-People/Archduke-Charles-Austria.md"
+  person_carl_ritter_von_ghega:
+    provider: wikimedia_commons
+    file: "Carl von Ghega 1840 Litho.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Carl%20von%20Ghega%201840%20Litho.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Carl%20von%20Ghega%201840%20Litho.jpg"
+    author: "Josef Kriehuber (lithograph), after Weidner"
+    license: "Public Domain"
+    license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+    verified: 2026-08-28
+    used_by:
+      - "70-People/Carl-Ritter-von-Ghega.md"
+  person_constanze_mozart:
+    provider: wikimedia_commons
+    file: "Constanze Mozart by Lange 1782.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Constanze%20Mozart%20by%20Lange%201782.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Constanze%20Mozart%20by%20Lange%201782.jpg"
+    author: "Joseph Lange"
+    license: "Public Domain"
+    license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+    verified: 2026-08-28
+    used_by:
+      - "70-People/Constanze-Mozart.md"
+  person_eduard_van_der_nuell:
+    provider: wikimedia_commons
+    file: "Eduard van der Nuell.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Eduard%20van%20der%20Nuell.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Eduard%20van%20der%20Nuell.jpg"
+    author: "Josef Kriehuber; reproduction photographed by Peter Geymayer"
+    license: "Public Domain"
+    license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+    verified: 2026-08-28
+    used_by:
+      - "70-People/Eduard-van-der-Nuell.md"
+  person_empress_elisabeth_of_austria:
+    provider: wikimedia_commons
+    file: "Franz Russ the Younger - Portrait of Empress Elisabeth of Austria.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Franz%20Russ%20the%20Younger%20-%20Portrait%20of%20Empress%20Elisabeth%20of%20Austria.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Franz%20Russ%20the%20Younger%20-%20Portrait%20of%20Empress%20Elisabeth%20of%20Austria.jpg"
+    author: "Franz Russ the Younger"
+    license: "Public Domain"
+    license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+    verified: 2026-08-28
+    used_by:
+      - "70-People/Empress-Elisabeth-of-Austria.md"
+  person_francis_i_holy_roman_emperor:
+    provider: wikimedia_commons
+    file: "Holy Roman Emperor Francis I.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Holy%20Roman%20Emperor%20Francis%20I.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Holy%20Roman%20Emperor%20Francis%20I.jpg"
+    author: "Anonymous Austrian painter"
+    license: "Public Domain"
+    license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+    verified: 2026-08-28
+    used_by:
+      - "70-People/Francis-I-Holy-Roman-Emperor.md"
+  person_franz_joseph_i:
+    provider: wikimedia_commons
+    file: "Portrait of Franz Joseph I by Franz Xaver Winterhalter.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Franz%20Joseph%20I%20by%20Franz%20Xaver%20Winterhalter.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Portrait%20of%20Franz%20Joseph%20I%20by%20Franz%20Xaver%20Winterhalter.jpg"
+    author: "Franz Xaver Winterhalter"
+    license: "Public Domain"
+    license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+    verified: 2026-08-28
+    used_by:
+      - "70-People/Franz-Joseph-I.md"
+  person_gustav_klimt:
+    provider: wikimedia_commons
+    file: "Gustav Klimt portrait by Moritz Nähr.jpeg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20portrait%20by%20Moritz%20N%C3%A4hr.jpeg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Gustav%20Klimt%20portrait%20by%20Moritz%20N%C3%A4hr.jpeg"
+    author: "Moritz Nähr"
+    license: "Public Domain"
+    license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+    verified: 2026-08-28
+    used_by:
+      - "70-People/Gustav-Klimt.md"
+  person_gustav_mahler:
+    provider: wikimedia_commons
+    file: "Photo of Gustav Mahler by Moritz Nähr 02.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Photo%20of%20Gustav%20Mahler%20by%20Moritz%20N%C3%A4hr%2002.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Photo%20of%20Gustav%20Mahler%20by%20Moritz%20N%C3%A4hr%2002.jpg"
+    author: "Moritz Nähr"
+    license: "Public Domain"
+    license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+    verified: 2026-08-28
+    used_by:
+      - "70-People/Gustav-Mahler.md"
+  person_johann_bernhard_fischer_von_erlach:
+    provider: wikimedia_commons
+    file: "Johann Bernhard Fischer von Erlach Portrait.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Johann%20Bernhard%20Fischer%20von%20Erlach%20Portrait.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Johann%20Bernhard%20Fischer%20von%20Erlach%20Portrait.jpg"
+    author: "Johann Adam Delsenbach"
+    license: "Public Domain"
+    license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+    verified: 2026-08-28
+    used_by:
+      - "70-People/Johann-Bernhard-Fischer-von-Erlach.md"
+  person_johann_strauss_ii:
+    provider: wikimedia_commons
+    file: "Johann Strauss II Porträtpostkarte.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Johann%20Strauss%20II%20Portr%C3%A4tpostkarte.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Johann%20Strauss%20II%20Portr%C3%A4tpostkarte.jpg"
+    author: "Verlag C. Ledermann jr., Wien"
+    license: "Public Domain"
+    license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+    verified: 2026-08-28
+    used_by:
+      - "70-People/Johann-Strauss-II.md"
+  person_joseph_ii:
+    provider: wikimedia_commons
+    file: "Portrait of Joseph II of Austria.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Joseph%20II%20of%20Austria.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Portrait%20of%20Joseph%20II%20of%20Austria.jpg"
+    author: "Jean-Herman Faber"
+    license: "Public Domain"
+    license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+    verified: 2026-08-28
+    used_by:
+      - "70-People/Joseph-II.md"
+  person_joseph_kornhaeusel:
+    provider: wikimedia_commons
+    file: "KORNHÄUSEL, Josef Georg.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/KORNH%C3%84USEL%2C%20Josef%20Georg.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:KORNH%C3%84USEL,%20Josef%20Georg.jpg"
+    author: "H. Stugmeyer; scan by ANKAWÜ"
+    license: "CC BY-SA 3.0"
+    license_url: "https://creativecommons.org/licenses/by-sa/3.0/"
+    verified: 2026-08-28
+    used_by:
+      - "70-People/Joseph-Kornhaeusel.md"
+  person_leopold_mozart:
+    provider: wikimedia_commons
+    file: "Leopold Mozart.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Leopold%20Mozart.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Leopold%20Mozart.jpg"
+    author: "Pietro Antonio Lorenzoni"
+    license: "Public Domain"
+    license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+    verified: 2026-08-28
+    used_by:
+      - "70-People/Leopold-Mozart.md"
+  person_ludwig_van_beethoven:
+    provider: wikimedia_commons
+    file: "Ludwig van Beethoven.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Ludwig%20van%20Beethoven.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Ludwig%20van%20Beethoven.jpg"
+    author: "Joseph Karl Stieler"
+    license: "Public Domain"
+    license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+    verified: 2026-08-28
+    used_by:
+      - "70-People/Ludwig-van-Beethoven.md"
+  person_maria_theresa:
+    provider: wikimedia_commons
+    file: "Portrait of Empress Maria Theresia.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Empress%20Maria%20Theresia.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Portrait%20of%20Empress%20Maria%20Theresia.jpg"
+    author: "Workshop of Martin van Meytens"
+    license: "Public Domain"
+    license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+    verified: 2026-08-28
+    used_by:
+      - "70-People/Maria-Theresa.md"
+  person_nannerl_mozart:
+    provider: wikimedia_commons
+    file: "Maria Anna Mozart (Lorenzoni).jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Maria%20Anna%20Mozart%20%28Lorenzoni%29.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Maria%20Anna%20Mozart%20(Lorenzoni).jpg"
+    author: "Pietro Antonio Lorenzoni"
+    license: "Public Domain"
+    license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+    verified: 2026-08-28
+    used_by:
+      - "70-People/Nannerl-Mozart.md"
+  person_nikolaus_pacassi:
+    provider: wikimedia_commons
+    file: "Unbekannter Künstler - Der Hofarchitekt Nicolaus Freiherr von Pacassi (1716–1790) - 4111 - Österreichische Galerie Belvedere.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Unbekannter%20K%C3%BCnstler%20-%20Der%20Hofarchitekt%20Nicolaus%20Freiherr%20von%20Pacassi%20%281716%E2%80%931790%29%20-%204111%20-%20%C3%96sterreichische%20Galerie%20Belvedere.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Unbekannter%20K%C3%BCnstler%20-%20Der%20Hofarchitekt%20Nicolaus%20Freiherr%20von%20Pacassi%20(1716%E2%80%931790)%20-%204111%20-%20%C3%96sterreichische%20Galerie%20Belvedere.jpg"
+    author: "Unidentified painter"
+    license: "Public Domain"
+    license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+    verified: 2026-08-28
+    used_by:
+      - "70-People/Nikolaus-Pacassi.md"
+  person_otto_wagner:
+    provider: wikimedia_commons
+    file: "Otto Wagner photo.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Otto%20Wagner%20photo.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Otto%20Wagner%20photo.jpg"
+    author: "Wenzl Weis"
+    license: "Public Domain"
+    license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+    verified: 2026-08-28
+    used_by:
+      - "70-People/Otto-Wagner.md"
+  person_prince_eugene_of_savoy:
+    provider: wikimedia_commons
+    file: "Prinz Eugene of Savoy.PNG"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Prinz%20Eugene%20of%20Savoy.PNG?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Prinz%20Eugene%20of%20Savoy.PNG"
+    author: "Jacob van Schuppen"
+    license: "Public Domain"
+    license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+    verified: 2026-08-28
+    used_by:
+      - "70-People/Prince-Eugene-of-Savoy.md"
+  person_rachel_whiteread:
+    provider: wikimedia_commons
+    file: "Rachel Whiteread 2018.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Rachel%20Whiteread%202018.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Rachel%20Whiteread%202018.jpg"
+    author: "Christian Zürn"
+    license: "CC BY 3.0"
+    license_url: "https://creativecommons.org/licenses/by/3.0/"
+    verified: 2026-08-28
+    used_by:
+      - "70-People/Rachel-Whiteread.md"
+  person_sigmund_freud:
+    provider: wikimedia_commons
+    file: "Sigmund Freud, bust portrait, facing front LCCN2010651703.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Sigmund%20Freud%2C%20bust%20portrait%2C%20facing%20front%20LCCN2010651703.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Sigmund%20Freud,%20bust%20portrait,%20facing%20front%20LCCN2010651703.jpg"
+    author: "Library of Congress, Miscellaneous Items in High Demand / photographer not identified"
+    license: "Public Domain"
+    license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+    verified: 2026-08-28
+    used_by:
+      - "70-People/Sigmund-Freud.md"
+  person_simon_wiesenthal:
+    provider: wikimedia_commons
+    file: "Simon Wiesenthal.JPG"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Simon%20Wiesenthal.JPG?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Simon%20Wiesenthal.JPG"
+    author: "Horego"
+    license: "CC BY-SA 2.0"
+    license_url: "https://creativecommons.org/licenses/by-sa/2.0/"
+    verified: 2026-08-28
+    used_by:
+      - "70-People/Simon-Wiesenthal.md"
+  person_stefan_zweig:
+    provider: wikimedia_commons
+    file: "Stefan Zweig 1900.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Stefan%20Zweig%201900.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Stefan%20Zweig%201900.jpg"
+    author: "Kunst Salon Pictzner"
+    license: "Public Domain"
+    license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+    verified: 2026-08-28
+    used_by:
+      - "70-People/Stefan-Zweig.md"
+  person_theodor_herzl:
+    provider: wikimedia_commons
+    file: "Theodor Herzl 1896.jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Theodor%20Herzl%201896.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Theodor%20Herzl%201896.jpg"
+    author: "Carl Pietzner"
+    license: "Public Domain"
+    license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+    verified: 2026-08-28
+    used_by:
+      - "70-People/Theodor-Herzl.md"
+  person_wolfgang_amadeus_mozart:
+    provider: wikimedia_commons
+    file: "Barbara Krafft - Porträt Wolfgang Amadeus Mozart (1819).jpg"
+    remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Barbara%20Krafft%20-%20Portr%C3%A4t%20Wolfgang%20Amadeus%20Mozart%20%281819%29.jpg?width=1600"
+    source_page: "https://commons.wikimedia.org/wiki/File:Barbara%20Krafft%20-%20Portr%C3%A4t%20Wolfgang%20Amadeus%20Mozart%20(1819).jpg"
+    author: "Barbara Krafft"
+    license: "Public Domain"
+    license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+    verified: 2026-08-28
+    used_by:
+      - "70-People/Wolfgang-Amadeus-Mozart.md"

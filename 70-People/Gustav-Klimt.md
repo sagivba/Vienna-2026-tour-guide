@@ -8,8 +8,22 @@ died: 1918-02-06
 roles: [painter]
 tags: [person]
 content_status: first-complete-build
+hero_image:
+  provider: wikimedia_commons
+  storage: remote
+  file: "Gustav Klimt portrait by Moritz Nähr.jpeg"
+  remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20portrait%20by%20Moritz%20N%C3%A4hr.jpeg?width=1600"
+  source_page: "https://commons.wikimedia.org/wiki/File:Gustav%20Klimt%20portrait%20by%20Moritz%20N%C3%A4hr.jpeg"
+  author: "Moritz Nähr"
+  license: "Public Domain"
+  license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+  verified: 2026-08-28
 ---
 # גוסטב קלימט (Gustav Klimt)
+![גוסטב קלימט (Gustav Klimt)](https://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20portrait%20by%20Moritz%20N%C3%A4hr.jpeg?width=1600)
+
+*צילום: Moritz Nähr. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gustav%20Klimt%20portrait%20by%20Moritz%20N%C3%A4hr.jpeg). רישיון: [Public Domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+
 
 ## מי האדם ולמה אכפת לנו
 

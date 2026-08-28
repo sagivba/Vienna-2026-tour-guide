@@ -8,8 +8,22 @@ died: 1787-05-28
 roles: [composer, teacher, father]
 tags: [person]
 content_status: first-complete-build
+hero_image:
+  provider: wikimedia_commons
+  storage: remote
+  file: "Leopold Mozart.jpg"
+  remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Leopold%20Mozart.jpg?width=1600"
+  source_page: "https://commons.wikimedia.org/wiki/File:Leopold%20Mozart.jpg"
+  author: "Pietro Antonio Lorenzoni"
+  license: "Public Domain"
+  license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+  verified: 2026-08-28
 ---
 # לאופולד מוצרט (Leopold Mozart)
+![לאופולד מוצרט (Leopold Mozart)](https://commons.wikimedia.org/wiki/Special:FilePath/Leopold%20Mozart.jpg?width=1600)
+
+*דיוקן: Pietro Antonio Lorenzoni. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Leopold%20Mozart.jpg). רישיון: [Public Domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+
 
 ## מי האדם ולמה אכפת לנו
 

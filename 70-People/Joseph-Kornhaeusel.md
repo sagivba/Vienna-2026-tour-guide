@@ -8,8 +8,22 @@ died: 1860-10-31
 roles: [architect]
 tags: [person]
 content_status: first-complete-build
+hero_image:
+  provider: wikimedia_commons
+  storage: remote
+  file: "KORNHÄUSEL, Josef Georg.jpg"
+  remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/KORNH%C3%84USEL%2C%20Josef%20Georg.jpg?width=1600"
+  source_page: "https://commons.wikimedia.org/wiki/File:KORNH%C3%84USEL,%20Josef%20Georg.jpg"
+  author: "H. Stugmeyer; scan by ANKAWÜ"
+  license: "CC BY-SA 3.0"
+  license_url: "https://creativecommons.org/licenses/by-sa/3.0/"
+  verified: 2026-08-28
 ---
 # יוזף קורנהויזל (Joseph Kornhäusel)
+![יוזף קורנהויזל (Joseph Kornhäusel)](https://commons.wikimedia.org/wiki/Special:FilePath/KORNH%C3%84USEL%2C%20Josef%20Georg.jpg?width=1600)
+
+*דיוקן: H. Stugmeyer; scan by ANKAWÜ. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:KORNH%C3%84USEL,%20Josef%20Georg.jpg). רישיון: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).*
+
 
 ## מי האדם ולמה אכפת לנו
 

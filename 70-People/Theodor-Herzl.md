@@ -8,8 +8,22 @@ died: 1904-07-03
 roles: [journalist, political thinker, Zionist leader]
 tags: [person]
 content_status: first-complete-build
+hero_image:
+  provider: wikimedia_commons
+  storage: remote
+  file: "Theodor Herzl 1896.jpg"
+  remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Theodor%20Herzl%201896.jpg?width=1600"
+  source_page: "https://commons.wikimedia.org/wiki/File:Theodor%20Herzl%201896.jpg"
+  author: "Carl Pietzner"
+  license: "Public Domain"
+  license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+  verified: 2026-08-28
 ---
 # תאודור הרצל (Theodor Herzl)
+![תאודור הרצל (Theodor Herzl)](https://commons.wikimedia.org/wiki/Special:FilePath/Theodor%20Herzl%201896.jpg?width=1600)
+
+*צילום: Carl Pietzner. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Theodor%20Herzl%201896.jpg). רישיון: [Public Domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+
 
 ## מי האדם ולמה אכפת לנו
 

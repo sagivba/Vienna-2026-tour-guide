@@ -8,8 +8,22 @@ died: 1911-05-18
 roles: [composer, conductor, opera director]
 tags: [person]
 content_status: first-complete-build
+hero_image:
+  provider: wikimedia_commons
+  storage: remote
+  file: "Photo of Gustav Mahler by Moritz Nähr 02.jpg"
+  remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Photo%20of%20Gustav%20Mahler%20by%20Moritz%20N%C3%A4hr%2002.jpg?width=1600"
+  source_page: "https://commons.wikimedia.org/wiki/File:Photo%20of%20Gustav%20Mahler%20by%20Moritz%20N%C3%A4hr%2002.jpg"
+  author: "Moritz Nähr"
+  license: "Public Domain"
+  license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+  verified: 2026-08-28
 ---
 # גוסטב מאהלר (Gustav Mahler)
+![גוסטב מאהלר (Gustav Mahler)](https://commons.wikimedia.org/wiki/Special:FilePath/Photo%20of%20Gustav%20Mahler%20by%20Moritz%20N%C3%A4hr%2002.jpg?width=1600)
+
+*צילום: Moritz Nähr. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Photo%20of%20Gustav%20Mahler%20by%20Moritz%20N%C3%A4hr%2002.jpg). רישיון: [Public Domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+
 
 ## מי האדם ולמה אכפת לנו
 

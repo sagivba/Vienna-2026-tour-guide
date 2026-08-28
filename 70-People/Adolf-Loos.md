@@ -8,8 +8,22 @@ died: 1933-08-23
 roles: [architect]
 tags: [person]
 content_status: first-complete-build
+hero_image:
+  provider: wikimedia_commons
+  storage: remote
+  file: "Adolf Loos (1870–1933) (vor 1920; Franz Löwy).jpg"
+  remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Adolf%20Loos%20%281870%E2%80%931933%29%20%28vor%201920%3B%20Franz%20L%C3%B6wy%29.jpg?width=1600"
+  source_page: "https://commons.wikimedia.org/wiki/File:Adolf%20Loos%20(1870%E2%80%931933)%20(vor%201920%3B%20Franz%20L%C3%B6wy).jpg"
+  author: "Franz Löwy"
+  license: "Public Domain"
+  license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+  verified: 2026-08-28
 ---
 # אדולף לוס (Adolf Loos)
+![אדולף לוס (Adolf Loos)](https://commons.wikimedia.org/wiki/Special:FilePath/Adolf%20Loos%20%281870%E2%80%931933%29%20%28vor%201920%3B%20Franz%20L%C3%B6wy%29.jpg?width=1600)
+
+*צילום: Franz Löwy. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Adolf%20Loos%20(1870%E2%80%931933)%20(vor%201920%3B%20Franz%20L%C3%B6wy).jpg). רישיון: [Public Domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+
 
 ## מי האדם ולמה אכפת לנו
 

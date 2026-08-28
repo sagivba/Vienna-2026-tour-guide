@@ -8,8 +8,22 @@ died: 1868-04-04
 roles: [architect]
 tags: [person]
 content_status: first-complete-build
+hero_image:
+  provider: wikimedia_commons
+  storage: remote
+  file: "Eduard van der Nuell.jpg"
+  remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Eduard%20van%20der%20Nuell.jpg?width=1600"
+  source_page: "https://commons.wikimedia.org/wiki/File:Eduard%20van%20der%20Nuell.jpg"
+  author: "Josef Kriehuber; reproduction photographed by Peter Geymayer"
+  license: "Public Domain"
+  license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+  verified: 2026-08-28
 ---
 # אדוארד ואן דר ניל (Eduard van der Nüll)
+![אדוארד ואן דר ניל (Eduard van der Nüll)](https://commons.wikimedia.org/wiki/Special:FilePath/Eduard%20van%20der%20Nuell.jpg?width=1600)
+
+*דיוקן: Josef Kriehuber; reproduction photographed by Peter Geymayer. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Eduard%20van%20der%20Nuell.jpg). רישיון: [Public Domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+
 
 ## מי האדם ולמה אכפת לנו
 

@@ -8,8 +8,22 @@ died: 1942-02-22
 roles: [writer]
 tags: [person]
 content_status: first-complete-build
+hero_image:
+  provider: wikimedia_commons
+  storage: remote
+  file: "Stefan Zweig 1900.jpg"
+  remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Stefan%20Zweig%201900.jpg?width=1600"
+  source_page: "https://commons.wikimedia.org/wiki/File:Stefan%20Zweig%201900.jpg"
+  author: "Kunst Salon Pictzner"
+  license: "Public Domain"
+  license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+  verified: 2026-08-28
 ---
 # סטפן צווייג (Stefan Zweig)
+![סטפן צווייג (Stefan Zweig)](https://commons.wikimedia.org/wiki/Special:FilePath/Stefan%20Zweig%201900.jpg?width=1600)
+
+*צילום: Kunst Salon Pictzner. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Stefan%20Zweig%201900.jpg). רישיון: [Public Domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+
 
 ## מי האדם ולמה אכפת לנו
 

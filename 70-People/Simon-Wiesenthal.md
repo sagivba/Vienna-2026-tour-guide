@@ -8,8 +8,22 @@ died: 2005-09-20
 roles: [Holocaust survivor, Nazi hunter]
 tags: [person]
 content_status: first-complete-build
+hero_image:
+  provider: wikimedia_commons
+  storage: remote
+  file: "Simon Wiesenthal.JPG"
+  remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Simon%20Wiesenthal.JPG?width=1600"
+  source_page: "https://commons.wikimedia.org/wiki/File:Simon%20Wiesenthal.JPG"
+  author: "Horego"
+  license: "CC BY-SA 2.0"
+  license_url: "https://creativecommons.org/licenses/by-sa/2.0/"
+  verified: 2026-08-28
 ---
 # שמעון ויזנטל (Simon Wiesenthal)
+![שמעון ויזנטל (Simon Wiesenthal)](https://commons.wikimedia.org/wiki/Special:FilePath/Simon%20Wiesenthal.JPG?width=1600)
+
+*צילום: Horego. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Simon%20Wiesenthal.JPG). רישיון: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 
 ## מי האדם ולמה אכפת לנו
 

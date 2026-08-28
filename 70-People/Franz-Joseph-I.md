@@ -8,8 +8,22 @@ died: 1916-11-21
 roles: [emperor]
 tags: [person]
 content_status: first-complete-build
+hero_image:
+  provider: wikimedia_commons
+  storage: remote
+  file: "Portrait of Franz Joseph I by Franz Xaver Winterhalter.jpg"
+  remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Franz%20Joseph%20I%20by%20Franz%20Xaver%20Winterhalter.jpg?width=1600"
+  source_page: "https://commons.wikimedia.org/wiki/File:Portrait%20of%20Franz%20Joseph%20I%20by%20Franz%20Xaver%20Winterhalter.jpg"
+  author: "Franz Xaver Winterhalter"
+  license: "Public Domain"
+  license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+  verified: 2026-08-28
 ---
 # פרנץ יוזף הראשון (Franz Joseph I.)
+![פרנץ יוזף הראשון (Franz Joseph I.)](https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Franz%20Joseph%20I%20by%20Franz%20Xaver%20Winterhalter.jpg?width=1600)
+
+*דיוקן: Franz Xaver Winterhalter. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Portrait%20of%20Franz%20Joseph%20I%20by%20Franz%20Xaver%20Winterhalter.jpg). רישיון: [Public Domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+
 
 ## מי האדם ולמה אכפת לנו
 

@@ -8,8 +8,22 @@ died: 1847-04-30
 roles: [archduke, military commander]
 tags: [person]
 content_status: first-complete-build
+hero_image:
+  provider: wikimedia_commons
+  storage: remote
+  file: "Archduke Charles of Austria (J.B. Seele, 1800).jpg"
+  remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Archduke%20Charles%20of%20Austria%20%28J.B.%20Seele%2C%201800%29.jpg?width=1600"
+  source_page: "https://commons.wikimedia.org/wiki/File:Archduke%20Charles%20of%20Austria%20(J.B.%20Seele,%201800).jpg"
+  author: "Johann Baptist Seele"
+  license: "Public Domain"
+  license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+  verified: 2026-08-28
 ---
 # הארכידוכס קרל (Erzherzog Karl von Österreich-Teschen)
+![הארכידוכס קרל (Erzherzog Karl von Österreich-Teschen)](https://commons.wikimedia.org/wiki/Special:FilePath/Archduke%20Charles%20of%20Austria%20%28J.B.%20Seele%2C%201800%29.jpg?width=1600)
+
+*דיוקן: Johann Baptist Seele. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Archduke%20Charles%20of%20Austria%20(J.B.%20Seele,%201800).jpg). רישיון: [Public Domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+
 
 ## מי האדם ולמה אכפת לנו
 

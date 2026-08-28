@@ -8,8 +8,22 @@ died: 1939-09-23
 roles: [neurologist, founder of psychoanalysis]
 tags: [person]
 content_status: first-complete-build
+hero_image:
+  provider: wikimedia_commons
+  storage: remote
+  file: "Sigmund Freud, bust portrait, facing front LCCN2010651703.jpg"
+  remote_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Sigmund%20Freud%2C%20bust%20portrait%2C%20facing%20front%20LCCN2010651703.jpg?width=1600"
+  source_page: "https://commons.wikimedia.org/wiki/File:Sigmund%20Freud,%20bust%20portrait,%20facing%20front%20LCCN2010651703.jpg"
+  author: "Library of Congress, Miscellaneous Items in High Demand / photographer not identified"
+  license: "Public Domain"
+  license_url: "https://creativecommons.org/publicdomain/mark/1.0/"
+  verified: 2026-08-28
 ---
 # זיגמונד פרויד (Sigmund Freud)
+![זיגמונד פרויד (Sigmund Freud)](https://commons.wikimedia.org/wiki/Special:FilePath/Sigmund%20Freud%2C%20bust%20portrait%2C%20facing%20front%20LCCN2010651703.jpg?width=1600)
+
+*צילום: Library of Congress, Miscellaneous Items in High Demand / photographer not identified. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sigmund%20Freud,%20bust%20portrait,%20facing%20front%20LCCN2010651703.jpg). רישיון: [Public Domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+
 
 ## מי האדם ולמה אכפת לנו
 
