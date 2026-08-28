@@ -73,9 +73,10 @@ recheck_before_visit:
 
 ## מה לחפש במקום
 
-- תחנות התחבורה.
-- עסקים מקומיים.
-- להבין את הכיוון למרכז בלי לפתוח מפה כל שלושים שניות.
+- **קודם התמצאות:** זהו רחוב שימושי. זהו את כיוון המרכז, את כיוון המלון ואת התחנות שבהן באמת תשתמשו; אחרי יום אחד הוא צריך להפוך לציר אינטואיטיבי.
+- **חזית מסחרית יומיומית:** הסתכלו על תמהיל של סופרמרקטים, עסקים קטנים, מגורים ותחבורה. כאן וינה פחות עסוקה בהצגה עצמית.
+- **רחובות הצד:** סטו פעם אחת לכיוון Karmeliterviertel. ההבדל בין ציר תחבורה פעיל לרחוב מגורים מורגש בתוך דקה.
+- **הקשר היהודי:** באזור הסמוך נמצאים מוסדות ועסקים יהודיים בני זמננו לצד אתרי זיכרון לעולם שנחרב. כדאי לקרוא את הרחוב כחלק מ-Leopoldstadt ולא כ"אתר" בפני עצמו.
 
 ## זמן שכדאי להקדיש
 
@@ -84,10 +85,10 @@ recheck_before_visit:
 
 ## מה קרוב לכאן
 
-- [[Hotel-IMLAUER-Wien|מלון IMLAUER Wien]] — כ־150 מטר, כ־2 דקות הליכה
-- [[Karmeliterviertel|קרמליטרפירטל]] — כ־300 מטר, כ־4 דקות הליכה
-- [[Karmelitermarkt|קרמליטרמרקט]] — כ־400 מטר, כ־5 דקות הליכה
-- [[Vienna-Jewish-Leopoldstadt|לאופולדשטאדט היהודית]] — כ־400 מטר, כ־5 דקות הליכה
+- [[Hotel-IMLAUER-Wien|מלון IMLAUER Wien (Hotel IMLAUER Wien)]] — כ־150 מטר, כ־2 דקות הליכה. לחזרה לנקודת הבסיס שלנו ב-Leopoldstadt. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Hotel+IMLAUER+Wien%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Karmeliterviertel|קרמליטרפירטל (Karmeliterviertel)]] — כ־300 מטר, כ־4 דקות הליכה. להמשך הליכה בשכונה ולא רק בין נקודות תיירות. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Karmeliterviertel%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Karmelitermarkt|קרמליטרמרקט (Karmelitermarkt)]] — כ־400 מטר, כ־5 דקות הליכה. לאוכל, שוק שכונתי ואווירה יומיומית של Leopoldstadt. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Karmelitermarkt%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Vienna-Jewish-Leopoldstadt|לאופולדשטאדט היהודית (Jüdisches Leopoldstadt)]] — כ־400 מטר, כ־5 דקות הליכה. כדי לקרוא את הרובע דרך החיים היהודיים שהתקיימו ומתקיימים בו. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=J%C3%BCdisches+Leopoldstadt%2C+Vienna%2C+Austria&travelmode=walking)
 
 ## מידע מעשי
 
@@ -95,4 +96,4 @@ recheck_before_visit:
 
 ## מקורות
 
-- https://www.wien.info/
+- [Wien.info](https://www.wien.info/)

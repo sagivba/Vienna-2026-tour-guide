@@ -42,6 +42,12 @@ nearby_places:
 
 משפחת מוצרט עברה לבית הגדול יותר ב-Makartplatz ב-1773. כאן קל יותר להבין את המשפחה כמוסד מקצועי שלם: אבא מורה ומנהל, שני ילדים מוכשרים, הופעות, מסעות ומכתבים בלי סוף.
 
+## לפני שנכנסים - שימו לב שזה כבר בית של משפחה מבוססת יותר
+
+ה-**Tanzmeisterhaus** ב-Makartplatz היה מרווח משמעותית מן הדירה ב-Getreidegasse: משפחת מוצרט עברה לכאן ב-1773 לדירה בת שמונה חדרים בקומה השנייה. Wolfgang Amadé חי כאן עד סוף 1780, לפני שעזב את זלצבורג לתמיד.
+
+יש עוד פרט שחשוב לדעת עוד בחוץ: המבנה נפגע בחלקו במלחמת העולם השנייה ונבנה מחדש לפני פתיחת המוזיאון ב-1996. לכן לא כל מה שאתם רואים הוא מעטפת שהשתמרה ברצף מאז המאה ה-18; גם כאן הזיכרון של מוצרט הוא תוצאה של שימור ושחזור מודרני.
+
 ## אנשים
 - [[Wolfgang-Amadeus-Mozart|וולפגנג אמדאוס מוצרט (Wolfgang Amadeus Mozart)]]
 - [[Leopold-Mozart|לאופולד מוצרט (Leopold Mozart)]]
@@ -57,6 +63,13 @@ nearby_places:
 
 הביקור בבית המגורים משלים את בית ההולדת. בית ההולדת מספר על ההתחלה ועל המשפחה הצעירה, ואילו בית המגורים מתאים יותר להבנת שנות ההתבגרות, העבודה והמתח בין מוצרט לבין המסגרת של זלצבורג.
 
+## מה לחפש במקום
+
+- **השוואה לבית ההולדת:** כאן יש יותר מרחב. נסו לחשוב מה השתנה במעמד ובצרכים המקצועיים של המשפחה בין שני הבתים.
+- **המשפחה כמערכת מקצועית:** חפשו עדויות ללימוד, להופעות, למכתבים ולניהול הקריירה בידי לאופולד.
+- **נאנרל:** חפשו את הסיפור שלה כאמנית וכבת למשפחה מוזיקלית, לא רק כאחותו של וולפגנג.
+- **השחזור:** כאשר התצוגה מסבירה מה נהרס ומה נבנה מחדש, עצרו. זה חלק מהסיפור של הבית לא פחות מתקופת מוצרט.
+
 ## זמן שכדאי להקדיש
 
 - **מינימום:** כ־45 דקות
@@ -64,9 +77,9 @@ nearby_places:
 
 ## מה קרוב לכאן
 
-- [[Mirabell-Gardens|גני מיראבל]] — כ־300 מטר, כ־4 דקות הליכה
-- [[Salzburg-Altstadt|העיר העתיקה של זלצבורג]] — כ־450 מטר, כ־6 דקות הליכה
-- [[Mozarts-Birthplace|בית הולדתו של מוצרט]] — כ־500 מטר, כ־7 דקות הליכה
+- [[Mirabell-Gardens|גני מיראבל (Mirabellgarten)]] — כ־300 מטר, כ־4 דקות הליכה. לגן פורמלי, ציר מבטים אל המצודה והפוגה ירוקה במרכז זלצבורג. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Mirabellgarten%2C+Salzburg%2C+Austria&travelmode=walking)
+- [[Salzburg-Altstadt|העיר העתיקה של זלצבורג (Salzburger Altstadt)]] — כ־450 מטר, כ־6 דקות הליכה. כדי לחבר את האתר הבודד לרחובות, לכיכרות ולמרקם העיר העתיקה. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Salzburger+Altstadt%2C+Salzburg%2C+Austria&travelmode=walking)
+- [[Mozarts-Birthplace|בית הולדתו של מוצרט (Mozarts Geburtshaus)]] — כ־500 מטר, כ־7 דקות הליכה. כדי לראות את סביבת הילדות של מוצרט בתוך Getreidegasse. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Mozarts+Geburtshaus%2C+Salzburg%2C+Austria&travelmode=walking)
 
 ## מקורות
-- https://mozarteum.at/en/mozart-museums/mozart-residence
+- [International Mozarteum Foundation - Mozart Residence](https://mozarteum.at/en/mozart-museums/mozarts-residence)

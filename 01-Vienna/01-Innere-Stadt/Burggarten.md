@@ -79,11 +79,11 @@ nearby_places:
 
 ## מה קרוב לכאן
 
-- [[Neue-Burg|נוייה בורג]] — כ־100 מטר, כ־2 דקות הליכה
-- [[Albertina|אלברטינה]] — כ־200 מטר, כ־3 דקות הליכה
-- [[Heldenplatz|כיכר הגיבורים]] — כ־250 מטר, כ־3 דקות הליכה
-- [[Vienna-State-Opera|האופרה הממלכתית של וינה]] — כ־350 מטר, כ־5 דקות הליכה
-- [[Hofburg|הופבורג]] — כ־450 מטר, כ־6 דקות הליכה
+- [[Neue-Burg|נוייה בורג (Neue Burg)]] — כ־100 מטר, כ־2 דקות הליכה. להבנת החלק המאוחר והמונומנטלי של Hofburg מול Heldenplatz. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Neue+Burg%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Albertina|אלברטינה (Albertina)]] — כ־200 מטר, כ־3 דקות הליכה. לתצפית טובה על האופרה ולחיבור בין ארמון למוזיאון. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Albertina%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Heldenplatz|כיכר הגיבורים (Heldenplatz)]] — כ־250 מטר, כ־3 דקות הליכה. כדי לראות את Hofburg בקנה מידה מונומנטלי ואת פרויקט ה-Kaiserforum שלא הושלם. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Heldenplatz%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Vienna-State-Opera|האופרה הממלכתית של וינה (Wiener Staatsoper)]] — כ־350 מטר, כ־5 דקות הליכה. כדי לראות את מוסד האופרה כחלק מתכנון ה-Ringstrasse ולא רק כאולם מופעים. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Wiener+Staatsoper%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Hofburg|הופבורג (Hofburg)]] — כ־450 מטר, כ־6 דקות הליכה. להמשך ישיר אל מרכז הכוח ההבסבורגי והחצרות ההיסטוריות. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Hofburg%2C+Vienna%2C+Austria&travelmode=walking)
 
 ## מקורות
-- https://www.wien.info/en/see-do/parks-green-spaces/burggarten-344778
+- [Wien.info](https://www.wien.info/en/see-do/parks-green-spaces/burggarten-344778)

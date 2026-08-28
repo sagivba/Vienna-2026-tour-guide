@@ -69,9 +69,10 @@ recheck_before_visit:
 
 ## מה לחפש במקום
 
-- גן הוורדים.
-- Theseustempel, מבנה ניאו-קלאסי שנראה כאילו מישהו הזמין חתיכת יוון במשלוח לוינה.
-- מבטים חזרה לכיוון Hofburg והפרלמנט.
+- **Theseustempel:** התרחקו מספיק כדי לראות את המבנה כולו. זהו מקדש ניאו-קלאסי לבן שתכנן Peter von Nobile כעיבוד למקדש הפייסטוס באתונה; ספרו את הקצב של העמודים לפני שאתם מסתכלים על הפסלים או הוורדים.
+- **גן הוורדים:** הסתכלו לא רק על הפרחים אלא על הסידור הפורמלי שלהם מול המבנה הלבן. בקיץ הניגוד בין גן מטופח לבין "יוון" ניאו-קלאסית הוא חלק מהאפקט.
+- **אנדרטת Elisabeth:** היא נמצאת באזור שקט יותר ליד Burgtheater. מעניין להשוות בין סיסי האינטימית יחסית כאן לבין הארכיטקטורה המונומנטלית של Hofburg הסמוך.
+- **גבולות הגן:** חפשו מבטים אל Hofburg, Heldenplatz והפרלמנט. Volksgarten עובד טוב דווקא מפני שמרחב מנוחה ציבורי יושב בתוך אזור שהיה ונשאר טעון בכוח פוליטי.
 
 ## זמן שכדאי להקדיש
 
@@ -80,9 +81,9 @@ recheck_before_visit:
 
 ## מה קרוב לכאן
 
-- [[Heldenplatz|כיכר הגיבורים]] — כ־200 מטר, כ־3 דקות הליכה
-- [[Hofburg|הופבורג]] — כ־300 מטר, כ־4 דקות הליכה
-- [[Neue-Burg|נוייה בורג]] — כ־350 מטר, כ־5 דקות הליכה
+- [[Heldenplatz|כיכר הגיבורים (Heldenplatz)]] — כ־200 מטר, כ־3 דקות הליכה. כדי לראות את Hofburg בקנה מידה מונומנטלי ואת פרויקט ה-Kaiserforum שלא הושלם. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Heldenplatz%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Hofburg|הופבורג (Hofburg)]] — כ־300 מטר, כ־4 דקות הליכה. להמשך ישיר אל מרכז הכוח ההבסבורגי והחצרות ההיסטוריות. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Hofburg%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Neue-Burg|נוייה בורג (Neue Burg)]] — כ־350 מטר, כ־5 דקות הליכה. להבנת החלק המאוחר והמונומנטלי של Hofburg מול Heldenplatz. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Neue+Burg%2C+Vienna%2C+Austria&travelmode=walking)
 
 ## מידע מעשי
 
@@ -90,4 +91,5 @@ recheck_before_visit:
 
 ## מקורות
 
-- https://www.wien.info/en/see-do/parks-green-spaces/volksgarten-344766
+- [Wien.info](https://www.wien.info/en/see-do/parks-green-spaces/volksgarten-344766)
+- [Wien.info - Volksgarten](https://www.wien.info/en/livable-vienna/parks-green-spaces/volksgarten-994420)

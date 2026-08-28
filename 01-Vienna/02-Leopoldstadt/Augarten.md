@@ -79,6 +79,6 @@ recheck_before_visit:
 
 ## מקורות
 
-- https://www.bundesgaerten.at/augarten/Augarten-.html
-- https://www.bundesgaerten.at/augarten.html
-- https://www.wien.info/en/see-do/parks-green-spaces/augarten-347628
+- [bundesgaerten.at](https://www.bundesgaerten.at/augarten/Augarten-.html)
+- [bundesgaerten.at](https://www.bundesgaerten.at/augarten.html)
+- [Wien.info](https://www.wien.info/en/see-do/parks-green-spaces/augarten-347628)

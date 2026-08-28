@@ -79,8 +79,8 @@ recheck_before_visit:
 
 ## מה קרוב לכאן
 
-- [[Vienna-State-Opera|האופרה הממלכתית של וינה]] — כ־450 מטר, כ־6 דקות הליכה
-- [[Naschmarkt|נאשמרקט]] — כ־500 מטר, כ־7 דקות הליכה
+- [[Vienna-State-Opera|האופרה הממלכתית של וינה (Wiener Staatsoper)]] — כ־450 מטר, כ־6 דקות הליכה. כדי לראות את מוסד האופרה כחלק מתכנון ה-Ringstrasse ולא רק כאולם מופעים. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Wiener+Staatsoper%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Naschmarkt|נאשמרקט (Naschmarkt)]] — כ־500 מטר, כ־7 דקות הליכה. לשוק פעיל ולאזור טוב לעצירה בין Karlsplatz ל-Wieden. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Naschmarkt%2C+Vienna%2C+Austria&travelmode=walking)
 
 ## מידע מעשי
 
@@ -88,6 +88,6 @@ recheck_before_visit:
 
 ## מקורות
 
-- https://www.wienmuseum.at/blickfang_karlsplatz
-- https://magazin.wienmuseum.at/der-karlsplatz-um-1900
-- https://www.wien.info/
+- [Wien Museum](https://www.wienmuseum.at/blickfang_karlsplatz)
+- [magazin.wienmuseum.at](https://magazin.wienmuseum.at/der-karlsplatz-um-1900)
+- [Wien.info](https://www.wien.info/)

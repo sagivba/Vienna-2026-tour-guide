@@ -46,10 +46,12 @@ nearby_places:
 
 ## מה לחפש
 
-- הציר המרכזי לכיוון המצודה.
-- פסלים ומזרקות.
-- Pegasus Fountain.
-- Marble Staircase בארמון אם פתוח ונגיש.
+- **הציר למצודה:** עמדו ב-Parterre והסתכלו דרך הגן לכיוון הקתדרלה ו-Hohensalzburg. זהו קו מבט מתוכנן שמחבר את הגן לעיר במקום לסגור אותו בתוך עצמו.
+- **המזרקה המרכזית:** סביב הבריכה נמצאות ארבע קבוצות פסלים המסמלות אש, אוויר, אדמה ומים. אל תנסו רק לצלם את המזרקה; עשו סיבוב והסתכלו על הקבוצות מארבעה צדדים.
+- **Pegasus Fountain:** הפסל עצמו מוקדם מן המיקום הנוכחי שלו והועבר לכאן רק ב-1913. זה פרט טוב שמזכיר שגם גן "היסטורי" משתנה לאורך זמן.
+- **Heckentheater:** אם פתוח, חפשו את תיאטרון הגדרות במערב הגן - במה שנבנית מצמחייה במקום מקירות.
+- **Zwergerlgarten:** אם נכנס במסלול, חפשו את דמויות הגמדים משיש Untersberg. זה צד פחות ממלכתי ויותר משונה של עולם הגנים הבארוקי.
+- **Marble Staircase:** אם הארמון פתוח לציבור באותו זמן, שווה להיכנס רק כדי לראות את גרם המדרגות; אין צורך להפוך את הארמון כולו ליעד נפרד.
 
 ## זמן שכדאי להקדיש
 
@@ -58,7 +60,8 @@ nearby_places:
 
 ## מה קרוב לכאן
 
-- [[Mozart-Residence-Salzburg|בית מגורי מוצרט בזלצבורג]] — כ־300 מטר, כ־4 דקות הליכה
+- [[Mozart-Residence-Salzburg|בית מגורי מוצרט בזלצבורג (Mozart-Wohnhaus)]] — כ־300 מטר, כ־4 דקות הליכה. להשלמת סיפור משפחת מוצרט בשנות הנעורים והעבודה בזלצבורג. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Mozart-Wohnhaus%2C+Salzburg%2C+Austria&travelmode=walking)
 
 ## מקורות
-- https://www.salzburg.info/en/sights/top10/mirabell-palace-gardens
+- [Salzburg Info](https://www.salzburg.info/en/sights/top10/mirabell-palace-gardens)
+- [Salzburg Info - Mirabell Palace and Gardens](https://www.salzburg.info/en/travel-info/infos/mirabell-palace-and-gardens_az_11350)

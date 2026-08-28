@@ -45,12 +45,18 @@ nearby_places: []
 
 ## מה לחפש
 
-- ויאדוקטים רב-קומתיים.
-- מנהרות קצרות ורצופות.
-- האופן שבו המסילה עוקבת אחרי ההר במקום לנסות לנצח אותו בקו ישר.
+- **ויאדוקטים דו-קומתיים:** חפשו את קשתות האבן ואת הדרך שבה המבנה מתעקל עם המסילה. Kalte Rinne הוא הדוגמה המזוהה ביותר.
+- **מנהרות + גשרים כרצף אחד:** אל תספרו רק מנהרות. היופי ההנדסי הוא בשילוב: 41 ק"מ של קו שמפתר בעיה אחר בעיה באמצעות עקומות, מנהרות, ויאדוקטים וגשרי אבן.
+- **20-Schilling-Blick:** אם המסלול שלכם מאפשר, זאת נקודת התצפית הטובה ביותר לקרוא את Kalte Rinne בתוך הנוף. הוויאדוקט שם באורך 184 מטר ובגובה 46 מטר.
+- **רכבת פעילה:** חכו לרכבת עוברת. העובדה שהקו ההיסטורי עדיין בשימוש היא חלק מהישג ההנדסה, לא הפרעה לתמונה.
+- **נוף התיירות:** חפשו גם וילות ומבני נופש. הרכבת לא רק חצתה הר; היא יצרה סביב Semmering תרבות של נופש קיצי ונגישות מווינה.
 
 ## אדם
 - [[Carl-Ritter-von-Ghega|קרל ריטר פון גגה (Carl Ritter von Ghega)]]
+
+## הערה מעשית לסוף אוגוסט 2026
+
+אם מתכננים **Bahnwanderweg** ולא רק תצפית/נסיעה, יש כרגע הסטה של השביל בין **Semmering station** ל-**Wolfsbergkogel station**. המסלול הרשמי מפנה דרך Südbahnstraße, Adlitzgrabenstraße, Wolfsbergkogel ו-Kurhausstraße אל נקודות התצפית. זה מידע זמני ולכן כדאי לבדוק שוב ביום הטיול.
 
 ## זמן שכדאי להקדיש
 
@@ -62,5 +68,7 @@ nearby_places: []
 לא נמצאו דפי מקום נוספים בכספת שאפשר לאמת כי הם נמצאים בטווח של 500 מטר.
 
 ## מקורות
-- https://whc.unesco.org/en/list/785/
-- https://www.wieneralpen.at/en/semmering-rax
+- [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/785/)
+- [wieneralpen.at](https://www.wieneralpen.at/en/semmering-rax)
+- [Wiener Alpen - 20-Schilling-Blick](https://www.wieneralpen.at/en/excursions/blickplatz-20-schilling-blick)
+- [Wiener Alpen - current railway hiking route](https://www.wieneralpen.at/en/semmering-rax/tour/railway-hiking-trail-semmering-breitenstein)

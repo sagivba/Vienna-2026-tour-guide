@@ -91,11 +91,11 @@ recheck_before_visit:
 
 ## מה קרוב לכאן
 
-- [[Neue-Burg|נוייה בורג]] — כ־100 מטר, כ־2 דקות הליכה
-- [[Hofburg|הופבורג]] — כ־150 מטר, כ־2 דקות הליכה
-- [[Volksgarten|פולקסגארטן]] — כ־200 מטר, כ־3 דקות הליכה
-- [[Burggarten|בורגגארטן]] — כ־250 מטר, כ־3 דקות הליכה
-- [[Sisi-Museum|מוזיאון סיסי]] — כ־300 מטר, כ־4 דקות הליכה
+- [[Neue-Burg|נוייה בורג (Neue Burg)]] — כ־100 מטר, כ־2 דקות הליכה. להבנת החלק המאוחר והמונומנטלי של Hofburg מול Heldenplatz. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Neue+Burg%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Hofburg|הופבורג (Hofburg)]] — כ־150 מטר, כ־2 דקות הליכה. להמשך ישיר אל מרכז הכוח ההבסבורגי והחצרות ההיסטוריות. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Hofburg%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Volksgarten|פולקסגארטן (Volksgarten)]] — כ־200 מטר, כ־3 דקות הליכה. לגן קיסרי נגיש ולמבט שקט יותר על מתחם Hofburg. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Volksgarten%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Burggarten|בורגגארטן (Burggarten)]] — כ־250 מטר, כ־3 דקות הליכה. למעבר קצר וירוק בין Hofburg, Albertina וה-Ring. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Burggarten%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Sisi-Museum|מוזיאון סיסי (Sisi Museum)]] — כ־300 מטר, כ־4 דקות הליכה. להשלמת התמונה בין המיתוס של סיסי לבין חפצים ותיעוד היסטורי. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Sisi+Museum%2C+Vienna%2C+Austria&travelmode=walking)
 
 ## מידע מעשי
 
@@ -103,5 +103,5 @@ recheck_before_visit:
 
 ## מקורות
 
-- https://heldenplatz.hdgoe.at/
-- https://www.wien.info/en/art-culture/imperial-sights/imperial-palace-348842
+- [heldenplatz.hdgoe.at](https://heldenplatz.hdgoe.at/)
+- [Wien.info](https://www.wien.info/en/art-culture/imperial-sights/imperial-palace-348842)

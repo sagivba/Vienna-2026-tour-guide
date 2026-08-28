@@ -65,6 +65,12 @@ recheck_before_visit:
 
 **דירוג אישי: ⭐⭐⭐⭐⭐**
 
+## לפני שנכנסים - אל תחפשו "אדריכלות יהודית"
+
+הכתובת היא **Dorotheergasse 11**, בתוך **Palais Eskeles**. זה פרט חשוב דווקא משום שהבניין מבחוץ אינו מספר לבדו את הסיפור היהודי של וינה. המוזיאון עבר לכאן ב-1993; אחר כך הותאם הארמון שוב לצרכים מוזיאליים, כולל שינויים ב-1995/96 ושיפוץ נוסף לפני הפתיחה המחודשת ב-2011.
+
+לכן ההכנה הנכונה לפני הכניסה היא לא לחפש מגן דוד באבן אלא לשים לב למעבר מבניין עירוני-היסטורי למוסד זיכרון מודרני. הסיפור היהודי נמצא באוסף, בפרובננס של החפצים ובדרך שבה המוזיאון משתמש במבנה הקיים.
+
 ## הסיפור
 
 המוזיאון היהודי של וינה (Jüdisches Museum Wien) מציג את הסיפור היהודי של העיר כחלק מן ההיסטוריה של וינה עצמה, לא כנספח שמתחיל באנטישמיות ומסתיים בשואה. בתצוגות פוגשים דת וחיי קהילה, מסחר, אמנות, מוזיקה, הגירה, פוליטיקה, ציונות, השתלבות חברתית וגם את האופן שבו זהות יהודית השתנתה בתוך עיר רב-לאומית ומודרנית.
@@ -79,10 +85,11 @@ recheck_before_visit:
 
 ## מה לחפש במקום
 
-- לא לדלג ישר לשואה: לחפש תצוגות שמספרות על חיים, יצירה, דת, משפחה ומוסדות לפני החורבן ואחריו.
-- לשים לב לחפצים שהגיעו מן המוזיאון היהודי הראשון ולשאלות של גזל, אובדן והשבה.
-- לראות כיצד התצוגה מחברת בין יהדות וינה לבין ההיסטוריה הרחבה של האימפריה האוסטרו-הונגרית.
-- לזכור שיש שני אתרים. Dorotheergasse נותן את התמונה הרחבה; Judenplatz נותן עומק ארכיאולוגי ומימי-הביניים.
+- **אל תתחילו ב-1938.** חפשו קודם חיי קהילה, דת, משפחה, תרבות, מוסדות והשתלבות בעיר. רק כך מבינים מה בדיוק נהרס אחר כך.
+- **חפצים עם ביוגרפיה:** כאשר מצוין שחפץ הגיע מן המוזיאון היהודי הראשון או מאוסף ה-IKG, עצרו לקרוא את מסלול החפץ. כאן provenance אינו הערת שוליים אלא חלק מהסיפור.
+- **המוזיאון הראשון בעולם:** נסו לזהות בתצוגה מה נשאר מן המוסד שנוסד ב-1895 ומה אבד או הושב לאחר הגזל הנאצי.
+- **ההווה היהודי:** חפשו במכוון חלקים שמגיעים עד וינה היהודית של היום. המוזיאון מדגיש שהסיפור לא מסתיים בשואה.
+- **החיבור ל-Judenplatz:** אם כבר ביקרתם ב[[Museum-Judenplatz|מוזיאון יודנפלאץ]], השוו בין שתי שיטות הסיפור: כאן אוספים, זהות וחיים עירוניים; שם ארכיאולוגיה וקהילה ימי-ביניימית.
 
 ## זמן שכדאי להקדיש
 
@@ -91,11 +98,11 @@ recheck_before_visit:
 
 ## מה קרוב לכאן
 
-- [[Stephansplatz|שטפנספלאץ]] — כ־300 מטר, כ־4 דקות הליכה
-- [[Stephansdom|קתדרלת סטפנוס הקדוש]] — כ־320 מטר, כ־4 דקות הליכה
-- [[Graben|גראבן]] — כ־350 מטר, כ־5 דקות הליכה
-- [[Peterskirche|כנסיית פטרוס הקדוש]] — כ־400 מטר, כ־5 דקות הליכה
-- [[Kohlmarkt|קולמרקט]] — כ־450 מטר, כ־6 דקות הליכה
+- [[Stephansplatz|שטפנספלאץ (Stephansplatz)]] — כ־300 מטר, כ־4 דקות הליכה. כדי להתמצא בלב העיר לפני שממשיכים לרחובות ולכנסיות שסביבו. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Stephansplatz%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Stephansdom|קתדרלת סטפנוס הקדוש (Stephansdom)]] — כ־320 מטר, כ־4 דקות הליכה. כדי לעבור מן הכיכר אל המבנה הגותי שמגדיר את קו הרקיע של המרכז. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Stephansdom%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Graben|גראבן (Graben)]] — כ־350 מטר, כ־5 דקות הליכה. לקריאת המרכז העירוני, עמוד הדבר והחזיתות המסחריות. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Graben%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Peterskirche|כנסיית פטרוס הקדוש (Peterskirche)]] — כ־400 מטר, כ־5 דקות הליכה. לכנסיית בארוק קטנה וצפופה שמפתיעה מיד אחרי הרחובות המסחריים. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Peterskirche%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Kohlmarkt|קולמרקט (Kohlmarkt)]] — כ־450 מטר, כ־6 דקות הליכה. לציר ההליכה שבין Graben ל-Hofburg ולחזיתות המסחר ההיסטוריות. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Kohlmarkt%2C+Vienna%2C+Austria&travelmode=walking)
 
 ## מידע מעשי
 
@@ -103,7 +110,9 @@ recheck_before_visit:
 
 ## מקורות
 
-- https://www.jmw.at/en
-- https://www.jmw.at/en/about_us
-- https://sammlung.jmw.at/en/tours/a7skb7fllte5eac3d-the-first-jewish-museum-in-vienna/
-- https://www.jmw.at/en/research/provenance_research
+- [Jüdisches Museum Wien](https://www.jmw.at/en)
+- [Jüdisches Museum Wien](https://www.jmw.at/en/about_us)
+- [sammlung.jmw.at](https://sammlung.jmw.at/en/tours/a7skb7fllte5eac3d-the-first-jewish-museum-in-vienna/)
+- [Jüdisches Museum Wien](https://www.jmw.at/en/research/provenance_research)
+- [Jüdisches Museum Wien - About Us](https://jmw.at/en/about_us)
+- [Jüdisches Museum Wien - Visit](https://www.jmw.at/en/visit)

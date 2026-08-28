@@ -87,10 +87,10 @@ recheck_before_visit:
 
 ## מה קרוב לכאן
 
-- [[Karmelitermarkt|קרמליטרמרקט]] — כ־150 מטר, כ־2 דקות הליכה
-- [[Karmeliterviertel|קרמליטרפירטל]] — כ־150 מטר, כ־2 דקות הליכה
-- [[Hotel-IMLAUER-Wien|מלון IMLAUER Wien]] — כ־400 מטר, כ־5 דקות הליכה
-- [[Taborstrasse|טאבורשטראסה]] — כ־400 מטר, כ־5 דקות הליכה
+- [[Karmelitermarkt|קרמליטרמרקט (Karmelitermarkt)]] — כ־150 מטר, כ־2 דקות הליכה. לאוכל, שוק שכונתי ואווירה יומיומית של Leopoldstadt. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Karmelitermarkt%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Karmeliterviertel|קרמליטרפירטל (Karmeliterviertel)]] — כ־150 מטר, כ־2 דקות הליכה. להמשך הליכה בשכונה ולא רק בין נקודות תיירות. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Karmeliterviertel%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Hotel-IMLAUER-Wien|מלון IMLAUER Wien (Hotel IMLAUER Wien)]] — כ־400 מטר, כ־5 דקות הליכה. לחזרה לנקודת הבסיס שלנו ב-Leopoldstadt. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Hotel+IMLAUER+Wien%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Taborstrasse|טאבורשטראסה (Taborstraße)]] — כ־400 מטר, כ־5 דקות הליכה. לציר הרחוב שמחבר את המלון והחיים המקומיים אל מרכז וינה. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Taborstra%C3%9Fe%2C+Vienna%2C+Austria&travelmode=walking)
 
 ## מידע מעשי
 
@@ -98,7 +98,7 @@ recheck_before_visit:
 
 ## מקורות
 
-- https://www.wien.gv.at/en/living-together/jewish-vienna-history-equal-rights
-- https://www.wien.gv.at/en/living-together/jewish-vienna-history-nationalsocialism
-- https://www.wien.gv.at/en/living-together/jewish-community-vienna
-- https://www.ikg-wien.at/
+- [Stadt Wien](https://www.wien.gv.at/en/living-together/jewish-vienna-history-equal-rights)
+- [Stadt Wien](https://www.wien.gv.at/en/living-together/jewish-vienna-history-nationalsocialism)
+- [Stadt Wien](https://www.wien.gv.at/en/living-together/jewish-community-vienna)
+- [ikg-wien.at](https://www.ikg-wien.at/)

@@ -75,9 +75,10 @@ recheck_before_visit:
 
 ## מה לחפש במקום
 
-- Pestsäule.
-- הרחובות הצדדיים והחזיתות.
-- לזכור שהרחוב האלגנטי יושב על היסטוריה של ביצורים, מגפות ושיקום. קמעונאות יוקרתית הגיעה אחר כך.
+- **Pestsäule:** עשו סיבוב מלא סביב עמוד הדבר במקום לצלם רק מצד אחד. חפשו את המעבר מבסיס עמוס דמויות אל הקומפוזיציה הגבוהה שמושכת את העין כלפי מעלה; זה בארוק שמשתמש בתנועה ובעומס כדי להפוך אסון ציבורי להצהרת אמונה וניצחון.
+- **המרחב עצמו:** דמיינו לרגע חפיר במקום המדרחוב הרחב. השם Graben הוא כמעט השריד היחיד שקל לזהות בלי חפירה ארכיאולוגית.
+- **הפתחים הצדדיים:** הסתכלו אל הסמטאות שיוצאות מן הרחוב. הן מחזירות מיד את קנה המידה הצפוף של העיר העתיקה אחרי המרחב הרחב של Graben.
+- **קו ההליכה:** מצד אחד [[Stephansdom|Stephansdom]], מצד אחר [[Kohlmarkt|Kohlmarkt]] וה-Hofburg. זה לא רק רחוב קניות אלא חוליה בציר עירוני שמחבר דת, מסחר ושלטון.
 
 ## זמן שכדאי להקדיש
 
@@ -86,11 +87,11 @@ recheck_before_visit:
 
 ## מה קרוב לכאן
 
-- [[Peterskirche|כנסיית פטרוס הקדוש]] — כ־100 מטר, כ־2 דקות הליכה
-- [[Stephansplatz|שטפנספלאץ]] — כ־180 מטר, כ־3 דקות הליכה
-- [[Stephansdom|קתדרלת סטפנוס הקדוש]] — כ־200 מטר, כ־3 דקות הליכה
-- [[Kohlmarkt|קולמרקט]] — כ־250 מטר, כ־3 דקות הליכה
-- [[Michaelerplatz|כיכר מיכאלר]] — כ־450 מטר, כ־6 דקות הליכה
+- [[Peterskirche|כנסיית פטרוס הקדוש (Peterskirche)]] — כ־100 מטר, כ־2 דקות הליכה. לכנסיית בארוק קטנה וצפופה שמפתיעה מיד אחרי הרחובות המסחריים. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Peterskirche%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Stephansplatz|שטפנספלאץ (Stephansplatz)]] — כ־180 מטר, כ־3 דקות הליכה. כדי להתמצא בלב העיר לפני שממשיכים לרחובות ולכנסיות שסביבו. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Stephansplatz%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Stephansdom|קתדרלת סטפנוס הקדוש (Stephansdom)]] — כ־200 מטר, כ־3 דקות הליכה. כדי לעבור מן הכיכר אל המבנה הגותי שמגדיר את קו הרקיע של המרכז. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Stephansdom%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Kohlmarkt|קולמרקט (Kohlmarkt)]] — כ־250 מטר, כ־3 דקות הליכה. לציר ההליכה שבין Graben ל-Hofburg ולחזיתות המסחר ההיסטוריות. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Kohlmarkt%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Michaelerplatz|כיכר מיכאלר (Michaelerplatz)]] — כ־450 מטר, כ־6 דקות הליכה. לנקודת מפגש מצוינת בין Hofburg, חפירות ארכיאולוגיות ו-Looshaus. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Michaelerplatz%2C+Vienna%2C+Austria&travelmode=walking)
 
 ## מידע מעשי
 
@@ -98,4 +99,4 @@ recheck_before_visit:
 
 ## מקורות
 
-- https://www.wien.info/
+- [Wien.info](https://www.wien.info/)

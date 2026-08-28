@@ -75,9 +75,10 @@ recheck_before_visit:
 
 ## מה לחפש במקום
 
-- קו הראייה לכיוון Michaelerplatz.
-- חזיתות החנויות והבניינים ההיסטוריים.
-- Demel מבחוץ, כחלק מתרבות הקונדיטוריות הקיסרית, גם אם לא נכנסים לאכול.
+- **קו הראייה ל-Michaelerplatz:** זה הדבר החשוב ביותר ברחוב. לכו כמה צעדים, עצרו והסתכלו קדימה אל כיפת ה-Michaelertrakt; הרחוב מתפקד כמעט כמסדרון שמוביל אל הארמון.
+- **קומות עליונות:** אל תישארו בגובה חלונות הראווה. מעל המותגים נמצאות חזיתות של בנייני מרכז העיר, ולעיתים דווקא שם הרחוב מפסיק להיראות כמו קניון פתוח.
+- **Demel:** גם אם לא נכנסים, הסתכלו על המקום כחלק ממערכת של ספקים, קונדיטוריות ועסקים שהתפתחו סביב חצר עשירה. הקרבה ל-Hofburg היא כאן היגיון כלכלי.
+- **המעבר ל-Graben:** שימו לב איך הרחוב הצר יחסית נפתח אל מרחב רחב יותר. שינוי קטן בגאומטריה של הרחוב משנה מיד את התחושה.
 
 ## זמן שכדאי להקדיש
 
@@ -86,11 +87,11 @@ recheck_before_visit:
 
 ## מה קרוב לכאן
 
-- [[Michaelerplatz|כיכר מיכאלר]] — כ־150 מטר, כ־2 דקות הליכה
-- [[Hofburg|הופבורג]] — כ־250 מטר, כ־3 דקות הליכה
-- [[Peterskirche|כנסיית פטרוס הקדוש]] — כ־250 מטר, כ־3 דקות הליכה
-- [[Graben|גראבן]] — כ־250 מטר, כ־3 דקות הליכה
-- [[Sisi-Museum|מוזיאון סיסי]] — כ־300 מטר, כ־4 דקות הליכה
+- [[Michaelerplatz|כיכר מיכאלר (Michaelerplatz)]] — כ־150 מטר, כ־2 דקות הליכה. לנקודת מפגש מצוינת בין Hofburg, חפירות ארכיאולוגיות ו-Looshaus. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Michaelerplatz%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Hofburg|הופבורג (Hofburg)]] — כ־250 מטר, כ־3 דקות הליכה. להמשך ישיר אל מרכז הכוח ההבסבורגי והחצרות ההיסטוריות. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Hofburg%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Peterskirche|כנסיית פטרוס הקדוש (Peterskirche)]] — כ־250 מטר, כ־3 דקות הליכה. לכנסיית בארוק קטנה וצפופה שמפתיעה מיד אחרי הרחובות המסחריים. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Peterskirche%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Graben|גראבן (Graben)]] — כ־250 מטר, כ־3 דקות הליכה. לקריאת המרכז העירוני, עמוד הדבר והחזיתות המסחריות. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Graben%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Sisi-Museum|מוזיאון סיסי (Sisi Museum)]] — כ־300 מטר, כ־4 דקות הליכה. להשלמת התמונה בין המיתוס של סיסי לבין חפצים ותיעוד היסטורי. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Sisi+Museum%2C+Vienna%2C+Austria&travelmode=walking)
 
 ## מידע מעשי
 
@@ -98,4 +99,4 @@ recheck_before_visit:
 
 ## מקורות
 
-- https://www.wien.info/
+- [Wien.info](https://www.wien.info/)

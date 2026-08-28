@@ -42,6 +42,12 @@ nearby_places:
 
 בבית הצהוב ב-Getreidegasse נולד ב-1756 [[Wolfgang-Amadeus-Mozart|וולפגנג אמדאוס מוצרט (Wolfgang Amadeus Mozart)]]. המשפחה התגוררה כאן בשכירות, פרט קטן וטוב שמחזיר את מוצרט מן הפסל אל חיי משפחה אמיתיים.
 
+## לפני שנכנסים - מצאו את Getreidegasse 9 בתוך הרחוב
+
+החזית הצהובה מוכרת מאוד, אבל כדאי קודם להסתכל על **Getreidegasse** כרחוב ולא על הבית כאנדרטה. משפחת מוצרט חיה כאן בדירה שכורה; Wolfgang Amadé נולד ב-27 בינואר 1756, והמשפחה נשארה בבית עד המעבר ל-Makartplatz ב-1773.
+
+הנקודה החשובה בחוץ היא קנה המידה: זהו בית עירוני בתוך רחוב מסחרי צפוף, לא וילה של "גאון". רק אחרי שמרגישים את הצפיפות של הרחוב כדאי להיכנס ולעלות אל הדירה.
+
 ## מה מעניין
 
 - הדירה המשפחתית.
@@ -58,6 +64,13 @@ nearby_places:
 
 הביקור במקום מעניין כאשר מתייחסים אליו כבית משפחתי ולא כמקדש לגאון. החדרים, החפצים והמסמכים מאפשרים לדמיין ילד שגדל בתוך משפחה שאפתנית ומוזיקלית, לפני שהשם מוצרט הפך למותג בינלאומי של זלצבורג.
 
+## מה לחפש בתוך הבית
+
+- **המעבר מן הרחוב לדירה:** זכרו שאתם עולים אל סביבת מגורים משפחתית, לא אל אולם קונצרטים.
+- **חלוקת החדרים:** נסו להבין כיצד משפחה שלמה חיה ועבדה בתוך דירה עירונית. זה נותן קנה מידה טוב יותר מכל פסל של מוצרט.
+- **כלי נגינה, מסמכים וחפצים משפחתיים:** חפשו מה מלמד על שגרת עבודה, חינוך ומסעות - לא רק מה "היה שייך למוצרט".
+- **[[Nannerl-Mozart|נאנרל]] ו[[Leopold-Mozart|לאופולד]]:** תנו להם מקום בסיפור. הבית הוא של משפחת מוצרט, לא של ילד פלא שחי לבד.
+
 ## זמן שכדאי להקדיש
 
 - **מינימום:** כ־45 דקות
@@ -65,9 +78,9 @@ nearby_places:
 
 ## מה קרוב לכאן
 
-- [[Salzburg-Altstadt|העיר העתיקה של זלצבורג]] — כ־20 מטר, כ־1 דקות הליכה
-- [[FestungsBahn-Salzburg|הפוניקולר למצודת זלצבורג]] — כ־500 מטר, כ־7 דקות הליכה
-- [[Mozart-Residence-Salzburg|בית מגורי מוצרט בזלצבורג]] — כ־500 מטר, כ־7 דקות הליכה
+- [[Salzburg-Altstadt|העיר העתיקה של זלצבורג (Salzburger Altstadt)]] — כ־20 מטר, כדקה הליכה. כדי לחבר את האתר הבודד לרחובות, לכיכרות ולמרקם העיר העתיקה. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Salzburger+Altstadt%2C+Salzburg%2C+Austria&travelmode=walking)
+- [[FestungsBahn-Salzburg|הפוניקולר למצודת זלצבורג (FestungsBahn Salzburg)]] — כ־500 מטר, כ־7 דקות הליכה. הדרך הקלה לעלות למצודה בלי לבזבז כוח על העלייה. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=FestungsBahn+Salzburg%2C+Salzburg%2C+Austria&travelmode=walking)
+- [[Mozart-Residence-Salzburg|בית מגורי מוצרט בזלצבורג (Mozart-Wohnhaus)]] — כ־500 מטר, כ־7 דקות הליכה. להשלמת סיפור משפחת מוצרט בשנות הנעורים והעבודה בזלצבורג. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Mozart-Wohnhaus%2C+Salzburg%2C+Austria&travelmode=walking)
 
 ## מקורות
-- https://mozarteum.at/en/mozart-museums/mozarts-birthplace
+- [International Mozarteum Foundation](https://mozarteum.at/en/mozart-museums/mozarts-birthplace)

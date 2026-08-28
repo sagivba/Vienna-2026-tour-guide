@@ -54,10 +54,11 @@ nearby_places:
 
 ## מה לחפש
 
-- כיכרות שנפתחות מתוך רחובות צרים.
-- Passagen, מעברים דרך בניינים.
-- קשר עין כמעט קבוע ל-Hohensalzburg.
-- Getreidegasse והשלטים הבולטים מעל החנויות.
+- **כיכר מתוך סמטה:** לכו דרך רחוב צר עד שהוא נפתח לכיכר. המעבר הזה חוזר שוב ושוב והוא אחד המנגנונים שמייצרים את הדרמה העירונית של Salzburg.
+- **Getreidegasse:** הרימו את הראש מעל החנויות. חפשו שערי בתים, חלונות שהולכים וקטנים בקומות העליונות ושלטי גילדות מברזל הבולטים מעל הרחוב.
+- **Durchhäuser / Passagen:** היכנסו לפחות למעבר ציבורי אחד שחוצה בניין ומחבר רחוב לרחוב. החצרות והמעברים הם חלק מהמרקם, לא קיצור דרך מקרי.
+- **Hohensalzburg:** בדקו כמה פעמים במהלך ההליכה המצודה חוזרת לקו הראייה. העיר מתארגנת חזותית סביב הנוכחות שלה על Mönchsberg.
+- **הבארוק מול העיר המסחרית:** סביב הקתדרלה והכיכרות רואים כוח של נסיכים-ארכיבישופים; ב-Getreidegasse רואים בעלי מלאכה, מסחר ומגורים. שתי השכבות צריכות להישאר יחד.
 
 ## זמן שכדאי להקדיש
 
@@ -66,10 +67,11 @@ nearby_places:
 
 ## מה קרוב לכאן
 
-- [[Mozarts-Birthplace|בית הולדתו של מוצרט]] — כ־20 מטר, כ־1 דקות הליכה
-- [[FestungsBahn-Salzburg|הפוניקולר למצודת זלצבורג]] — כ־450 מטר, כ־6 דקות הליכה
-- [[Mozart-Residence-Salzburg|בית מגורי מוצרט בזלצבורג]] — כ־450 מטר, כ־6 דקות הליכה
+- [[Mozarts-Birthplace|בית הולדתו של מוצרט (Mozarts Geburtshaus)]] — כ־20 מטר, כדקה הליכה. כדי לראות את סביבת הילדות של מוצרט בתוך Getreidegasse. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Mozarts+Geburtshaus%2C+Salzburg%2C+Austria&travelmode=walking)
+- [[FestungsBahn-Salzburg|הפוניקולר למצודת זלצבורג (FestungsBahn Salzburg)]] — כ־450 מטר, כ־6 דקות הליכה. הדרך הקלה לעלות למצודה בלי לבזבז כוח על העלייה. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=FestungsBahn+Salzburg%2C+Salzburg%2C+Austria&travelmode=walking)
+- [[Mozart-Residence-Salzburg|בית מגורי מוצרט בזלצבורג (Mozart-Wohnhaus)]] — כ־450 מטר, כ־6 דקות הליכה. להשלמת סיפור משפחת מוצרט בשנות הנעורים והעבודה בזלצבורג. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Mozart-Wohnhaus%2C+Salzburg%2C+Austria&travelmode=walking)
 
 ## מקורות
-- https://www.salzburg.info/en/sights/unesco-world-heritage
-- https://whc.unesco.org/en/list/784/
+- [Salzburg Info](https://www.salzburg.info/en/sights/unesco-world-heritage)
+- [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/784/)
+- [Salzburg Info - Getreidegasse](https://www.salzburg.info/en/sights/top10/getreidegasse)

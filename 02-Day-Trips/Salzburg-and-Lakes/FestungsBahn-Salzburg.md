@@ -50,9 +50,10 @@ nearby_places:
 
 ## מה לראות
 
-- השיפוע בזמן העלייה.
-- כיצד המסילה משתלבת במדרון הצפוף.
-- התצפית שנפתחת ככל שעולים.
+- **השיפוע:** עמדו כך שתוכלו לראות את המסילה לפני הכניסה לקרון. פוניקולר פותר את בעיית הגובה בצורה גלויה מאוד - כל ההנדסה כאן נולדה מן המדרון.
+- **בעלייה:** הסתכלו לאחור ולא רק קדימה. בתוך זמן קצר הגגות של Altstadt מתחילים להיפרד זה מזה והמבנה של העיר נעשה קריא יותר.
+- **שני קצוות שונים:** התחנה התחתונה נטועה בתוך המרקם הצפוף של העיר העתיקה; העליונה כבר שייכת לעולם המבצר. הנסיעה הקצרה היא מעבר בין שני מרחבים.
+- **חיסכון במאמץ:** זה לא "קיצור דרך עצלני" אלא בחירה נכונה למסלול. עדיף לשמור את הרגליים ל-Hohensalzburg עצמו.
 
 ## הסיפור
 
@@ -71,10 +72,10 @@ nearby_places:
 
 ## מה קרוב לכאן
 
-- [[Stefan-Zweig-Centre|מרכז סטפן צווייג]] — כ־150 מטר, כ־2 דקות הליכה
-- [[Hohensalzburg-Fortress|מבצר הוהנזלצבורג]] — כ־400 מטר, כ־6 דקות הליכה
-- [[Salzburg-Altstadt|העיר העתיקה של זלצבורג]] — כ־450 מטר, כ־6 דקות הליכה
-- [[Mozarts-Birthplace|בית הולדתו של מוצרט]] — כ־500 מטר, כ־7 דקות הליכה
+- [[Stefan-Zweig-Centre|מרכז סטפן צווייג (Stefan Zweig Zentrum Salzburg)]] — כ־150 מטר, כ־2 דקות הליכה. לחיבור הספרותי של זלצבורג אל סטפן צווייג והמקום שבו חי בעיר. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Stefan+Zweig+Zentrum+Salzburg%2C+Salzburg%2C+Austria&travelmode=walking)
+- [[Hohensalzburg-Fortress|מבצר הוהנזלצבורג (Festung Hohensalzburg)]] — כ־400 מטר, כ־6 דקות הליכה. לתצפית על זלצבורג ולקריאת העיר מתוך מערכת ההגנה שלה. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Festung+Hohensalzburg%2C+Salzburg%2C+Austria&travelmode=walking)
+- [[Salzburg-Altstadt|העיר העתיקה של זלצבורג (Salzburger Altstadt)]] — כ־450 מטר, כ־6 דקות הליכה. כדי לחבר את האתר הבודד לרחובות, לכיכרות ולמרקם העיר העתיקה. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Salzburger+Altstadt%2C+Salzburg%2C+Austria&travelmode=walking)
+- [[Mozarts-Birthplace|בית הולדתו של מוצרט (Mozarts Geburtshaus)]] — כ־500 מטר, כ־7 דקות הליכה. כדי לראות את סביבת הילדות של מוצרט בתוך Getreidegasse. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Mozarts+Geburtshaus%2C+Salzburg%2C+Austria&travelmode=walking)
 
 ## מקורות
-- https://www.5schaetze.at/en/festungsbahn.html
+- [5schaetze.at](https://www.5schaetze.at/en/festungsbahn.html)

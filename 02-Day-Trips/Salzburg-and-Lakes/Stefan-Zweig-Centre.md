@@ -38,6 +38,10 @@ nearby_places:
 
 המרכז עוסק בחייו, יצירתו ומורשתו של [[Stefan-Zweig|סטפן צווייג (Stefan Zweig)]]. אם לוח הזמנים בטיול המאורגן מאפשר, זה חיבור תרבותי מצוין. אם אין זמן, עצם ההיכרות עם צווייג עדיין שווה את ה-Note.
 
+## לפני שנכנסים - זה לא הבית של צווייג
+
+ה-Stefan Zweig Zentrum נמצא ב-**Edmundsburg, Mönchsberg 2**, והוא מרכז של Universität Salzburg למחקר, ספרות, תערוכות ואירועים. הבית שבו צווייג עצמו חי נמצא במקום אחר, ב-Kapuzinerberg, ומופיע אצלנו כ[[Paschinger-Schloessl|Paschinger Schlössl]]. ההבחנה הזאת חשובה כדי לא לצאת מן המרכז ולחשוב שזה עתה ביקרתם בחדר העבודה המקורי שלו.
+
 ## הסיפור
 
 מרכז סטפן צווייג בזלצבורג (Stefan Zweig Zentrum Salzburg) עוסק בסופר שחי בעיר בשנים מרכזיות של הקריירה שלו והפך לאחד הקולות המזוהים ביותר עם התרבות האירופית שלפני מלחמת העולם השנייה. המרכז אינו רק מוזיאון ביוגרפי, אלא מקום מחקר, תיעוד ואירועים שמנסה לחבר בין כתיבתו של צווייג לבין השאלות האירופיות שבהן עסק.
@@ -48,6 +52,13 @@ nearby_places:
 
 הביקור במרכז נותן לזלצבורג שכבה ספרותית שאינה קשורה רק למוצרט. במקום לראות בעיר רק נוף בארוקי, אפשר לחשוב גם על אדם שאהב את אירופה ואת התרבות שלה ונאלץ לעזוב כאשר אותה אירופה הפסיקה להיות בטוחה עבורו.
 
+## מה לחפש במקום
+
+- **בתערוכה:** חפשו את הקשר בין Zweig לזלצבורג, לפסטיבל ול-Max Reinhardt, ולא רק ציר זמן ביוגרפי.
+- **אירופה כרעיון:** כאשר מופיעים מכתבים, מסות או קשרים עם אנשי תרבות אחרים, שימו לב לרשת הבינלאומית. היא מסבירה למה הלאומנות של שנות ה-1930 הייתה עבורו איום אישי ואינטלקטואלי כאחד.
+- **Edmundsburg:** לפני היציאה הסתכלו על המיקום על Mönchsberg ועל הירידה חזרה לעיר. המרכז יושב פיזית מעל זלצבורג, אבל אינו אתר המגורים של הסופר.
+- **אם ממשיכים לבית:** השתמשו ב[[Paschinger-Schloessl|Paschinger Schlössl]] כנקודת הקשר הביוגרפית, לא כאתר מוזיאלי.
+
 ## זמן שכדאי להקדיש
 
 - **מינימום:** כ־45 דקות
@@ -55,9 +66,11 @@ nearby_places:
 
 ## מה קרוב לכאן
 
-- [[FestungsBahn-Salzburg|הפוניקולר למצודת זלצבורג]] — כ־150 מטר, כ־2 דקות הליכה
-- [[Hohensalzburg-Fortress|מבצר הוהנזלצבורג]] — כ־250 מטר, כ־4 דקות הליכה
+- [[FestungsBahn-Salzburg|הפוניקולר למצודת זלצבורג (FestungsBahn Salzburg)]] — כ־150 מטר, כ־2 דקות הליכה. הדרך הקלה לעלות למצודה בלי לבזבז כוח על העלייה. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=FestungsBahn+Salzburg%2C+Salzburg%2C+Austria&travelmode=walking)
+- [[Hohensalzburg-Fortress|מבצר הוהנזלצבורג (Festung Hohensalzburg)]] — כ־250 מטר, כ־4 דקות הליכה. לתצפית על זלצבורג ולקריאת העיר מתוך מערכת ההגנה שלה. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Festung+Hohensalzburg%2C+Salzburg%2C+Austria&travelmode=walking)
 
 ## מקורות
-- https://stefan-zweig-zentrum.at/
-- https://www.salzburg.info/en/sights/museums/stefan-zweig-centre
+- [stefan-zweig-zentrum.at](https://stefan-zweig-zentrum.at/)
+- [Salzburg Info](https://www.salzburg.info/en/sights/museums/stefan-zweig-centre)
+- [Stefan Zweig Zentrum - About](https://stefan-zweig-zentrum.at/das-zentrum/ueber-uns)
+- [Stefan Zweig Zentrum - Location](https://stefan-zweig-zentrum.at/kontakt/anreise-lage)

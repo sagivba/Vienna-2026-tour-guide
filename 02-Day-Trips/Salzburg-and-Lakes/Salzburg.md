@@ -62,5 +62,5 @@ nearby_places: []
 
 ## מקורות
 
-- https://www.salzburg.info/en
-- https://whc.unesco.org/en/list/784/
+- [Salzburg Info](https://www.salzburg.info/en)
+- [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/784/)

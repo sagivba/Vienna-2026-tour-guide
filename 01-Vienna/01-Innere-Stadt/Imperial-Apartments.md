@@ -94,11 +94,11 @@ recheck_before_visit:
 
 ## מה קרוב לכאן
 
-- [[Sisi-Museum|מוזיאון סיסי]] — כ־20 מטר, כ־1 דקות הליכה
-- [[Hofburg|הופבורג]] — כ־50 מטר, כ־1 דקות הליכה
-- [[Michaelerplatz|כיכר מיכאלר]] — כ־80 מטר, כ־1 דקות הליכה
-- [[Kohlmarkt|קולמרקט]] — כ־250 מטר, כ־3 דקות הליכה
-- [[Heldenplatz|כיכר הגיבורים]] — כ־300 מטר, כ־4 דקות הליכה
+- [[Sisi-Museum|מוזיאון סיסי (Sisi Museum)]] — כ־20 מטר, כדקה הליכה. להשלמת התמונה בין המיתוס של סיסי לבין חפצים ותיעוד היסטורי. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Sisi+Museum%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Hofburg|הופבורג (Hofburg)]] — כ־50 מטר, כדקה הליכה. להמשך ישיר אל מרכז הכוח ההבסבורגי והחצרות ההיסטוריות. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Hofburg%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Michaelerplatz|כיכר מיכאלר (Michaelerplatz)]] — כ־80 מטר, כדקה הליכה. לנקודת מפגש מצוינת בין Hofburg, חפירות ארכיאולוגיות ו-Looshaus. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Michaelerplatz%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Kohlmarkt|קולמרקט (Kohlmarkt)]] — כ־250 מטר, כ־3 דקות הליכה. לציר ההליכה שבין Graben ל-Hofburg ולחזיתות המסחר ההיסטוריות. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Kohlmarkt%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Heldenplatz|כיכר הגיבורים (Heldenplatz)]] — כ־300 מטר, כ־4 דקות הליכה. כדי לראות את Hofburg בקנה מידה מונומנטלי ואת פרויקט ה-Kaiserforum שלא הושלם. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Heldenplatz%2C+Vienna%2C+Austria&travelmode=walking)
 
 ## מידע מעשי
 
@@ -106,4 +106,4 @@ recheck_before_visit:
 
 ## מקורות
 
-- https://www.sisimuseum-hofburg.at/en/about-the-location/imperial-apartments/rooms/
+- [sisimuseum-hofburg.at](https://www.sisimuseum-hofburg.at/en/about-the-location/imperial-apartments/rooms/)

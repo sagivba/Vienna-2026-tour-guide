@@ -57,9 +57,11 @@ recheck_before_visit:
 
 ## מה לחפש במקום
 
-- פסל Johann Strauss II.
-- Wienfluss והגשרים.
-- Kursalon מבחוץ.
+- **פסל Johann Strauss II:** אל תסתפקו בזהב. חפשו את הקשת משיש מאחור ואת דמות הכנר המצופה זהב; הפסל הוצב ב-1921 והפך כמעט ללוגו של וינה המוזיקלית.
+- **Kursalon:** עמדו כך שתראו אותו מעבר למדשאה. המבנה בקצה הדרומי תוכנן בסגנון הרנסנס האיטלקי, והוא מזכיר שהפארק נועד גם לאירועים חברתיים ומוזיקליים.
+- **Wienfluss:** עברו אל המקום שבו הנהר חוזר לאור אחרי הקטע המקורה. חפשו את ה-Wienflussportal בסגנון Jugendstil, שתכנן Friedrich Ohmann ב-1906.
+- **הפארק עצמו:** שימו לב למעבר בין מדשאות פתוחות, בריכה, אנדרטאות ושבילים. זהו פארק ציבורי מ-1862, לא גן ארמון שהציבור קיבל בירושה.
+- **אם יש זמן:** חפשו עוד אנדרטה אחת מעבר לשטראוס. Stadtpark מלא במונומנטים למוזיקאים ואנשי תרבות, וכך רואים כיצד העיר בנתה לעצמה פנתאון פתוח.
 
 ## זמן שכדאי להקדיש
 
@@ -76,4 +78,6 @@ recheck_before_visit:
 
 ## מקורות
 
-- https://www.wien.info/en/see-do/parks-green-spaces/city-park-344624
+- [Wien.info](https://www.wien.info/en/see-do/parks-green-spaces/city-park-344624)
+- [Wien.info - Stadtpark](https://www.wien.info/en/livable-vienna/parks-green-spaces/stadtpark-994650)
+- [Wien.info - Wien River](https://www.wien.info/en/livable-vienna/water-in-vienna/river-wien-356832)

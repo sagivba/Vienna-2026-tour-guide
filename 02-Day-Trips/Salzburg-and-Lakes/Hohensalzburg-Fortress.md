@@ -41,6 +41,12 @@ nearby_places:
 
 הבנייה החלה במאה ה-11 והמבצר הורחב במשך מאות שנים בידי הנסיכים-הארכיבישופים. הוא נחשב לאחד המבצרים הגדולים והשמורים באירופה.
 
+## לפני שנכנסים - הסתכלו עליו קודם מן העיר
+
+Hohensalzburg הוא מבצר שצריך לקרוא פעמיים: פעם אחת **מלמטה**, כקו של חומות ומגדלים ששולט מעל גגות זלצבורג, ופעם שנייה **מבפנים**, כמערכת שהתפתחה במשך מאות שנים. האתר הרשמי מציין שהמתחם גדל מאז המאה ה-11 לכ-32,000 מ"ר, ולכן אין טעם לחפש "סגנון אחד" או שלב בנייה יחיד.
+
+כאשר אתם עולים ב-[[FestungsBahn-Salzburg|FestungsBahn]], הסתכלו על השינוי בזווית: מהעיר המבצר נראה כמעט כקיר אחד; ככל שמתקרבים מתגלים חצרות, שערים, אגפים ומפלסי הגנה שונים.
+
 ## הסיפור
 
 מבצר הוהנזלצבורג (Festung Hohensalzburg) יושב מעל העיר העתיקה בצורה שמבהירה מיד את הקשר בין דת, שלטון וכוח צבאי בזלצבורג. הבנייה החלה במאה האחת עשרה בתקופה של מאבקים בין הקיסרות לבין האפיפיורות, והנסיכים-הארכיבישופים של זלצבורג הרחיבו את המבצר במשך מאות שנים. הם היו שליטים דתיים וגם מדיניים, ולכן נזקקו למקום שמגן עליהם ומציג את סמכותם.
@@ -53,9 +59,11 @@ nearby_places:
 
 ## מה לחפש
 
-- קירות הגנה ושערים.
-- היחס בין המבצר לעיר שמתחתיו.
-- תצפית אל Salzach וההרים.
+- **מן העיר:** חפשו את קו החומות והמגדלים על Mönchsberg. המיקום הוא חלק ממערכת ההגנה לא פחות מן האבן עצמה.
+- **בכניסה:** אל תעברו את השערים אוטומטית. הסתכלו על הרצף שלהם ועל המעבר ההדרגתי מן העיר אל תוך אזור מבוצר.
+- **בחצר הפנימית:** נסו לזהות שהמבצר הוא למעשה מתחם גדול של בניינים ולא "טירה" אחת.
+- **Princes' Rooms:** אם פתוח במסלול שלכם, חפשו את המעבר ממבצר צבאי לחללי ייצוג של הנסיכים-הארכיבישופים.
+- **מנקודת התצפית:** הסתכלו בו-זמנית על Salzach, העיר העתיקה וההרים. הנוף מסביר למה המקום הזה היה נכס אסטרטגי.
 
 ## מאמץ
 
@@ -68,9 +76,11 @@ nearby_places:
 
 ## מה קרוב לכאן
 
-- [[Stefan-Zweig-Centre|מרכז סטפן צווייג]] — כ־250 מטר, כ־4 דקות הליכה
-- [[FestungsBahn-Salzburg|הפוניקולר למצודת זלצבורג]] — כ־400 מטר, כ־6 דקות הליכה
+- [[Stefan-Zweig-Centre|מרכז סטפן צווייג (Stefan Zweig Zentrum Salzburg)]] — כ־250 מטר, כ־4 דקות הליכה. לחיבור הספרותי של זלצבורג אל סטפן צווייג והמקום שבו חי בעיר. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Stefan+Zweig+Zentrum+Salzburg%2C+Salzburg%2C+Austria&travelmode=walking)
+- [[FestungsBahn-Salzburg|הפוניקולר למצודת זלצבורג (FestungsBahn Salzburg)]] — כ־400 מטר, כ־6 דקות הליכה. הדרך הקלה לעלות למצודה בלי לבזבז כוח על העלייה. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=FestungsBahn+Salzburg%2C+Salzburg%2C+Austria&travelmode=walking)
 
 ## מקורות
-- https://www.salzburg.info/en/sights/top10/hohensalzburg-fortress
-- https://www.salzburg-burgen.at/en/hohensalzburg-castle/
+- [Salzburg Info](https://www.salzburg.info/en/sights/top10/hohensalzburg-fortress)
+- [Salzburg Burgen & Schlösser](https://www.salzburg-burgen.at/en/hohensalzburg-castle/)
+- [Festung Hohensalzburg - Official site](https://www.festung-hohensalzburg.at/en/)
+- [Festung Hohensalzburg - The fortress](https://www.festung-hohensalzburg.at/en/the-fortress)

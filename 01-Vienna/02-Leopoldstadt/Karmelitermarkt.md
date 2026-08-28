@@ -85,10 +85,10 @@ recheck_before_visit:
 
 ## מה קרוב לכאן
 
-- [[Karmeliterviertel|קרמליטרפירטל]] — כ־100 מטר, כ־2 דקות הליכה
-- [[Vienna-Jewish-Leopoldstadt|לאופולדשטאדט היהודית]] — כ־150 מטר, כ־2 דקות הליכה
-- [[Taborstrasse|טאבורשטראסה]] — כ־400 מטר, כ־5 דקות הליכה
-- [[Hotel-IMLAUER-Wien|מלון IMLAUER Wien]] — כ־500 מטר, כ־7 דקות הליכה
+- [[Karmeliterviertel|קרמליטרפירטל (Karmeliterviertel)]] — כ־100 מטר, כ־2 דקות הליכה. להמשך הליכה בשכונה ולא רק בין נקודות תיירות. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Karmeliterviertel%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Vienna-Jewish-Leopoldstadt|לאופולדשטאדט היהודית (Jüdisches Leopoldstadt)]] — כ־150 מטר, כ־2 דקות הליכה. כדי לקרוא את הרובע דרך החיים היהודיים שהתקיימו ומתקיימים בו. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=J%C3%BCdisches+Leopoldstadt%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Taborstrasse|טאבורשטראסה (Taborstraße)]] — כ־400 מטר, כ־5 דקות הליכה. לציר הרחוב שמחבר את המלון והחיים המקומיים אל מרכז וינה. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Taborstra%C3%9Fe%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Hotel-IMLAUER-Wien|מלון IMLAUER Wien (Hotel IMLAUER Wien)]] — כ־500 מטר, כ־7 דקות הליכה. לחזרה לנקודת הבסיס שלנו ב-Leopoldstadt. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Hotel+IMLAUER+Wien%2C+Vienna%2C+Austria&travelmode=walking)
 
 ## מידע מעשי
 
@@ -96,5 +96,5 @@ recheck_before_visit:
 
 ## מקורות
 
-- https://www.wien.gv.at/freizeit/karmelitermarkt-1020
-- https://www.wien.info/en/dine-drink/markets/karmeliter-district-349606
+- [Stadt Wien](https://www.wien.gv.at/freizeit/karmelitermarkt-1020)
+- [Wien.info](https://www.wien.info/en/dine-drink/markets/karmeliter-district-349606)

@@ -69,9 +69,12 @@ recheck_before_visit:
 
 ## מה לחפש במקום
 
-- הציר מן הארמון לכיוון Neptune Fountain ו-Gloriette.
-- הבדלים בין אזורים פורמליים לשטחי חורש.
-- עצים ותיקים, גדרות חיות ופרספקטיבה מתוכננת.
+- **Great Parterre:** עמדו בציר המרכזי מאחורי הארמון. הסימטריה אינה מקרית: בגינון הבארוקי הגן נתפס כהמשך של חדרי הייצוג, והציר של הארמון הוא ממש "עמוד השדרה" של התכנון.
+- **Neptune Fountain:** חפשו אותה בתחתית הגבעה, בקצה ה-Parterre. היא תוכננה כחלק מן הקומפוזיציה הכוללת של שנות ה-1770, לא כמזרקה שנוספה אחר כך כדי למלא חלל.
+- **[[Gloriette|Gloriette]]:** הרימו את העיניים עוד לפני העלייה. היא יושבת בדיוק במקום שבו הגן צריך נקודת סיום חזותית על קו הרקיע.
+- **האלכסונים והחורשות:** סטו פעם אחת מן הציר הראשי. כך רואים את מערכת השבילים האלכסוניים, הגדרות החיות והחללים הקטנים שמסתתרים מאחורי הסדר הגדול.
+- **הפסלים לאורך ה-Parterre:** אל תנסו לזהות כל דמות מיתולוגית. מספיק לראות כיצד הפסלים יוצרים קצב לאורך הגדרות ומחזקים את תחושת התכנון.
+- **מאמץ:** אם המטרה היא Gloriette, שמרו כוח לעלייה. אין צורך "לכסות" את כל הפארק כדי להבין אותו.
 
 ## זמן שכדאי להקדיש
 
@@ -80,8 +83,8 @@ recheck_before_visit:
 
 ## מה קרוב לכאן
 
-- [[Schoenbrunn-Palace|ארמון שנברון]] — כ־50 מטר, כ־1 דקות הליכה
-- [[Gloriette|גלורייטה]] — כ־450 מטר, כ־6 דקות הליכה
+- [[Schoenbrunn-Palace|ארמון שנברון (Schloss Schönbrunn)]] — כ־50 מטר, כדקה הליכה. כדי לחבר את הגנים וה-Gloriette אל מרכז החיים הקיסריים. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Schloss+Sch%C3%B6nbrunn%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Gloriette|גלורייטה (Gloriette)]] — כ־450 מטר, כ־6 דקות הליכה. כדי לראות את ציר שנברון מלמעלה ולהבין את תכנון הגן. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Gloriette%2C+Vienna%2C+Austria&travelmode=walking)
 
 ## מידע מעשי
 
@@ -89,4 +92,6 @@ recheck_before_visit:
 
 ## מקורות
 
-- https://www.schoenbrunn.at/en/about-schoenbrunn/gardens/
+- [Schönbrunn](https://www.schoenbrunn.at/en/about-schoenbrunn/gardens/)
+- [Schönbrunn - Great Parterre](https://www.schoenbrunn.at/en/about-schoenbrunn/the-palace/tour-of-the-palace/great-parterre)
+- [Schönbrunn - Neptune Fountain](https://www.schoenbrunn.at/en/about-schoenbrunn/the-palace/tour-of-the-palace/neptune-fountain)

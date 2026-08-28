@@ -88,11 +88,11 @@ recheck_before_visit:
 
 ## מה קרוב לכאן
 
-- [[Stephansdom|קתדרלת סטפנוס הקדוש]] — כ־20 מטר, כ־1 דקות הליכה
-- [[Graben|גראבן]] — כ־180 מטר, כ־3 דקות הליכה
-- [[Peterskirche|כנסיית פטרוס הקדוש]] — כ־250 מטר, כ־3 דקות הליכה
-- [[Jewish-Museum-Vienna|המוזיאון היהודי של וינה]] — כ־300 מטר, כ־4 דקות הליכה
-- [[Stadttempel|שטאדטטמפל]] — כ־450 מטר, כ־6 דקות הליכה
+- [[Stephansdom|קתדרלת סטפנוס הקדוש (Stephansdom)]] — כ־20 מטר, כדקה הליכה. כדי לעבור מן הכיכר אל המבנה הגותי שמגדיר את קו הרקיע של המרכז. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Stephansdom%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Graben|גראבן (Graben)]] — כ־180 מטר, כ־3 דקות הליכה. לקריאת המרכז העירוני, עמוד הדבר והחזיתות המסחריות. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Graben%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Peterskirche|כנסיית פטרוס הקדוש (Peterskirche)]] — כ־250 מטר, כ־3 דקות הליכה. לכנסיית בארוק קטנה וצפופה שמפתיעה מיד אחרי הרחובות המסחריים. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Peterskirche%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Jewish-Museum-Vienna|המוזיאון היהודי של וינה (Jüdisches Museum Wien)]] — כ־300 מטר, כ־4 דקות הליכה. כדי לחבר את האתרים ברחוב לסיפור הרחב של יהדות וינה. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=J%C3%BCdisches+Museum+Wien%2C+Vienna%2C+Austria&travelmode=walking)
+- [[Stadttempel|שטאדטטמפל (Stadttempel)]] — כ־450 מטר, כ־6 דקות הליכה. כדי לראות כיצד בית הכנסת המרכזי של וינה הוסתר בתוך המרקם העירוני. [קח אותי לשם](https://www.google.com/maps/dir/?api=1&destination=Stadttempel%2C+Vienna%2C+Austria&travelmode=walking)
 
 ## מידע מעשי
 
@@ -100,4 +100,4 @@ recheck_before_visit:
 
 ## מקורות
 
-- https://www.wien.info/
+- [Wien.info](https://www.wien.info/)
