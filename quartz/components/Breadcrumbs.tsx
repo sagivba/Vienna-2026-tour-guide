@@ -3,6 +3,7 @@ import breadcrumbsStyle from "./styles/breadcrumbs.scss"
 import { FullSlug, SimpleSlug, joinSegments, resolveRelative } from "../util/path"
 import { QuartzPluginData } from "../plugins/vfile"
 import { classNames } from "../util/lang"
+import { readerFacingName } from "../util/displayName"
 
 type CrumbData = {
   displayName: string
@@ -30,8 +31,6 @@ interface BreadcrumbOptions {
    * Whether to display the current page in the breadcrumbs.
    */
   showCurrentPage: boolean
-  /** Reader-facing labels for folder slug segments. */
-  folderLabels: Record<string, string>
 }
 
 const defaultOptions: BreadcrumbOptions = {
@@ -40,7 +39,6 @@ const defaultOptions: BreadcrumbOptions = {
   resolveFrontmatterTitle: true,
   hideOnRoot: true,
   showCurrentPage: true,
-  folderLabels: {},
 }
 
 function formatCrumb(displayName: string, baseSlug: FullSlug, currentSlug: SimpleSlug): CrumbData {
@@ -92,17 +90,12 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
       let currentPath = ""
 
       for (let i = 0; i < slugParts.length - 1; i++) {
-        let curPathSegment = options.folderLabels[slugParts[i]] ?? slugParts[i]
+        let curPathSegment = readerFacingName(undefined, slugParts[i])
 
         // Try to resolve frontmatter folder title
         const currentFile = folderIndex?.get(slugParts.slice(0, i + 1).join("/"))
         if (currentFile) {
-          const title =
-            (currentFile.frontmatter?.name_he as string | undefined) ??
-            currentFile.frontmatter!.title
-          if (title !== "index") {
-            curPathSegment = title
-          }
+          curPathSegment = readerFacingName(currentFile.frontmatter, slugParts[i])
         }
 
         // Add current slug to full path
@@ -121,8 +114,7 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
       // Add current file to crumb (can directly use frontmatter title)
       if (options.showCurrentPage && slugParts.at(-1) !== "index") {
         crumbs.push({
-          displayName:
-            (fileData.frontmatter?.name_he as string | undefined) ?? fileData.frontmatter!.title,
+          displayName: readerFacingName(fileData.frontmatter, slugParts.at(-1)!),
           path: "",
         })
       }
@@ -136,7 +128,9 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
       >
         {crumbs.map((crumb, index) => (
           <div class="breadcrumb-element">
-            <a href={crumb.path}>{crumb.displayName}</a>
+            <a href={crumb.path}>
+              <bdi dir="auto">{crumb.displayName}</bdi>
+            </a>
             {index !== crumbs.length - 1 && <p>{` ${options.spacerSymbol} `}</p>}
           </div>
         ))}

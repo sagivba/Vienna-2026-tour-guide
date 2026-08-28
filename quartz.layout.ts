@@ -7,39 +7,11 @@ const travelExplorer = Component.Explorer({
     const hiddenTopLevel = ["Templates", "assets", "90-Reference"]
     return node.slugSegment !== "tags" && !hiddenTopLevel.includes(node.slugSegment)
   },
-  mapFn: (node) => {
-    const folderNames: Record<string, string> = {
-      "00-Index": "נושאים",
-      "01-Vienna": "וינה",
-      "02-Day-Trips": "טיולי יום",
-      "70-People": "אנשים",
-      "80-Routes": "מסלולים",
-      "90-Reference": "מידע מעשי",
-    }
-    const folderName = folderNames[node.slugSegment]
-    if (node.isFolder && folderName) node.displayName = folderName
-  },
 })
-
-const breadcrumbFolderLabels: Record<string, string> = {
-  "00-Index": "נושאים",
-  "01-Vienna": "וינה",
-  "02-Day-Trips": "טיולי יום",
-  "70-People": "אנשים",
-  "80-Routes": "מסלולים",
-  "90-Reference": "מידע מעשי",
-  "01-Innere-Stadt": "הרובע הראשון (Innere Stadt)",
-  "02-Leopoldstadt": "הרובע השני (Leopoldstadt)",
-  "03-Landstrasse": "הרובע השלישי (Landstraße)",
-  "04-Wieden": "הרובע הרביעי (Wieden)",
-  "13-Hietzing": "הרובע השלושה־עשר (Hietzing)",
-  "Cross-District": "נושאים חוצי רבעים",
-}
 
 const breadcrumbs = Component.Breadcrumbs({
   rootName: "בית",
   spacerSymbol: "‹",
-  folderLabels: breadcrumbFolderLabels,
 })
 
 // components shared across all pages

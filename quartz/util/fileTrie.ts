@@ -1,10 +1,13 @@
 import { ContentDetails } from "../plugins/emitters/contentIndex"
+import { QuartzPluginData } from "../plugins/vfile"
 import { FullSlug, joinSegments } from "./path"
+import { readerFacingName } from "./displayName"
 
 interface FileTrieData {
   slug: string
   title: string
   filePath: string
+  frontmatter?: QuartzPluginData["frontmatter"]
 }
 
 export class FileTrieNode<T extends FileTrieData = ContentDetails> {
@@ -28,9 +31,11 @@ export class FileTrieNode<T extends FileTrieData = ContentDetails> {
   }
 
   get displayName(): string {
-    const nonIndexTitle = this.data?.title === "index" ? undefined : this.data?.title
+    const frontmatter =
+      this.data?.frontmatter ?? (this.data ? { title: this.data.title } : undefined)
     return (
-      this.displayNameOverride ?? nonIndexTitle ?? this.fileSegmentHint ?? this.slugSegment ?? ""
+      this.displayNameOverride ??
+      readerFacingName(frontmatter, this.slugSegment ?? this.fileSegmentHint ?? "")
     )
   }
 
