@@ -126,4 +126,26 @@ At minimum:
 7. For image changes, validate the registry YAML and cross-check each note, credit, registry entry, license URL, and `used_by` path.
 8. For future Quartz changes, run the repository's documented build/test commands and inspect the generated Hebrew RTL pages at desktop and mobile widths. Check for broken links, missing images, accidental LTR layout, and build artifacts that should not be committed.
 
+## Codex Cloud environment baseline
+
+The following are known Codex Cloud / sandbox conditions for this repository unless repository-specific evidence proves otherwise. Treat them as environment noise or validation limitations, not automatically as application defects.
+
+* Codex bootstrap may run `npm ci` automatically because `package-lock.json` is present. Do not run `npm install` or `npm ci` again merely because bootstrap already ran. Re-run dependency installation only when `node_modules` is missing or corrupt, dependencies or the lockfile changed, or a clean-install validation is explicitly required by the task.
+* `npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.` is a known sandbox/environment warning. Do not modify repository configuration to silence it, do not repeatedly investigate it, and do not report it as a repository defect unless there is evidence that it affects the build or runtime.
+* Access to `https://mise.jdx.dev/deb` may return HTTP 403 through the sandbox proxy during system/browser dependency setup. If the required packages still install and the requested tool subsequently runs, treat this warning as non-blocking environment noise. Do not retry the same failing source repeatedly and do not modify repository files to compensate for it.
+* Codex bootstrap may temporarily add an authenticated Git remote and then remove it. A later direct `git fetch`, `git ls-remote`, or similar network operation may therefore fail with HTTP 403 or with no usable `origin`. Do not classify that as a repository defect and do not repeatedly retry it. Use the checked-out commit/branch and locally available refs.
+* Do not install Playwright, Chromium, browser binaries, or OS browser dependencies for tasks that do not require browser/runtime validation. When browser validation is materially required, attempt the minimum necessary setup once. If the environment prevents execution, report the exact limitation under `Could not verify`; never substitute static inspection for an actual browser/mobile validation.
+* Existing `npm audit` findings are not part of unrelated content, layout, or route tasks. Do not run `npm audit fix`, and especially do not use `npm audit fix --force`, unless dependency/security remediation is explicitly in scope.
+* Do not change Node, npm, proxy, apt, Git, or browser configuration solely to make Codex bootstrap logs quieter.
+* Do not retry an identical blocked network/download command more than once. After one confirmed environment-level failure, continue with alternative local/read-only validation where possible and state what remains unverified.
+
+When reporting validation, classify each non-success result as one of:
+
+1. **Repository failure** — evidence that the checked-out code or configuration is incorrect.
+2. **Environment warning** — sandbox/bootstrap noise that does not invalidate the repository change.
+3. **Validation limitation** — a required check could not actually be executed, so it must remain explicitly unverified.
+
+Do not collapse these categories and do not hide a real repository failure behind a known sandbox warning.
+
+
 Do not install unrelated dependencies merely to run a check. If no automated test suite exists for a documentation-only change, state that clearly and rely on targeted structural validation, diff review, and repository-status checks.
