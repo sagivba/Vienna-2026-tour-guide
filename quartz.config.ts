@@ -12,7 +12,7 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: null,
+    analytics: { provider: "google",  tagId: "G-2W0JVSS19D", },
     locale: "he-IL",
     baseUrl: "sagivba.github.io/Vienna-2026-tour-guide",
     ignorePatterns: ["private", "templates", ".obsidian"],
