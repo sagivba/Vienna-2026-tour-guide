@@ -5,6 +5,17 @@ name_he: מסלול וינה הקיסרית
 status: planned
 content_status: first-complete-build
 tags: [route]
+route_map:
+  verified: 2026-08-29
+  source: https://www.openstreetmap.org/
+  stops:
+    - { page: Michaelerplatz, label: "כיכר מיכאלר (Michaelerplatz)", lat: 48.20800, lon: 16.36635 }
+    - { page: Hofburg, label: "הופבורג (Hofburg)", lat: 48.20767, lon: 16.36586 }
+    - { page: Sisi-Museum, label: "מוזיאון סיסי (Sisi Museum)", lat: 48.20754, lon: 16.36552 }
+    - { page: Imperial-Apartments, label: "הדירות הקיסריות (Kaiserappartements)", lat: 48.20748, lon: 16.36543 }
+    - { page: Heldenplatz, label: "כיכר הגיבורים (Heldenplatz)", lat: 48.20652, lon: 16.36395 }
+    - { page: Neue-Burg, label: "נוייה בורג (Neue Burg)", lat: 48.20562, lon: 16.36469 }
+    - { page: Volksgarten, label: "פולקסגארטן (Volksgarten)", lat: 48.20832, lon: 16.36129 }
 ---
 # מסלול וינה הקיסרית
 

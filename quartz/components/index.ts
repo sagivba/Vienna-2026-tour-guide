@@ -22,6 +22,7 @@ import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import Flex from "./Flex"
 import PrimaryNavigation from "./PrimaryNavigation"
+import RouteMap from "./RouteMap"
 
 export {
   ArticleTitle,
@@ -48,4 +49,5 @@ export {
   Comments,
   Flex,
   PrimaryNavigation,
+  RouteMap,
 }
