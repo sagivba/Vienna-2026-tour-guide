@@ -19,9 +19,9 @@ hero_image:
   author: "Ilya from Ukraine, Baltics"
   license: "CC BY-SA 2.0"
   license_url: "https://creativecommons.org/licenses/by-sa/2.0/"
-  verified: 2026-08-28
+  verified: 2026-08-29
 verification:
-  general: 2026-08-28
+  general: 2026-08-29
 ---
 # משמש הוואכאו (Wachauer Marille) — *Prunus armeniaca*
 
@@ -41,16 +41,23 @@ verification:
 | **מתי לחפש** | הפריחה מזמן הסתיימה, וגם שיא הקטיף בדרך כלל מוקדם יותר בקיץ. עדיין אפשר לזהות מטעים, אבל לא לבנות על פרי טרי על העץ. |
 | **רלוונטי לתחילת ספטמבר** | כן |
 
-<div class="nature-encounter" role="note" aria-label="סיכוי לראות: סביר">
-<svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-search" aria-hidden="true"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
-<strong>סיכוי לראות בטיול שלנו: סביר</strong>
-
-אפשרי בהחלט במקום ובתנאים הנכונים. כדאי לדעת מה לחפש, אבל לא לבנות את היום סביבו.
+<div class="nature-encounter" role="note" aria-label="סיכוי תצפית: 2 מתוך 3">
+<strong>👍🏽👍🏽</strong>
 </div>
 
 ## הסיפור
 
 Marille היא אחת המילים שכדאי ללמוד באוסטריה גם אם לא מתכננים מבחן בגרמנית. ב־Wachau המשמש קיבל מעמד כמעט אזרחי: גידול מסורתי, מוצרים מקומיים וזהות אזורית. בספטמבר אנחנו מגיעים אחרי הדרמה המרכזית של הפריחה והקטיף, ולכן הסיפור הוא פחות 'תמונה ורודה' ויותר קריאת הנוף — מטעים בין כרמים וכפרים שמזכירים שהוואכאו אינו מוזיאון פתוח אלא אזור חקלאי עובד.
+
+## מה עושים איתו
+
+- קודם כול אוכלים אותו טרי בעונה. מעבר לכך Wachauer Marille מעובד לריבה, נקטר, ליקר ומשקה מזוקק מסוג Marillenbrand.
+- המשמש הוא חלק מרכזי מהמטבח והכלכלה המקומיים, ולא רק קישוט נופי. מוצרים על בסיס Marille הם אחת הדרכים שבהן הזהות החקלאית של הוואכאו הופכת למשהו שאפשר לקחת הביתה — או לפחות לאכול במקום.
+- השם Wachauer Marille מוגן כ־PDO/g.U., כלומר המקור האזורי ושיטת הייצור הם חלק מהגדרת המוצר, לא רק שם שיווקי.
+
+## פולקלור, מסורת וסמליות
+
+כאן הסיפור התרבותי חזק יותר מהפולקלור. המונח *Marille* מתועד באזור הדנובה כבר ב־1509, והגידול המסחרי בוואכאו התחזק במיוחד מסוף המאה ה־19. עם הזמן המשמש הפך לאחד מסמלי האזור. אין צורך להמציא לו אגדה: העובדה שפרי אחד הצליח להפוך לחלק מהזהות של עמק שלם מעניינת מספיק.
 
 ## איך מזהים
 
@@ -74,20 +81,20 @@ Marille היא אחת המילים שכדאי ללמוד באוסטריה גם �
 
 ## אצלנו בטיול
 
-| מקום | הערכת סיכוי מעשית |
-|---|---|
-| [[Wachau-Cultural-Landscape|Wachau]] | סביר |
-| [[Melk-Abbey|Melk]] | אפשרי |
-| [[Duernstein|Dürnstein]] | סביר |
+| מקום | סיכוי |
+|---|---:|
+| [[Wachau-Cultural-Landscape|Wachau]] | 👍🏽👍🏽 |
+| [[Melk-Abbey|Melk]] | 👎🏽 |
+| [[Duernstein|Dürnstein]] | 👍🏽👍🏽 |
 
-> ההערכה היא **הערכת תצפית למטייל**, לא נתון מדעי על שכיחות. היא משלבת בית גידול, עונה, שעות הפעילות והמסלול שלנו.
+> הסימונים הם **הערכת תצפית למטייל**, לא נתון מדעי על שכיחות. המקרא המלא נמצא ב־[[60-Nature/index|מדריך הטבע]].
 
-## כללי תצפית
-
-לא מאכילים, לא נוגעים, לא מרימים אבנים או גזעים, לא נכנסים לצמחיית חוף ולא יוצאים משביל כדי להתקרב. המטרה היא לראות את החיה או הצמח במקום שבו הם חיים, לא לגרום להם להשתתף בתוכנית.
+[[60-Nature/Observation-Guidelines|כללי תצפית בטבע]]
 
 ## מקורות
 
 - https://www.donau.com/en/the-danube-in-lower-austria/food-drink/wachau-apricot/
 - https://www.unesco.at/kultur/welterbe/unesco-welterbe-in-oesterreich/wachau/
+- https://www.bmluk.gv.at/themen/lebensmittel/trad-lebensmittel/obst/wachauer_marille.html
+- https://www.bmluk.gv.at/themen/lebensmittel/trad-lebensmittel/getraenke/marillenbrand0.html
 - https://commons.wikimedia.org/wiki/File:Prunus_armeniaca.jpg — תמונה ורישוי.

@@ -19,9 +19,9 @@ hero_image:
   author: "Raul654"
   license: "CC BY-SA 3.0"
   license_url: "https://creativecommons.org/licenses/by-sa/3.0/"
-  verified: 2026-08-28
+  verified: 2026-08-29
 verification:
-  general: 2026-08-28
+  general: 2026-08-29
 ---
 # אורן הרים (Latsche) — *Pinus mugo*
 
@@ -41,16 +41,19 @@ verification:
 | **מתי לחפש** | כל היום. זה אחד מסימני הנוף הבולטים מעל היער במסלולי הרמה. |
 | **רלוונטי לתחילת ספטמבר** | כן |
 
-<div class="nature-encounter" role="note" aria-label="סיכוי לראות: טוב">
-<svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-binoculars" aria-hidden="true"><path d="M18 10h.01"/><path d="M20.664 7.007a10 10 0 0 0-17.328 0"/><path d="M21.928 10.8a10 10 0 1 1-19.856 0"/><path d="M6 10h.01"/><path d="M9.5 17.482a6 6 0 0 0 5-.003"/><circle cx="18" cy="10" r="4"/><circle cx="6" cy="10" r="4"/></svg>
-<strong>סיכוי לראות בטיול שלנו: טוב</strong>
-
-יש סיבה אמיתית להרים את הראש ולחפש. זה לא מבטיח תצפית, אבל זה בהחלט לא מין תאורטי עבור הטיול שלנו.
+<div class="nature-encounter" role="note" aria-label="סיכוי תצפית: 3 מתוך 3">
+<strong>👍🏽👍🏽👍🏽</strong>
 </div>
 
 ## הסיפור
 
 Latsche הוא הצמח שמודיע שהעצים הגבוהים הפסיקו להתווכח עם הרוח. במקום גזע אחד זקוף הוא שולח ענפים נמוכים, צפופים וגמישים ויוצר שדות של אורן הרים. מסלולי Rax מתארים ממש מעבר דרך Latschenfelder. מבחינתנו זה סימן נוף שימושי: כשהיער הגבוה נסוג והאורן הנמוך משתלט, אנחנו כבר בעולם האלפיני ולא בפארק עירוני עם שאיפות.
+
+## מה עושים איתו
+
+- המחטים, קצות הענפים והענפים הצעירים משמשים להפקת Latschenkiefernöl בזיקוק בקיטור. באזור האלפיני אפשר לפגוש את השמן במוצרי אמבט, סאונה, משחות ותכשירים ארומטיים.
+- לעץ עצמו שימושים מוגבלים יחסית בגלל צורתו הנמוכה והמפותלת, אך אפשר להשתמש בחלקים מתאימים לחריטה ולעבודות עץ קטנות.
+- מבחינה מעשית בהר, אחד ה'שימושים' החשובים ביותר שלו הוא בכלל אקולוגי: סבכי Latsche מסייעים בייצוב קרקע ובהפחתת סחיפה במדרונות.
 
 ## איך מזהים
 
@@ -73,19 +76,19 @@ Latsche הוא הצמח שמודיע שהעצים הגבוהים הפסיקו ל
 
 ## אצלנו בטיול
 
-| מקום | הערכת סיכוי מעשית |
-|---|---|
-| [[Rax|Rax]] | גבוה |
-| [[Schneeberg|Schneeberg]] | גבוה |
+| מקום | סיכוי |
+|---|---:|
+| [[Rax|Rax]] | 👍🏽👍🏽👍🏽 |
+| [[Schneeberg|Schneeberg]] | 👍🏽👍🏽👍🏽 |
 
-> ההערכה היא **הערכת תצפית למטייל**, לא נתון מדעי על שכיחות. היא משלבת בית גידול, עונה, שעות הפעילות והמסלול שלנו.
+> הסימונים הם **הערכת תצפית למטייל**, לא נתון מדעי על שכיחות. המקרא המלא נמצא ב־[[60-Nature/index|מדריך הטבע]].
 
-## כללי תצפית
-
-לא מאכילים, לא נוגעים, לא מרימים אבנים או גזעים, לא נכנסים לצמחיית חוף ולא יוצאים משביל כדי להתקרב. המטרה היא לראות את החיה או הצמח במקום שבו הם חיים, לא לגרום להם להשתתף בתוכנית.
+[[60-Nature/Observation-Guidelines|כללי תצפית בטבע]]
 
 ## מקורות
 
 - https://www.raxalpe.com/en
 - https://www.naturland-noe.at/landschaftsschutzgebiet-rax-schneeberg
+- https://www.arboretum.co.at/pflanzenportrait/pinus-mugo-ssp-mughus/
+- https://arzneipflanzenlexikon.info/latsche.php
 - https://commons.wikimedia.org/wiki/File:Pinus_mugo.jpg — תמונה ורישוי.

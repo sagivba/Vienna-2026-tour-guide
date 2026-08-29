@@ -5,7 +5,7 @@ name_he: טבע במסלול שלנו
 content_status: researched
 tags: [nature, field-guide, vienna-2026]
 verification:
-  general: 2026-08-28
+  general: 2026-08-29
 ---
 # טבע במסלול שלנו
 
@@ -15,18 +15,15 @@ verification:
 
 ## איך לקרוא את "סיכוי לראות"
 
-<div class="nature-encounter" role="note" aria-label="סיכוי טוב">
-<svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-binoculars" aria-hidden="true"><path d="M18 10h.01"/><path d="M20.664 7.007a10 10 0 0 0-17.328 0"/><path d="M21.928 10.8a10 10 0 1 1-19.856 0"/><path d="M6 10h.01"/><path d="M9.5 17.482a6 6 0 0 0 5-.003"/><circle cx="18" cy="10" r="4"/><circle cx="6" cy="10" r="4"/></svg>
-<strong>סיכוי טוב</strong> — יש סיבה אמיתית לחפש; בית הגידול והעונה מתאימים למסלול שלנו.
-</div>
-<div class="nature-encounter" role="note" aria-label="סיכוי סביר">
-<svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-search" aria-hidden="true"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
-<strong>סיכוי סביר</strong> — בהחלט אפשרי, אבל צריך להסתכל במקום הנכון ובתנאים הנכונים.
-</div>
-<div class="nature-encounter" role="note" aria-label="צריך מזל">
-<svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-circle-help" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 1 1 5.83 1c0 2-3 3-3 3"/><path d="M12 17h.01"/></svg>
-<strong>צריך מזל</strong> — קיים ורלוונטי, אבל לא בניתי עליו כחלק מהיום.
-</div>
+בדפי הצמחים עברנו לסימון קצר שמיועד למסך של הטלפון:
+
+- 👎🏽 — סיכוי נמוך במסלול ובעונה שלנו.
+- 👍🏽👍🏽 — סיכוי טוב; כדאי לדעת מה לחפש.
+- 👍🏽👍🏽👍🏽 — סיכוי גבוה מאוד; זה חלק טבעי וברור מהמסלול.
+
+בדפי בעלי החיים שטרם עברו את אותו עדכון עדיין עשויים להופיע הניסוחים המילוליים הישנים.
+
+[[60-Nature/Observation-Guidelines|כללי תצפית בטבע]]
 
 ## להתחיל לפי היום
 
@@ -85,18 +82,18 @@ verification:
 
 ### צמחים ועצים
 
-- [[Horse-Chestnut|ערמון הסוסים (Rosskastanie)]] — **טוב**
-- [[Large-Leaved-Lime|טיליה רחבת־עלים (Sommer-Linde)]] — **טוב**
-- [[European-Hornbeam|קרפינוס אירופי (Hainbuche)]] — **טוב**
-- [[Ginkgo|גינקו דו־אונתי (Ginkgo)]] — **סביר**
-- [[Caucasian-Wingnut|פטרוקריה קווקזית (Kaukasische Flügelnuss)]] — **סביר**
-- [[Common-Reed|קנה מצוי (Schilfrohr)]] — **טוב**
-- [[European-Beech|אשור אירופי (Rotbuche)]] — **טוב**
-- [[Norway-Spruce|אשוחית נורווגית (Gemeine Fichte)]] — **טוב**
-- [[European-Larch|ארזית אירופית (Europäische Lärche)]] — **סביר**
-- [[Mountain-Pine|אורן הרים (Latsche)]] — **טוב**
-- [[Grapevine|גפן היין (Weinrebe)]] — **טוב**
-- [[Wachau-Apricot|משמש הוואכאו (Wachauer Marille)]] — **סביר**
+- [[Horse-Chestnut|ערמון הסוסים (Rosskastanie)]] — 👍🏽👍🏽👍🏽
+- [[Large-Leaved-Lime|טיליה רחבת־עלים (Sommer-Linde)]] — 👍🏽👍🏽👍🏽
+- [[European-Hornbeam|קרפינוס אירופי (Hainbuche)]] — 👍🏽👍🏽👍🏽
+- [[Ginkgo|גינקו דו־אונתי (Ginkgo)]] — 👍🏽👍🏽
+- [[Caucasian-Wingnut|פטרוקריה קווקזית (Kaukasische Flügelnuss)]] — 👍🏽👍🏽
+- [[Common-Reed|קנה מצוי (Schilfrohr)]] — 👍🏽👍🏽👍🏽
+- [[European-Beech|אשור אירופי (Rotbuche)]] — 👍🏽👍🏽👍🏽
+- [[Norway-Spruce|אשוחית נורווגית (Gemeine Fichte)]] — 👍🏽👍🏽👍🏽
+- [[European-Larch|ארזית אירופית (Europäische Lärche)]] — 👍🏽👍🏽
+- [[Mountain-Pine|אורן הרים (Latsche)]] — 👍🏽👍🏽👍🏽
+- [[Grapevine|גפן היין (Weinrebe)]] — 👍🏽👍🏽👍🏽
+- [[Wachau-Apricot|משמש הוואכאו (Wachauer Marille)]] — 👍🏽👍🏽
 
 ## כלל אחד לטיול
 
@@ -104,4 +101,4 @@ verification:
 
 ## מקורות
 
-המקורות הספציפיים נמצאים בכל דף מין ובכל דף בית גידול. עדיפות ניתנה לעיריית וינה, Bundesgärten, Land Salzburg, BirdLife Österreich, Naturland Niederösterreich, UNESCO ו-Naturpark Jauerling-Wachau.
+המקורות הספציפיים נמצאים בכל דף מין ובכל דף בית גידול. עדיפות ניתנה לעיריית וינה, Bundesgärten, Land Salzburg, BirdLife Österreich, Naturland Niederösterreich, UNESCO ו-Naturpark Jauerling-Wachau. מקורות נוספים לשימושים ולפולקלור מופיעים בדפי הצמחים עצמם.

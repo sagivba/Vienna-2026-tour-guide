@@ -19,9 +19,9 @@ hero_image:
   author: "Lisa Nicvert"
   license: "CC BY-SA 4.0"
   license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
-  verified: 2026-08-28
+  verified: 2026-08-29
 verification:
-  general: 2026-08-28
+  general: 2026-08-29
 ---
 # אשוחית נורווגית (Gemeine Fichte) — *Picea abies*
 
@@ -41,16 +41,24 @@ verification:
 | **מתי לחפש** | כל היום ובכל מזג אוויר; עץ ירוק־עד. |
 | **רלוונטי לתחילת ספטמבר** | כן |
 
-<div class="nature-encounter" role="note" aria-label="סיכוי לראות: טוב">
-<svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-binoculars" aria-hidden="true"><path d="M18 10h.01"/><path d="M20.664 7.007a10 10 0 0 0-17.328 0"/><path d="M21.928 10.8a10 10 0 1 1-19.856 0"/><path d="M6 10h.01"/><path d="M9.5 17.482a6 6 0 0 0 5-.003"/><circle cx="18" cy="10" r="4"/><circle cx="6" cy="10" r="4"/></svg>
-<strong>סיכוי לראות בטיול שלנו: טוב</strong>
-
-יש סיבה אמיתית להרים את הראש ולחפש. זה לא מבטיח תצפית, אבל זה בהחלט לא מין תאורטי עבור הטיול שלנו.
+<div class="nature-encounter" role="note" aria-label="סיכוי תצפית: 3 מתוך 3">
+<strong>👍🏽👍🏽👍🏽</strong>
 </div>
 
 ## הסיפור
 
 האשוחית היא העץ שקל ביותר להאשים בטעות שהוא 'עץ חג המולד', ואז להמשיך הלאה. אבל באלפים האוסטריים היא גם מין טבעי וגם עץ שניטע בהיקפים עצומים ביערות מנוהלים. לכן יער אשוחית יכול להיות סיפור אקולוגי וסיפור כלכלי באותו זמן. כשניסע דרך Semmering, כדאי להסתכל לא רק על 'יער ירוק' אלא על המבנה שלו: אחידות גיל וגובה יכולה לספר לנו משהו על היד האנושית.
+
+## מה עושים איתו
+
+- זה אחד מעצי התעשייה החשובים באירופה: עץ לבנייה, קורות, רהיטים, לוחות ותעשיית הנייר.
+- חלק מעצי האשוחית בעלי תכונות אקוסטיות מתאימות משמשים כ־resonance wood בלוחות תהודה של כינורות וכלי מיתר אחרים.
+- קצות ענפים צעירים משמשים בחלק מהמטבחים הצפוניים כתיבול, ויש גם מסורות של משקאות מבוססי אשוחית.
+- וכמובן, זה אחד המינים המזוהים ביותר עם עץ חג המולד האירופי.
+
+## פולקלור, מסורת וסמליות
+
+האשוחית הפכה לסמל חורף אירופי הרבה מעבר ליער. מסורת קישוט עצי חג המולד התפתחה במרחב הגרמני, ו־Norway spruce היה אחד המינים הקלאסיים ששימשו לכך. Kew מציין גם מסורת מיתולוגית עתיקה שבה אשוחית נקשרה לארטמיס, אלת הציד והירח. לא כל סיפור על 'עץ חג המולד הראשון' אמין באותה מידה, ולכן עדיף להפריד בין המסורת המתועדת לבין האגדות המאוחרות שסביבה.
 
 ## איך מזהים
 
@@ -74,19 +82,20 @@ verification:
 
 ## אצלנו בטיול
 
-| מקום | הערכת סיכוי מעשית |
-|---|---|
-| [[Rax|Rax]] | גבוה |
-| [[Schneeberg|Schneeberg]] | גבוה |
-| [[Semmering-Railway|Semmering]] | גבוה |
+| מקום | סיכוי |
+|---|---:|
+| [[Rax|Rax]] | 👍🏽👍🏽👍🏽 |
+| [[Schneeberg|Schneeberg]] | 👍🏽👍🏽👍🏽 |
+| [[Semmering-Railway|Semmering]] | 👍🏽👍🏽👍🏽 |
 
-> ההערכה היא **הערכת תצפית למטייל**, לא נתון מדעי על שכיחות. היא משלבת בית גידול, עונה, שעות הפעילות והמסלול שלנו.
+> הסימונים הם **הערכת תצפית למטייל**, לא נתון מדעי על שכיחות. המקרא המלא נמצא ב־[[60-Nature/index|מדריך הטבע]].
 
-## כללי תצפית
-
-לא מאכילים, לא נוגעים, לא מרימים אבנים או גזעים, לא נכנסים לצמחיית חוף ולא יוצאים משביל כדי להתקרב. המטרה היא לראות את החיה או הצמח במקום שבו הם חיים, לא לגרום להם להשתתף בתוכנית.
+[[60-Nature/Observation-Guidelines|כללי תצפית בטבע]]
 
 ## מקורות
 
 - https://www.naturland-noe.at/landschaftsschutzgebiet-rax-schneeberg
+- https://www.kew.org/plants/norway-spruce
+- https://www.waldwissen.net/en/forestry/timber-and-markets/wood-processing/utilization-of-the-spruce
+- https://pubmed.ncbi.nlm.nih.gov/17471750/
 - https://commons.wikimedia.org/wiki/File:Picea_abies.png — תמונה ורישוי.

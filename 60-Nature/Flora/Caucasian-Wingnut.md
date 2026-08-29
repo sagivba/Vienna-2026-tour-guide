@@ -19,9 +19,9 @@ hero_image:
   author: "Gmihail"
   license: "CC BY-SA 4.0"
   license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
-  verified: 2026-08-28
+  verified: 2026-08-29
 verification:
-  general: 2026-08-28
+  general: 2026-08-29
 ---
 # פטרוקריה קווקזית (Kaukasische Flügelnuss) — *Pterocarya fraxinifolia*
 
@@ -41,16 +41,19 @@ verification:
 | **מתי לחפש** | כל היום. בסוף הקיץ שרשראות הפירות הארוכות הן סימן זיהוי מצוין. |
 | **רלוונטי לתחילת ספטמבר** | כן |
 
-<div class="nature-encounter" role="note" aria-label="סיכוי לראות: סביר">
-<svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-search" aria-hidden="true"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
-<strong>סיכוי לראות בטיול שלנו: סביר</strong>
-
-אפשרי בהחלט במקום ובתנאים הנכונים. כדאי לדעת מה לחפש, אבל לא לבנות את היום סביבו.
+<div class="nature-encounter" role="note" aria-label="סיכוי תצפית: 2 מתוך 3">
+<strong>👍🏽👍🏽</strong>
 </div>
 
 ## הסיפור
 
 זה לא עץ שמגיעים לווינה במיוחד כדי לראות, וזה בדיוק מה שעושה אותו כיף. העירייה מציינת פטרוקריה קווקזית בין העצים המיוחדים של Stadtpark, ואחד הפרטים אף מוגן כ־Naturdenkmal. השם הגרמני Flügelnuss — 'אגוז מכונף' — יעיל יותר מכל תיאור בוטני: הפירות הקטנים תלויים בשרשראות ארוכות ולכל אחד מהם כנפיים. פתאום פסל שטראוס מקבל תחרות מכיוון בלתי צפוי.
+
+## מה עושים איתו
+
+- באירופה הוא משמש בעיקר כעץ נוי גדול בפארקים ובמרחבים עירוניים.
+- היכולת שלו לחיות בקרקע לחה הופכת אותו לשימושי גם בייצוב גדות ובפרויקטים של שיקום אקולוגי.
+- במקורות אתנובוטניים מתועדים גם שימושים בעץ לרהיטים ולמוצרים קטנים, ובחלק מאזורי המוצא שימושים מסורתיים נוספים בקליפה ובפירות. אלה אינם הסיבה שבגללה נפגוש אותו בווינה — כאן הוא בעיקר עץ פארק מרשים.
 
 ## איך מזהים
 
@@ -73,18 +76,18 @@ verification:
 
 ## אצלנו בטיול
 
-| מקום | הערכת סיכוי מעשית |
-|---|---|
-| [[Stadtpark|שטאדטפארק]] | סביר |
+| מקום | סיכוי |
+|---|---:|
+| [[Stadtpark|שטאדטפארק]] | 👍🏽👍🏽 |
 
-> ההערכה היא **הערכת תצפית למטייל**, לא נתון מדעי על שכיחות. היא משלבת בית גידול, עונה, שעות הפעילות והמסלול שלנו.
+> הסימונים הם **הערכת תצפית למטייל**, לא נתון מדעי על שכיחות. המקרא המלא נמצא ב־[[60-Nature/index|מדריך הטבע]].
 
-## כללי תצפית
-
-לא מאכילים, לא נוגעים, לא מרימים אבנים או גזעים, לא נכנסים לצמחיית חוף ולא יוצאים משביל כדי להתקרב. המטרה היא לראות את החיה או הצמח במקום שבו הם חיים, לא לגרום להם להשתתף בתוכנית.
+[[60-Nature/Observation-Guidelines|כללי תצפית בטבע]]
 
 ## מקורות
 
 - https://www.wien.gv.at/freizeit/stadtpark
 - https://www.wien.gv.at/umwelt/naturdenkmaeler-1010
+- https://www.euforgen.org/species/pterocarya-fraxinifolia/
+- https://www.ucc.ie/en/tree-explorers/trees/a-z/pterocaryafraxinifolia/
 - https://commons.wikimedia.org/wiki/File:Pterocarya_fraxinifolia%2C_female_and_male_catkins.jpg — תמונה ורישוי.
