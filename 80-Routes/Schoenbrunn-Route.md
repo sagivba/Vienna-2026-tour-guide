@@ -18,11 +18,12 @@ route_map:
 
 ## המסלול
 
+הפסקה לפני הגנים, לפי הצורך.
+
 1. [[Schoenbrunn-Palace|ארמון שנברון (Schloss Schönbrunn)]]
-2. הפסקה
-3. [[Schoenbrunn-Gardens|גני שנברון (Schlosspark Schönbrunn)]]
-4. Neptune Fountain
-5. [[Gloriette|גלורייטה (Gloriette)]], רק אם מזג האוויר והכוח מתאימים
+2. [[Schoenbrunn-Gardens|גני שנברון (Schlosspark Schönbrunn)]]
+3. מזרקת נפטון (Neptunbrunnen)
+4. [[Gloriette|גלורייטה (Gloriette)]], רק אם מזג האוויר והכוח מתאימים
 
 ## כלל
 

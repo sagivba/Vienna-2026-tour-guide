@@ -27,10 +27,11 @@ route_map:
 
 1. [[Michaelerplatz|כיכר מיכאלר (Michaelerplatz)]]
 2. [[Hofburg|הופבורג (Hofburg)]]
-3. [[Sisi-Museum|מוזיאון סיסי (Sisi Museum)]] ו-[[Imperial-Apartments|הדירות הקיסריות (Kaiserappartements)]]
-4. [[Heldenplatz|כיכר הגיבורים (Heldenplatz)]]
-5. [[Neue-Burg|נוייה בורג (Neue Burg)]] מבחוץ
-6. [[Volksgarten|פולקסגארטן (Volksgarten)]] למנוחה
+3. [[Sisi-Museum|מוזיאון סיסי (Sisi Museum)]]
+4. [[Imperial-Apartments|הדירות הקיסריות (Kaiserappartements)]]
+5. [[Heldenplatz|כיכר הגיבורים (Heldenplatz)]]
+6. [[Neue-Burg|נוייה בורג (Neue Burg)]] מבחוץ
+7. [[Volksgarten|פולקסגארטן (Volksgarten)]] למנוחה
 
 ## אם יש פחות כוח
 

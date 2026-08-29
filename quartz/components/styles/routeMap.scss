@@ -678,6 +678,8 @@ svg.leaflet-image-layer.leaflet-interactive path {
 }
 
 .route-map {
+  inline-size: 100%;
+  box-sizing: border-box;
   margin-block: 1.5rem 2rem;
   padding: clamp(0.75rem, 3vw, 1.25rem);
   border: 1px solid var(--lightgray);
@@ -699,6 +701,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
     align-items: center;
   }
   &__canvas {
+    position: relative;
     inline-size: 100%;
     block-size: clamp(18rem, 48vw, 30rem);
     min-inline-size: 0;
@@ -707,8 +710,19 @@ svg.leaflet-image-layer.leaflet-interactive path {
     touch-action: manipulation;
     overflow: hidden;
   }
-  &__canvas > p {
-    margin: 1rem;
+  &__status {
+    position: absolute;
+    inset-block-start: 0.75rem;
+    inset-inline: 0.75rem;
+    z-index: 1000;
+    margin: 0;
+    padding: 0.55rem 0.75rem;
+    border-radius: 0.4rem;
+    background: color-mix(in srgb, var(--light) 92%, transparent);
+    box-shadow: 0 1px 4px rgb(0 0 0 / 25%);
+  }
+  &__status[hidden] {
+    display: none;
   }
   &__marker-wrap {
     background: transparent;
@@ -760,11 +774,19 @@ svg.leaflet-image-layer.leaflet-interactive path {
 }
 
 @media (max-width: 600px) {
+  .page-header:has(.route-map) {
+    flex-wrap: wrap;
+  }
+  .page-header:has(.route-map) > .popover-hint {
+    flex: 0 0 100%;
+    inline-size: 100%;
+    min-inline-size: 0;
+  }
   .route-map__visual {
     grid-template-columns: minmax(0, 1fr);
   }
   .route-map__canvas {
-    block-size: 20rem;
+    block-size: clamp(14rem, 65vw, 18rem);
   }
   .route-map__actions,
   .route-map__button {

@@ -1,7 +1,7 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/routeMap.scss"
 import { resolveRelative } from "../util/path"
-// @ts-ignore
+// @ts-expect-error Quartz's .inline loader imports this client script as a string at build time.
 import script from "./scripts/routeMap.inline"
 
 type MapStop = { page: string; label: string; lat: number; lon: number }
@@ -59,7 +59,9 @@ const RouteMap: QuartzComponent = ({ fileData, allFiles }: QuartzComponentProps)
           role="region"
           aria-label="מפת OpenStreetMap אינטראקטיבית של תחנות המסלול"
         >
-          <p>המפה האינטראקטיבית דורשת JavaScript. רשימת התחנות וקישורי הניווט זמינים להלן.</p>
+          <p class="route-map__status" role="status">
+            המפה האינטראקטיבית נטענת. רשימת התחנות וקישורי הניווט זמינים להלן.
+          </p>
         </div>
         <ol class="route-map__legend">
           {stops.map((stop) => (
