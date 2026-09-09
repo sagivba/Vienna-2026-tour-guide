@@ -32,6 +32,7 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     breadcrumbs,
     Component.ArticleTitle(),
+    Component.VisitStatus(),
     Component.ContentMeta({ separator: "·" }),
     Component.TagList(),
     Component.RouteMap(),

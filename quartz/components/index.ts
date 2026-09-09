@@ -23,6 +23,7 @@ import Comments from "./Comments"
 import Flex from "./Flex"
 import PrimaryNavigation from "./PrimaryNavigation"
 import RouteMap from "./RouteMap"
+import VisitStatus from "./VisitStatus"
 
 export {
   ArticleTitle,
@@ -50,4 +51,5 @@ export {
   Flex,
   PrimaryNavigation,
   RouteMap,
+  VisitStatus,
 }
