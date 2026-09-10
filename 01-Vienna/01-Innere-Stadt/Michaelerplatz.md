@@ -6,7 +6,7 @@ name_local: Michaelerplatz
 city: Vienna
 country: Austria
 district: Innere Stadt
-visit_status: planned
+visit_status: visited
 content_status: first-complete-build
 priority: high
 personal_rating: 4
@@ -58,6 +58,10 @@ recheck_before_visit:
 ![כיכר מיכאלר (Michaelerplatz)](https://commons.wikimedia.org/wiki/Special:FilePath/Michaelerplatz.jpg?width=1600)
 
 *צילום: Binter. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Michaelerplatz.jpg). רישיון: [Public Domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+
+## אצלנו בטיול
+
+ב־1 בספטמבר עמדנו בכיכר מול החפירה, חזית הופבורג ו־Looshaus. ההשוואה בין החזיתות נתנה הקשר ממשי ל[[Adolf-Loos|אדולף לוס]]: האיפוק של הקומות העליונות בולט במיוחד כשפונים ממנו אל הכניסה האימפריאלית. החפירה הוסיפה שכבה של עיר שמתחת לעיר; לא זיהינו עצמאית כל קיר או תקופה. הכיכר היא תחנה מתועדת ב[[Imperial-Vienna-Route|יום וינה האימפריאלית]].
 
 ## למה זה מעניין אותנו
 

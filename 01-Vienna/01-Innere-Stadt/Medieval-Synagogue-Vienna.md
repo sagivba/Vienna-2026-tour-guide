@@ -6,7 +6,7 @@ name_local: Mittelalterliche Synagoge
 city: Vienna
 country: Austria
 district: Innere Stadt
-visit_status: planned
+visit_status: visited
 content_status: first-complete-build
 priority: high
 personal_rating: 5
@@ -58,6 +58,26 @@ recheck_before_visit:
 ![בית הכנסת של וינה בימי הביניים (Mittelalterliche Synagoge)](https://commons.wikimedia.org/wiki/Special:FilePath/Model%20of%20the%20medieval%20synagogue%20at%20Judenplatz.jpg?width=1600)
 
 *צילום: Yair-haklai. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Model%20of%20the%20medieval%20synagogue%20at%20Judenplatz.jpg). רישיון: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).*
+
+## כיצד קראנו את השרידים בביקור
+
+הירידה אל השרידים ב־4 בספטמבר הייתה חלק מן הביקור ב[[Museum-Judenplatz|מוזיאון יודנפלאץ]]. בסיכום תועדו תוכנית החפירה ושרידי הבימה. התוכנית הייתה כלי התמצאות: היא אפשרה להשוות בין הקווים השלמים שעל גבי השרטוט לבין האבנים הנמוכות שנותרו בשטח.
+
+הבימה מוסיפה לשטח הבנוי שאלה של שימוש. בית כנסת אינו רק מעטפת קירות; הקריאה בתורה, הלימוד והתכנסות הקהילה קובעים יחסים בין מרכז החלל לסביבתו. זיהוי הבימה בסיכום הביקור עזר לקרוא את השרידים כמקום של פעילות. עדיין אין בידינו התאמה עצמאית של כל אבן מצולמת לתוכנית הארכיאולוגית, ולכן לא מסומנים כאן גבולות חדשים או פרטי שחזור שלא נבדקו.
+
+חשוב גם להפריד בין מה שנחשף לבין מה שמוצג לשם הסבר. דגם מציע מבנה שלם, ואילו החפירה משמרת חלקים מתקופות בנייה שונות. אין לראות בצבע של אבן או בגובהה לבדם הוכחה לתפקידה. ההשוואה בין הדגם, התוכנית והשרידים היא שמאפשרת להחזיק יחד את הבניין שאבד ואת העדות החומרית שנותרה ממנו.
+
+למעלה, ב[[Judenplatz|כיכר יודנפלאץ]], נוכחת שכבת זיכרון אחרת — [[Judenplatz-Holocaust-Memorial|אנדרטת השואה]]. הקרבה הגאוגרפית אינה מאחדת את גזירות ימי הביניים עם השואה לאירוע אחד. היא מחייבת לזכור שתי תקופות נבדלות, שכל אחת מהן הותירה את סימניה בעיר.
+
+<!-- image-placeholder:
+subject=שרידי הבימה וקווי הקירות לצד תוכנית החפירה
+context=בית הכנסת מתחת ליודנפלאץ
+placement=אחרי ההסבר על קריאת השרידים
+priority=HIGH
+suggested_count=2
+-->
+
+תיעוד הביקור: סיכום וינה היהודית, 4 בספטמבר 2026.
 
 ## למה זה מעניין אותנו
 

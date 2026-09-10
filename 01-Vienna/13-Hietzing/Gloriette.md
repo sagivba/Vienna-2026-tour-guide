@@ -6,7 +6,7 @@ name_local: Gloriette
 city: Vienna
 country: Austria
 district: Hietzing
-visit_status: planned
+visit_status: visited
 content_status: first-complete-build
 priority: medium
 personal_rating: 4
@@ -42,6 +42,10 @@ recheck_before_visit:
 ![גלורייטה (Gloriette)](https://commons.wikimedia.org/wiki/Special:FilePath/Gloriette%20Sch%C3%B6nbrunn%20%281%29.jpg?width=1600)
 
 *צילום: Stefan Schabel. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gloriette%20Sch%C3%B6nbrunn%20%281%29.jpg). רישיון: [Public Domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+
+## אצלנו בטיול
+
+ב־7 בספטמבר הגענו לאזור הגלורייטה והבריכה במהלך [[Schoenbrunn-Route|יום שנברון]]. המבט מן הגבעה חיבר את הארמון, הציר המרכזי והגנים למכלול אחד; ההעמקה בעיצוב המרחב נמצאת ב[[Schoenbrunn-Gardens|עמוד הגנים]]. התיעוד מתייחס לאזור הגבעה והבריכה, **לא לעלייה למרפסת הגג**. גם ישיבה בבית הקפה אינה מתועדת.
 
 ## למה זה מעניין אותנו
 

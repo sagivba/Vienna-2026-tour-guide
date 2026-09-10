@@ -6,7 +6,7 @@ name_local: Jüdisches Leopoldstadt
 city: Vienna
 country: Austria
 district: Leopoldstadt
-visit_status: planned
+visit_status: visited
 content_status: first-complete-build
 priority: high
 personal_rating: 5
@@ -54,6 +54,24 @@ recheck_before_visit:
 ![לאופולדשטאדט היהודית (Jüdisches Leopoldstadt)](https://commons.wikimedia.org/wiki/Special:FilePath/Wien%201830%20Vasquez%20Leopoldstadt%20Karmeliterviertel.jpg?width=1600)
 
 *צילום: Peter Gugerell. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wien%201830%20Vasquez%20Leopoldstadt%20Karmeliterviertel.jpg). רישיון: [Public Domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+
+## הקהילה בתוך שגרת הטיול
+
+בשהות שלנו, לאופולדשטאדט הייתה גם סביבת מגורים זמנית וגם מקום שבו חיפשנו מזון ושירותים. החנויות והנוכחות היהודית ברחוב נתנו להיסטוריה המקומית המשך בהווה. הסיפור האישי נמצא ב[[Leopoldstadt-Local-Life-Route|מסלול חיי השכונה]], שנצבר לאורך כמה ימים.
+
+ההבחנה מול [[Jewish-Vienna-Route|יודנפלאץ]] חשובה. שם עסקנו במוזיאון, בשרידים ובזיכרון; כאן החיים הפעילים הם חלק מן העניין. אין פירוש הדבר שהעבר נעדר מן הרחוב, או שהקהילה הנוכחית זהה לזו שלפני המלחמה. החיבור נוצר דווקא כשמכירים גם את השינוי.
+
+אפשר לקרוא חנות כשרה או מוסד קהילתי מתוך תפקידם למי שמשתמש בהם. הם מאפשרים שגרה, קשרים ובחירה מעשית. אין בתיעוד שלנו אישור כניסה לכל מוסד המוזכר ברקע, ולא כל שאלה על מסעדה מוכיחה שאכלנו בה. [[Food-and-Kosher-Reference|מדריך האוכל]] שומר בנפרד את הבחירות המתועדות ואת הבדיקות הנדרשות.
+
+<!-- image-placeholder:
+subject=רחוב או שילוט עסקי הקשורים לסביבה היהודית כפי שתועדו בטיול
+context=לאופולדשטאדט היהודית בהווה
+placement=אחרי הקשר בין קהילה לשגרה
+priority=HIGH
+suggested_count=2
+-->
+
+מקור ההתנסות: שיחות הטיול שמופו ב־Pass 1. ההיסטוריה והרקע הקהילתי נשמרים במקורות שבסוף העמוד.
 
 ## למה זה מעניין אותנו
 

@@ -24,6 +24,11 @@ hero_image:
 
 *צילום: Moritz Nähr. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gustav%20Klimt%20portrait%20by%20Moritz%20N%C3%A4hr.jpeg). רישיון: [Public Domain](https://creativecommons.org/publicdomain/mark/1.0/).*
 
+## אצלנו בטיול
+
+בטיול שלנו הקשר לקלימט עבר גם דרך הנוף: ב־3 בספטמבר עצרנו ליד אטרזה וארמון קאמר. לפי גוף התיירות האזורי, הארמון שימש נושא לכמה מציוריו בשנים 1908–1912. העצירה נותנת הקשר לעבודתו כצייר נוף, לצד הדמויות והזהב המזוהים איתו. [קלימט באטרזה — המקור האזורי](https://attersee-attergau.salzkammergut.at/aktivitaeten/kultur-und-brauchtum/kultur/gustav-klimt.html).
+
+העצירה מתועדת ב[[Salzburg-and-Lakes-Day-Trip|יום זלצבורג והאגמים]]. היא אינה ביקור במרכז קלימט או הליכה מלאה בשביל הנושא, ואין בסיכומי הטיול ראיה לביקור בבלוודרה.
 
 ## מי האדם ולמה אכפת לנו
 

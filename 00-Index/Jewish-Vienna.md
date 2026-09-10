@@ -17,6 +17,12 @@ name_he: וינה היהודית
 - [[Stadttempel]]
 - [[Vienna-Jewish-Leopoldstadt]]
 
+## מסלולים וחיים בעיר
+
+- [[Jewish-Vienna-Route|הביקור בווינה היהודית]]
+- [[Leopoldstadt-Local-Life-Route|חיי יום־יום בלאופולדשטאט]]
+- [[Stefan-Zweig-Vienna-Route|החיפוש האישי בעקבות סטפן צווייג]]
+
 ## אנשים
 
 - [[Theodor-Herzl|תאודור הרצל (Theodor Herzl)]]

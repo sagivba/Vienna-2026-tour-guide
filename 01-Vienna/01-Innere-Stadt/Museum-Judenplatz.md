@@ -6,7 +6,7 @@ name_local: Museum Judenplatz
 city: Vienna
 country: Austria
 district: Innere Stadt
-visit_status: planned
+visit_status: visited
 content_status: first-complete-build
 priority: high
 personal_rating: 5
@@ -58,6 +58,24 @@ recheck_before_visit:
 ![מוזיאון יודנפלאץ (Museum Judenplatz)](https://commons.wikimedia.org/wiki/Special:FilePath/Model%20of%20the%20medieval%20synagogue%20at%20Judenplatz.jpg?width=1600)
 
 *צילום: Yair-haklai. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Model%20of%20the%20medieval%20synagogue%20at%20Judenplatz.jpg). רישיון: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).*
+
+## הביקור שלנו — מפה, שרידים וזיכרון
+
+ב־4 בספטמבר נכנסנו למוזיאון יודנפלאץ וירדנו אל [[Medieval-Synagogue-Vienna|שרידי בית הכנסת]]. מפת הרובע ותוכנית החפירה עזרו לחבר בין שני קני מידה: הסביבה שבה חיה הקהילה, והמבנה שבו התכנסה. בסיכום הביקור הוזכרו גם שרידי הבימה. מעבר ממפה לאבן הופך את הרקע ההיסטורי לשאלה שאפשר לבדוק בעיניים: מה מתוך הבניין עדיין נמצא כאן, ואילו חלקים אנו משלימים בעזרת תצוגה ושחזור?
+
+בזמן הביקור הוצגה בסניף יודנפלאץ התערוכה **Alles vergessen / Everything Forgotten**, שנקבעה ל־28 בינואר עד 17 בספטמבר 2026. התערוכה עסקה בכוחן של שכחה והשכחה, ובהבדל בין תהליך אישי לבין מחיקה ציבורית מכוונת. בין הקשריה היו ההיסטוריה הנאצית, ההדחקה שלאחר המלחמה ופרשת ולדהיים. זהו אימות של המקום והמועד, אך הוא אינו מזהה כשלעצמו כל חפץ שנדון בשיחה. [עמוד התערוכה הרשמי](https://www.jmw.at/ausstellung/alles_vergessen).
+
+בסיכום היום מופיעים גם כתבי יד, חפצי כסף והביטוי **Tacit Forgetting**. כרגע חסר חיבור חד־משמעי בין כל אחד מהם לתצלום, לתווית ולסניף. לכן אין כאן קטלוג שלהם, ואין להסיק מן האזכור שביקרנו גם ב[[Jewish-Museum-Vienna|סניף המוזיאון בדורותיארגאסה]]. זיהוי התערוכה פתר חלק משאלת ההקשר; זיהוי המוצגים נשאר ב[[Verification-Queue|תור האימות]].
+
+ההעמקה הארכיאולוגית נמצאת בעמוד בית הכנסת; מקומה של הכיכר בתוך היום כולו מתואר ב[[Jewish-Vienna-Route|מסלול וינה היהודית]]. כאן נשמר המוזיאון כחיבור בין ידיעה על קהילה שחיה במקום לבין השאלה כיצד זוכרים אותה כיום.
+
+<!-- image-placeholder:
+subject=מפת הרובע, תוכנית החפירה ותווית התערוכה
+context=מוזיאון יודנפלאץ
+placement=בין קריאת המפה לדיון בזיכרון
+priority=HIGH
+suggested_count=3
+-->
 
 ## למה זה מעניין אותנו
 

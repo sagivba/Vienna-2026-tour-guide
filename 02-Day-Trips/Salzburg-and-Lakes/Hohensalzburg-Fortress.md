@@ -35,6 +35,10 @@ nearby_places:
 
 *צילום: Carsten Steger. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aerial%20image%20of%20Hohensalzburg%20Fortress%20%28view%20from%20the%20southwest%29.jpg). רישיון: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
+## אצלנו בטיול
+
+המצודה נראתה במהלך [[Salzburg-and-Lakes-Day-Trip|יום זלצבורג והאגמים]], מן התצפית ומן העיר. ב[[Salzburg-Old-Town-Route|הליכה בעיר העתיקה]] היא נשארה נוכחות מעל קו הגגות. **לא מתועדת כניסה למצודה או נסיעה בפוניקולר**; לפיכך הביקור באתר עצמו נשאר מתוכנן. התיאורים והזמנים שלהלן נועדו לאפשרות של ביקור עתידי.
+
 ## למה הוא מעניין
 
 זה לא רק נוף יפה. המבצר מסביר מי שלט בזלצבורג ולמה שליט דתי היה צריך מעל העיר מערכת הגנה בגודל שמבהיר לכולם שהוא לא מסתפק באמונה.
