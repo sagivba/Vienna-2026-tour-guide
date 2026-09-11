@@ -6,7 +6,7 @@ name_local: Judenplatz
 city: Vienna
 country: Austria
 district: Innere Stadt
-visit_status: planned
+visit_status: visited
 content_status: first-complete-build
 priority: high
 personal_rating: 5
@@ -58,6 +58,10 @@ recheck_before_visit:
 ![יודנפלאץ (Judenplatz)](https://commons.wikimedia.org/wiki/Special:FilePath/20250503%20Judenplatz%20Holocaust%20Memorial.jpg?width=1600)
 
 *צילום: Flocci Nivis. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:20250503%20Judenplatz%20Holocaust%20Memorial.jpg). רישיון: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*
+
+## אצלנו בטיול
+
+ב־4 בספטמבר התבוננו בכיכר, באנדרטה ובפסל לסינג, ונכנסנו ל[[Museum-Judenplatz|מוזיאון יודנפלאץ]]. הפסל הוא פרט נוסף בתוך כיכר שמחזיקה כמה שכבות של זיכרון; אין צורך להפוך את העצירה לידו לביוגרפיה נפרדת. המעבר מן המרחב הציבורי אל שרידי בית הכנסת מתועד ב[[Jewish-Vienna-Route|מסלול וינה היהודית]].
 
 ## למה זה מעניין אותנו
 

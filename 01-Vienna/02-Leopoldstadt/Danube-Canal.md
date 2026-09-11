@@ -6,7 +6,7 @@ name_local: Donaukanal
 city: Vienna
 country: Austria
 district: Leopoldstadt
-visit_status: planned
+visit_status: visited
 content_status: first-complete-build
 priority: medium
 personal_rating: 4
@@ -38,6 +38,24 @@ recheck_before_visit:
 ![תעלת הדנובה (Donaukanal)](https://commons.wikimedia.org/wiki/Special:FilePath/Donaukanal%20%28Danube%20Canal%29%2C%20Wien%20-%202.jpg?width=1600)
 
 *צילום: Sandor Somkuti. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Donaukanal%20%28Danube%20Canal%29%2C%20Wien%20-%202.jpg). רישיון: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
+## התעלה שהלכנו לאורכה
+
+ההליכה לאורך התעלה הייתה חלק מן השהות בווינה. היא נתנה מבט על קנה המידה העירוני שמתחת לחזיתות: גדות, גשרים, מעברים והמרחק מן הרחוב אל המים. מן הבסיס בלאופולדשטאדט התעלה שייכת גם להתמצאות בעיר, כפי שמתואר ב[[Leopoldstadt-Local-Life-Route|סיפור חיי השכונה]].
+
+מעניין להחזיק יחד את הגדה הגלויה ואת ההיסטוריה ההנדסית המתוארת בהמשך. מה שנראה כיום כמרחב הליכה קשור גם לוויסות מים, לתנועה ולניקוז. אין בידינו מסלול מדוד של ההליכה שלנו או אישור שנכנסנו למתקן תשתית כלשהו. ההתבוננות הייתה במרחב הציבורי ובמה שנראה ממנו.
+
+אותו עיקרון חל על הטבע. [[Urban-Waterways-Vienna|עמוד מסדרונות המים]] מסביר מדוע גדות שונות מציעות תנאים שונים לבעלי חיים. אין בסיכום ההליכה תצפית מאומתת בבונה, בעטלף או במין ציפור מסוים. אפשר לשמר את הסקרנות כלפי הנהר בלי להוסיף לו רשימת תצפיות שלא נעשו.
+
+<!-- image-placeholder:
+subject=הגדה והמים במקטע שבו הלכנו, לצד גשר או פרט תשתית
+context=ההליכה בתעלת הדנובה
+placement=אחרי הקשר בין החוויה לתשתית
+priority=HIGH
+suggested_count=2
+-->
+
+מקור הביקור: שיחות הטיול על ההליכה בתעלה; הרקע ההיסטורי נשמר במקורות המקוריים שלהלן.
 
 ## למה זה מעניין אותנו
 

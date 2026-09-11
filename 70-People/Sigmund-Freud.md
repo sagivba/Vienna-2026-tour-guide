@@ -24,6 +24,9 @@ hero_image:
 
 *צילום: Library of Congress, Miscellaneous Items in High Demand / photographer not identified. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sigmund%20Freud,%20bust%20portrait,%20facing%20front%20LCCN2010651703.jpg). רישיון: [Public Domain](https://creativecommons.org/publicdomain/mark/1.0/).*
 
+## אצלנו בטיול
+
+פרויד נכנס לסיפור הטיול גם דרך [[Stefan-Zweig-Vienna-Route|החיפוש האישי בעקבות סטפן צווייג]]. בשיחה מאותו יום הוזכר מעבר חיצוני ליד המקום המזוהה עם פרויד; אין תיעוד לכניסה למוזיאון. ההקשר כאן הוא מפגש בעיר בין שני עולמות של כתיבה והתבוננות בנפש, ולא טענה שראינו את חדריו או את מוצגי האוסף.
 
 ## מי האדם ולמה אכפת לנו
 

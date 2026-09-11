@@ -32,7 +32,7 @@ jobs:
       - name: Install dependencies
         run: npm ci
       - name: Build Quartz
-        run: npx quartz build
+        run: npx quartz build --concurrency 1
       - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v4
         with:

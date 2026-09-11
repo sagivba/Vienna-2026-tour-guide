@@ -24,6 +24,9 @@ hero_image:
 
 *צילום: Franz Löwy. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Adolf%20Loos%20(1870%E2%80%931933)%20(vor%201920%3B%20Franz%20L%C3%B6wy).jpg). רישיון: [Public Domain](https://creativecommons.org/publicdomain/mark/1.0/).*
 
+## אצלנו בטיול
+
+הקשר הממשי שלנו ללוס היה ההתבוננות ב־Looshaus ב[[Michaelerplatz|כיכר מיכאלר]], ב־1 בספטמבר. ההשוואה עם חזית הופבורג עזרה להבין את הדיון בקישוט דרך שני בניינים הנמצאים זה מול זה. זו התבוננות בחזית במסגרת [[Imperial-Vienna-Route|היום האימפריאלי]], ולא סיור מתועד בפנים המבנה. צילום הכיכר שייך לעמוד המקום, שבו אפשר לראות את היחס בין החזיתות.
 
 ## מי האדם ולמה אכפת לנו
 

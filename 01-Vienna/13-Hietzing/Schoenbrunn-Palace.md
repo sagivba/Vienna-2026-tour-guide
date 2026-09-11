@@ -6,7 +6,7 @@ name_local: Schloss Schönbrunn
 city: Vienna
 country: Austria
 district: Hietzing
-visit_status: planned
+visit_status: visited
 content_status: first-complete-build
 priority: high
 personal_rating: 5
@@ -42,6 +42,24 @@ recheck_before_visit:
 ![ארמון שנברון (Schloss Schönbrunn)](https://commons.wikimedia.org/wiki/Special:FilePath/Schonbrunn%20Palace.jpg?width=1600)
 
 *צילום: Truete. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Schonbrunn%20Palace.jpg). רישיון: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).*
+
+## שנברון אחרי הביקור שלנו
+
+ב־7 בספטמבר ביקרנו בחדרי הארמון והמשכנו אל הגנים. המפגש העמיק מעבר לחזית ולסיפור השושלת: שולחנות ומפות, אולמות ייצוג, שעונים, פנסים ופרטי דלתות נתנו מקום גם לעבודת היומיום ולמלאכה. את היום עצמו מתעד [[Schoenbrunn-Route|מסלול שנברון]]; העמוד הזה נשאר המקום לקרוא את התפתחות הארמון לאורך התקופות.
+
+כדאי להחזיק יחד שני קני מידה. הגדול הוא בית הבסבורג: מעון קיץ, מרכז חצר, תפאורה לטקס ולמדיניות. הקטן הוא החדר והחפץ: המקום שבו אדם עובד, המפה שבה הוא מסתכל, והאומן שבנה או עיטר את מה שסביבו. הביקור חיבר ביניהם בלי לבטל את ההבדלים בין תקופת מריה תרזה לתקופת פרנץ יוזף.
+
+ההעמקה ב[[Schoenbrunn-Palace-Interiors|חדרים ובאולמות]] מפרידה בין תפקידי החללים, וב[[Schoenbrunn-Palace-Clocks|שעוני הארמון]] בין מראה חיצוני לבין מנגנון שעדיין צריך לזהות. הקשר המשפחתי ממשיך אל [[Empress-Elisabeth-of-Austria|אליזבת, סיסי]], ואילו [[Schoenbrunn-Gardens|הגנים]] מראים כיצד רעיונות של סדר וייצוג מתרחבים אל הנוף.
+
+<!-- image-placeholder:
+subject=חזית הארמון מחצר הכבוד ופרט פנס או מנעול
+context=שנברון בין קנה המידה הקיסרי למלאכה
+placement=לאחר מבוא הביקור
+priority=HIGH
+suggested_count=2
+-->
+
+תיעוד הביקור: סיכום שנברון מ־7 בספטמבר 2026. זמני הביקור המומלצים בהמשך הם המלצות מן התכנון, ואינם מדידה של משך שהותנו.
 
 ## למה זה מעניין אותנו
 

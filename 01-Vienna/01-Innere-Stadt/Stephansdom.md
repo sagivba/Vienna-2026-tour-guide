@@ -6,7 +6,7 @@ name_local: Stephansdom
 city: Vienna
 country: Austria
 district: Innere Stadt
-visit_status: planned
+visit_status: visited
 content_status: first-complete-build
 priority: high
 personal_rating: 5
@@ -58,6 +58,10 @@ recheck_before_visit:
 ![קתדרלת סטפנוס הקדוש (Stephansdom)](https://commons.wikimedia.org/wiki/Special:FilePath/Wien%2C%20Stephansdom%202.jpg?width=1600)
 
 *צילום: Anna Saini. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wien%2C%20Stephansdom%202.jpg). רישיון: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+
+## אצלנו בטיול
+
+ב־4 בספטמבר עצרנו מול הקתדרלה במסגרת [[Vienna-Centre-Walk-Route|ההליכה במרכז וינה]]. הביקור המתועד כאן הוא **מבחוץ**: הרחבה והחזית. אין אישור לסיור פנימי, לקטקומבות או לעלייה למגדל. האפשרויות האלה נשמרות ברקע המעשי של העמוד לביקור עתידי, ואינן מתארות את מה שעשינו באותו יום.
 
 ## למה זה מעניין אותנו
 
