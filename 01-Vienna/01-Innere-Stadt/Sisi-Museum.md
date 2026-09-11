@@ -6,7 +6,7 @@ name_local: Sisi Museum
 city: Vienna
 country: Austria
 district: Innere Stadt
-visit_status: planned
+visit_status: visited
 content_status: first-complete-build
 priority: high
 personal_rating: 5
@@ -58,6 +58,24 @@ recheck_before_visit:
 ![מוזיאון סיסי (Sisi Museum)](https://commons.wikimedia.org/wiki/Special:FilePath/Sisi%20Museum%2C%20Vienna.jpg?width=1600)
 
 *צילום: GeoO. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sisi%20Museum%2C%20Vienna.jpg). רישיון: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+
+## הביקור שלנו — חפצים שאפשר לקחת לדרך
+
+ב־1 בספטמבר ביקרנו במוזיאון כחלק מ[[Imperial-Vienna-Route|היום האימפריאלי]]. בין החפצים שתועדו הייתה ערכת סכו״ם לנסיעות. בתוך תצוגה על קיסרית, דווקא חפץ נייד כזה מאפשר לחשוב על החיים מחוץ לארמון: אילו הרגלים לוקחים למסע, ואיך משמרים סדר אישי כשמחליפים מקום. אין בידינו זיהוי קטלוגי של הערכה או פירוט מאומת של כל חלקיה, ולכן היא נשארת כאן כפי שנרשמה בסיכום הביקור.
+
+נושא נוסף שעלה היה משמעת הגוף של [[Empress-Elisabeth-of-Austria|אליזבת]]. קל להפוך את העיסוק שלה במראה לאוסף אנקדוטות. הקריאה המעניינת יותר מחברת בין הזמן שהוקדש לגוף, האפשרות לשלוט בשגרה האישית והציפיות שהוטלו על אישה בתפקיד ייצוגי. זו פרשנות למכלול התצוגה, ולא אבחנה רפואית או הסבר יחיד לאישיותה.
+
+המשך הביקור ב[[Imperial-Apartments|דירות הקיסריות]] נתן לשאלה הזאת מרחב ממשי: שם תועדו טבעות האימון, מתקן העץ והאמבטיה. ההפרדה בין שני העמודים חשובה גם לזיכרון הביקור. המוזיאון מספר חיים באמצעות תצוגה; הדירות מוסיפות את החדרים ואת הציוד הקשור לשגרת המגורים. אין צורך לייחס את כל מה שראינו באותו רצף לאוסף אחד.
+
+<!-- image-placeholder:
+subject=ערכת הסכו״ם לנסיעות והכיתוב שלצדה
+context=מוזיאון סיסי — חפץ אישי נייד
+placement=לאחר תיאור הערכה
+priority=HIGH
+suggested_count=2
+-->
+
+תיעוד הביקור: סיכום היום האימפריאלי, 1 בספטמבר 2026.
 
 ## למה זה מעניין אותנו
 

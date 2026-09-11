@@ -14,8 +14,15 @@ name_he: וינה הקיסרית
 - [[Imperial-Apartments]]
 - [[Heldenplatz]]
 - [[Schoenbrunn-Palace]]
+- [[Schoenbrunn-Palace-Interiors|חללי ארמון שנברון]]
+- [[Schoenbrunn-Palace-Clocks|השעונים של שנברון]]
 - [[Schoenbrunn-Gardens]]
 - [[Gloriette]]
+
+## מסלולים
+
+- [[Imperial-Vienna-Route|הביקור בווינה הקיסרית]]
+- [[Schoenbrunn-Route|יום שנברון]]
 
 ## אנשים
 

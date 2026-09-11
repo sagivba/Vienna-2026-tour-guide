@@ -6,7 +6,7 @@ name_local: Hotel IMLAUER Wien
 city: Vienna
 country: Austria
 district: Leopoldstadt
-visit_status: planned
+visit_status: visited
 content_status: first-complete-build
 priority: high
 personal_rating: 5
@@ -44,6 +44,10 @@ recheck_before_visit:
   - transport
 ---
 # מלון IMLAUER Wien (Hotel IMLAUER Wien) - מלון הבסיס של הטיול ברובע לאופולדשטאדט
+
+## אצלנו בטיול
+
+המלון שימש בפועל בסיס ללינה וליציאות ברחבי וינה. החזרות אליו לאורך כמה ימים הפכו את סביבתו לחלק מן הטיול: רחובות, חנויות והמרחב היהודי החי של לאופולדשטאדט. החוויות המצטברות מרוכזות ב[[Leopoldstadt-Local-Life-Route|מסלול החיים המקומיים]], שאינו מוצג כיום הליכה יחיד. אין כאן דירוג חדש של שירותי המלון או תאריכי צ׳ק־אין וצ׳ק־אאוט שלא תועדו.
 
 ## למה זה מעניין אותנו
 

@@ -6,7 +6,7 @@ name_local: Hofburg
 city: Vienna
 country: Austria
 district: Innere Stadt
-visit_status: planned
+visit_status: visited
 content_status: first-complete-build
 priority: high
 personal_rating: 5
@@ -58,6 +58,10 @@ recheck_before_visit:
 ![הופבורג (Hofburg)](https://commons.wikimedia.org/wiki/Special:FilePath/Wien%20Hofburg%20Michaelertrakt.jpg?width=1600)
 
 *צילום: Radler59. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wien%20Hofburg%20Michaelertrakt.jpg). רישיון: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+
+## אצלנו בטיול
+
+ביקרנו במתחם ב־1 בספטמבר. הביקור המתועד כולל את [[Sisi-Museum|מוזיאון סיסי]] ואת [[Imperial-Apartments|הדירות הקיסריות]], שבהן תועדו גם מתקני ההתעמלות והאמבטיה. [[Imperial-Vienna-Route|עמוד היום האימפריאלי]] מחבר את הפנים לחצרות ולכיכרות שמסביב. הופבורג הוא מתחם רחב: ביקור בחלקים האלה אינו מעיד שנכנסנו לכל אחד מן המוזיאונים והאגפים המוזכרים ברקע שלהלן.
 
 ## למה זה מעניין אותנו
 

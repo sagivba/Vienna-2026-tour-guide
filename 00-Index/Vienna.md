@@ -15,10 +15,12 @@ name_local: Wien
 - [[Vienna-Music-City|וינה והמוזיקה]]
 - [[Vienna-Coffeehouse-Culture|תרבות בתי הקפה]]
 - [[Vienna-World-War-II|וינה בתקופת הנאצים ומלחמת העולם השנייה]]
+- [[Museums-in-Vienna|המוזיאונים שפגשנו בווינה]]
 
 ## לפי אזור
 
-- Innere Stadt: [[Hofburg]], [[Stephansdom]], [[Judenplatz]], [[Vienna-State-Opera]]
+- Innere Stadt: [[Hofburg]], [[Stephansdom]], [[Judenplatz]], [[Maria-am-Gestade]], [[Kunsthistorisches-Museum]], [[Vienna-State-Opera]]
 - Leopoldstadt: [[Hotel-IMLAUER-Wien]], [[Karmelitermarkt]], [[Augarten]], [[Danube-Canal]]
-- Hietzing: [[Schoenbrunn-Palace]], [[Schoenbrunn-Gardens]], [[Gloriette]]
+- Hietzing: [[Schoenbrunn-Palace]], [[Schoenbrunn-Palace-Interiors]], [[Schoenbrunn-Palace-Clocks]], [[Schoenbrunn-Gardens]], [[Gloriette]]
+- Penzing: [[Technisches-Museum-Wien]]
 - Landstraße: [[Belvedere]], [[Stadtpark]]

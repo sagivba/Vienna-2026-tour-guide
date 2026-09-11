@@ -6,7 +6,7 @@ name_local: Mahnmal für die österreichischen jüdischen Opfer der Schoah
 city: Vienna
 country: Austria
 district: Innere Stadt
-visit_status: planned
+visit_status: visited
 content_status: first-complete-build
 priority: high
 personal_rating: 5
@@ -58,6 +58,18 @@ recheck_before_visit:
 ![אנדרטת השואה ביודנפלאץ (Mahnmal für die österreichischen jüdischen Opfer der Schoah)](https://commons.wikimedia.org/wiki/Special:FilePath/20250503%20Judenplatz%20Holocaust%20Memorial.jpg?width=1600)
 
 *צילום: Flocci Nivis. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:20250503%20Judenplatz%20Holocaust%20Memorial.jpg). רישיון: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*
+
+## אצלנו בטיול
+
+האנדרטה הייתה חלק מן ההתבוננות ביודנפלאץ ב־4 בספטמבר, לצד הביקור במוזיאון ובשרידי בית הכנסת. [[Jewish-Vienna-Route|סיפור היום]] מחבר בין המקומות בלי לערבב את התקופות שהם מנציחים. צילום אישי של המבט מן הכיכר יוכל להשלים את התיעוד לאחר התאמתו למקום; תמונת הרקע הקיימת בעמוד אינה צילום שלנו.
+
+<!-- image-placeholder:
+subject=האנדרטה בתוך כיכר יודנפלאץ מתוך תצלומי היום
+context=ביקור 4 בספטמבר
+placement=לאחר פסקת הביקור ורק לאחר התאמת התצלום
+priority=MEDIUM
+suggested_count=2
+-->
 
 ## למה זה מעניין אותנו
 

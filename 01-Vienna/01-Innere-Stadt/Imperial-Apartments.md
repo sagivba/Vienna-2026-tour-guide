@@ -6,7 +6,7 @@ name_local: Kaiserappartements
 city: Vienna
 country: Austria
 district: Innere Stadt
-visit_status: planned
+visit_status: visited
 content_status: first-complete-build
 priority: high
 personal_rating: 5
@@ -58,6 +58,26 @@ recheck_before_visit:
 ![הדירות הקיסריות (Kaiserappartements)](https://commons.wikimedia.org/wiki/Special:FilePath/Wien%20Hofburg%20Michaelertrakt.jpg?width=1600)
 
 *צילום: Radler59. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wien%20Hofburg%20Michaelertrakt.jpg). רישיון: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+
+## הביקור שלנו — גוף, עבודה ושגרה
+
+ב־1 בספטמבר עברנו בדירות כחלק מן הביקור ב[[Sisi-Museum|מוזיאון סיסי]] וב[[Hofburg|הופבורג]]. בסיכום תועדו טבעות אימון, מתקן עץ ואמבטיה. אלה חפצים שמקרבים את חיי הארמון אל פעולות פשוטות: תנועה, רחצה והכנה ליום. הם מוסיפים משקל ממשי לעיסוק בגוף שעליו למדנו בתצוגה.
+
+אתר הארמון מתאר את חדר ההלבשה וההתעמלות כחלל ששימש את אליזבת גם לטיפוח השיער היומיומי. חדר הרחצה הותקן עבורה ב־1876. החיבור בין שימושים אלה מבהיר שהחדר הפרטי היה גם מקום של עבודה מתמשכת על הגוף; הוא לא היה רק הפוגה מחיי הטקס. המקור מזהה את תפקידי החדרים, אבל אין בו בסיס לשחזר את התרגילים שבוצעו בכל אחד מן המתקנים שצילמנו. [תיאור החדרים באתר הופבורג](https://www.sisimuseum-hofburg.at/en/about-the-location/imperial-apartments/rooms/).
+
+בחדרי פרנץ יוזף הדגש ההיסטורי הוא עבודה וקבלת קהל. האתר מסביר שלבני המשפחה היו דירות נפרדות, בתוך מערכת חצר משותפת. כך אפשר לקרוא את המתח בין פרטיות לתפקיד גם דרך חלוקת המרחב. אין צורך להניח שכל חפץ שנותר בחדר היה בשימוש יומיומי של הדייר המפורסם ביותר שלו.
+
+החדרים האלה נשארים נפרדים מ[[Schoenbrunn-Palace-Interiors|חדרי שנברון]], שבהם ביקרנו בהמשך הטיול. הופבורג היה מרכז המגורים החורפי ושנברון שימש למגורי הקיץ; העמודים מתעדים את המוצגים בכל אתר בלי להעביר ביניהם אמבטיות, מתקנים או חדרי עבודה.
+
+<!-- image-placeholder:
+subject=טבעות האימון, מתקן העץ והאמבטיה שתועדו
+context=הדירות הקיסריות בהופבורג
+placement=אחרי תיאור השגרה הגופנית
+priority=HIGH
+suggested_count=3
+-->
+
+תיעוד הביקור: סיכום היום האימפריאלי, 1 בספטמבר 2026.
 
 ## למה זה מעניין אותנו
 

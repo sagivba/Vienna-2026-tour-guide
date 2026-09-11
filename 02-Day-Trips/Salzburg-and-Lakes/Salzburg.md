@@ -4,7 +4,7 @@ name: Salzburg
 name_he: זלצבורג
 name_local: Salzburg
 country: Austria
-status: planned
+status: visited
 content_status: first-complete-build
 tags: [place, salzburg, history, music]
 hero_image:
@@ -27,6 +27,10 @@ nearby_places: []
 ![זלצבורג (Salzburg)](https://commons.wikimedia.org/wiki/Special:FilePath/Photo%20over%20the%20old%20town%20of%20Salzburg.jpg?width=1600)
 
 *צילום: (WT-shared) Adestro. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Photo%20over%20the%20old%20town%20of%20Salzburg.jpg). רישיון: [Public Domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+
+## אצלנו בטיול
+
+ביקרנו בזלצבורג ב־3 בספטמבר במסגרת [[Salzburg-and-Lakes-Day-Trip|טיול יום מאורגן מווינה]], ללא לינה בעיר. [[Salzburg-Old-Town-Route|מסלול העיר העתיקה]] מחזיק את ההליכה המתועדת, ו[[Salzburg-Altstadt|עמוד העיר העתיקה]] מעמיק בפרטים שראינו. רשימת האתרים הרחבה שלהלן היא רקע על העיר, ואינה רשימת כניסות שביצענו.
 
 ## למה העיר מעניינת
 

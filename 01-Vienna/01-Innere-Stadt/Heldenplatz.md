@@ -6,7 +6,7 @@ name_local: Heldenplatz
 city: Vienna
 country: Austria
 district: Innere Stadt
-visit_status: planned
+visit_status: visited
 content_status: first-complete-build
 priority: high
 personal_rating: 5
@@ -58,6 +58,10 @@ recheck_before_visit:
 ![כיכר הגיבורים (Heldenplatz)](https://commons.wikimedia.org/wiki/Special:FilePath/Heldenplatz%2C%20Vienna.jpg?width=1600)
 
 *צילום: Andrzej O. מקור: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Heldenplatz%2C%20Vienna.jpg). רישיון: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).*
+
+## אצלנו בטיול
+
+הכיכר מופיעה בחלקו האחרון של סיכום [[Imperial-Vienna-Route|היום האימפריאלי]], 1 בספטמבר. עצרנו על המרחב הפתוח ועל שני הפסלים הרכובים. קנה המידה שונה מזה של מיכאלרפלאץ: החזית הארוכה והפסלים נקראים יחד בתוך כיכר גדולה. זיהוי כל פסל בתצלום מסוים דורש התאמה נפרדת; אין מן העצירה בכיכר ראיה שביקרנו גם בגנים הסמוכים המופיעים בתכנון.
 
 ## למה זה מעניין אותנו
 
